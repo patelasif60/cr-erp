@@ -1,0 +1,66 @@
+[2023-05-12 15:18:31] local.INFO: ===========GetPickedItems Start ===================================  
+[2023-05-12 15:18:31] local.INFO: ------------------------  
+[2023-05-12 15:18:31] local.INFO: Product: ETFZ-1001-9715  
+[2023-05-12 15:18:31] local.INFO: *****  
+[2023-05-12 15:18:31] local.INFO: Kit Component ETIN: ETFZ-1001-9699  
+[2023-05-12 15:18:31] local.INFO: Sub-order Number: 12179.001_XE_0  
+[2023-05-12 15:18:31] local.INFO: Pick Qty: 1  
+[2023-05-12 15:18:31] local.INFO: *****  
+[2023-05-12 15:18:31] local.INFO: Kit Component ETIN: ETFZ-1001-9705  
+[2023-05-12 15:18:31] local.INFO: Sub-order Number: 12179.001_XE_0  
+[2023-05-12 15:18:31] local.INFO: Pick Qty: 1  
+[2023-05-12 15:18:31] local.INFO: *****  
+[2023-05-12 15:18:31] local.INFO: Kit Component ETIN: ETFZ-1001-9700  
+[2023-05-12 15:18:31] local.INFO: Sub-order Number: 12179.001_XE_0  
+[2023-05-12 15:18:31] local.INFO: Pick Qty: 1  
+[2023-05-12 15:18:31] local.INFO: *****  
+[2023-05-12 15:18:31] local.INFO: Kit Component ETIN: ETFZ-1001-9701  
+[2023-05-12 15:18:31] local.INFO: Sub-order Number: 12179.001_XE_0  
+[2023-05-12 15:18:31] local.INFO: Pick Qty: 1  
+[2023-05-12 15:18:31] local.INFO: *****  
+[2023-05-12 15:18:31] local.INFO: Kit Component ETIN: ETFZ-1001-9706  
+[2023-05-12 15:18:31] local.INFO: Sub-order Number: 12179.001_XE_0  
+[2023-05-12 15:18:31] local.INFO: Pick Qty: 1  
+[2023-05-12 15:18:31] local.INFO: *****  
+[2023-05-12 15:18:31] local.INFO: Kit Component ETIN: ETFZ-1001-9702  
+[2023-05-12 15:18:31] local.INFO: Sub-order Number: 12179.001_XE_0  
+[2023-05-12 15:18:31] local.INFO: Pick Qty: 1  
+[2023-05-12 15:18:31] local.INFO: ------------------------  
+[2023-05-12 15:18:31] local.INFO: Product: ETFZ-1001-9660  
+[2023-05-12 15:18:31] local.INFO: ETIN: ETFZ-1001-9660  
+[2023-05-12 15:18:31] local.INFO: Sub-order Number: 12179.001_XE_0  
+[2023-05-12 15:18:31] local.INFO: Pick Qty: 2  
+[2023-05-12 15:18:31] local.INFO: ================GetPickedItems END==============================  
+[2023-05-12 15:19:59] local.INFO: ===========GetPickedItems Start ===================================  
+[2023-05-12 15:19:59] local.INFO: ------------------------  
+[2023-05-12 15:19:59] local.INFO: Product: ETFZ-1001-9715  
+[2023-05-12 15:19:59] local.INFO: *****  
+[2023-05-12 15:19:59] local.INFO: Kit Component ETIN: ETFZ-1001-9699  
+[2023-05-12 15:19:59] local.INFO: Sub-order Number: 12179.001_XE_0  
+[2023-05-12 15:19:59] local.INFO: Pick Qty: 1  
+[2023-05-12 15:19:59] local.INFO: *****  
+[2023-05-12 15:19:59] local.INFO: Kit Component ETIN: ETFZ-1001-9705  
+[2023-05-12 15:19:59] local.INFO: Sub-order Number: 12179.001_XE_0  
+[2023-05-12 15:19:59] local.INFO: Pick Qty: 1  
+[2023-05-12 15:19:59] local.INFO: *****  
+[2023-05-12 15:19:59] local.INFO: Kit Component ETIN: ETFZ-1001-9700  
+[2023-05-12 15:19:59] local.INFO: Sub-order Number: 12179.001_XE_0  
+[2023-05-12 15:19:59] local.INFO: Pick Qty: 1  
+[2023-05-12 15:19:59] local.INFO: *****  
+[2023-05-12 15:19:59] local.INFO: Kit Component ETIN: ETFZ-1001-9701  
+[2023-05-12 15:19:59] local.INFO: Sub-order Number: 12179.001_XE_0  
+[2023-05-12 15:19:59] local.INFO: Pick Qty: 1  
+[2023-05-12 15:19:59] local.INFO: *****  
+[2023-05-12 15:19:59] local.INFO: Kit Component ETIN: ETFZ-1001-9706  
+[2023-05-12 15:19:59] local.INFO: Sub-order Number: 12179.001_XE_0  
+[2023-05-12 15:19:59] local.INFO: Pick Qty: 1  
+[2023-05-12 15:19:59] local.INFO: *****  
+[2023-05-12 15:19:59] local.INFO: Kit Component ETIN: ETFZ-1001-9702  
+[2023-05-12 15:19:59] local.INFO: Sub-order Number: 12179.001_XE_0  
+[2023-05-12 15:19:59] local.INFO: Pick Qty: 1  
+[2023-05-12 15:19:59] local.INFO: ------------------------  
+[2023-05-12 15:19:59] local.INFO: Product: ETFZ-1001-9660  
+[2023-05-12 15:19:59] local.INFO: ETIN: ETFZ-1001-9660  
+[2023-05-12 15:19:59] local.INFO: Sub-order Number: 12179.001_XE_0  
+[2023-05-12 15:19:59] local.INFO: Pick Qty: 2  
+[2023-05-12 15:19:59] local.INFO: ================GetPickedItems END==============================  

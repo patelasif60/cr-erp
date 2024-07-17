@@ -1,0 +1,78 @@
+[2023-06-13 15:28:45] local.INFO: ===========GetPickedItems Start ===================================  
+[2023-06-13 15:28:45] local.INFO: ------------------------  
+[2023-06-13 15:28:45] local.INFO: Product: ETDF-1002-1225  
+[2023-06-13 15:28:45] local.INFO: ETIN: ETDF-1002-1225  
+[2023-06-13 15:28:45] local.INFO: Sub-order Number: 12162.002_XE_0  
+[2023-06-13 15:28:45] local.INFO: Pick Qty: 50  
+[2023-06-13 15:28:45] local.INFO: ------------------------  
+[2023-06-13 15:28:45] local.INFO: Product: ETDF-1002-1550  
+[2023-06-13 15:28:45] local.INFO: ETIN: ETDF-1002-1550  
+[2023-06-13 15:28:45] local.INFO: Sub-order Number: 12162.002_XE_0  
+[2023-06-13 15:28:45] local.INFO: Pick Qty: 1  
+[2023-06-13 15:28:45] local.INFO: ------------------------  
+[2023-06-13 15:28:45] local.INFO: Product: ETDS-1001-0108  
+[2023-06-13 15:28:45] local.INFO: ETIN: ETDS-1001-0108  
+[2023-06-13 15:28:45] local.INFO: Sub-order Number: 12162.002_XE_0  
+[2023-06-13 15:28:45] local.INFO: Pick Qty: 1  
+[2023-06-13 15:28:45] local.INFO: ------------------------  
+[2023-06-13 15:28:45] local.INFO: Product: ETDF-1002-1229  
+[2023-06-13 15:28:45] local.INFO: ETIN: ETDF-1002-1229  
+[2023-06-13 15:28:45] local.INFO: Sub-order Number: 12162.002_XE_0  
+[2023-06-13 15:28:45] local.INFO: Pick Qty: 40  
+[2023-06-13 15:28:45] local.INFO: ------------------------  
+[2023-06-13 15:28:45] local.INFO: Product: ETDF-1002-1250  
+[2023-06-13 15:28:45] local.INFO: ETIN: ETDF-1002-1250  
+[2023-06-13 15:28:45] local.INFO: Sub-order Number: 12162.002_XE_0  
+[2023-06-13 15:28:45] local.INFO: Pick Qty: 50  
+[2023-06-13 15:28:45] local.INFO: ------------------------  
+[2023-06-13 15:28:45] local.INFO: Product: ETDS-1000-8306  
+[2023-06-13 15:28:45] local.INFO: ETIN: ETDS-1000-8306  
+[2023-06-13 15:28:45] local.INFO: Sub-order Number: 12162.002_XE_0  
+[2023-06-13 15:28:45] local.INFO: Pick Qty: 4  
+[2023-06-13 15:28:45] local.INFO: ================GetPickedItems END==============================  
+[2023-06-13 15:28:45] local.INFO: ===========GetPickedItems Start ===================================  
+[2023-06-13 15:28:45] local.INFO: ------------------------  
+[2023-06-13 15:28:45] local.INFO: Product: ETDF-1002-1225  
+[2023-06-13 15:28:45] local.INFO: ETIN: ETDF-1002-1225  
+[2023-06-13 15:28:45] local.INFO: Sub-order Number: 12162.002_XE_0  
+[2023-06-13 15:28:45] local.INFO: Pick Qty: 50  
+[2023-06-13 15:28:45] local.INFO: ------------------------  
+[2023-06-13 15:28:45] local.INFO: Product: ETDF-1002-1550  
+[2023-06-13 15:28:45] local.INFO: ETIN: ETDF-1002-1550  
+[2023-06-13 15:28:45] local.INFO: Sub-order Number: 12162.002_XE_0  
+[2023-06-13 15:28:45] local.INFO: Pick Qty: 1  
+[2023-06-13 15:28:45] local.INFO: ------------------------  
+[2023-06-13 15:28:45] local.INFO: Product: ETDS-1001-0108  
+[2023-06-13 15:28:45] local.INFO: ETIN: ETDS-1001-0108  
+[2023-06-13 15:28:45] local.INFO: Sub-order Number: 12162.002_XE_0  
+[2023-06-13 15:28:45] local.INFO: Pick Qty: 1  
+[2023-06-13 15:28:45] local.INFO: ------------------------  
+[2023-06-13 15:28:45] local.INFO: Product: ETDF-1002-1229  
+[2023-06-13 15:28:45] local.INFO: ETIN: ETDF-1002-1229  
+[2023-06-13 15:28:45] local.INFO: Sub-order Number: 12162.002_XE_0  
+[2023-06-13 15:28:45] local.INFO: Pick Qty: 40  
+[2023-06-13 15:28:45] local.INFO: ------------------------  
+[2023-06-13 15:28:45] local.INFO: Product: ETDF-1002-1250  
+[2023-06-13 15:28:45] local.INFO: ETIN: ETDF-1002-1250  
+[2023-06-13 15:28:45] local.INFO: Sub-order Number: 12162.002_XE_0  
+[2023-06-13 15:28:45] local.INFO: Pick Qty: 50  
+[2023-06-13 15:28:45] local.INFO: ------------------------  
+[2023-06-13 15:28:45] local.INFO: Product: ETDS-1000-8306  
+[2023-06-13 15:28:45] local.INFO: ETIN: ETDS-1000-8306  
+[2023-06-13 15:28:45] local.INFO: Sub-order Number: 12162.002_XE_0  
+[2023-06-13 15:28:45] local.INFO: Pick Qty: 4  
+[2023-06-13 15:28:45] local.INFO: ================GetPickedItems END==============================  
+[2023-06-13 15:28:45] local.INFO: Shelf Found: 7082  
+[2023-06-13 15:28:45] local.INFO: ETIN: ETDF-1002-1225 -- Location id: 7082 --  Qty Before: 50 -- Qty After: 0  
+[2023-06-13 15:28:46] local.INFO: Shelf Found: 7075  
+[2023-06-13 15:28:46] local.INFO: ETIN: ETDF-1002-1550 -- Location id: 7075 --  Qty Before: 89 -- Qty After: 88  
+[2023-06-13 15:28:46] local.INFO: Shelf Found: 7062  
+[2023-06-13 15:28:46] local.INFO: ETIN: ETDS-1001-0108 -- Location id: 7062 --  Qty Before: 148 -- Qty After: 147  
+[2023-06-13 15:28:46] local.INFO: Shelf Found: 7081  
+[2023-06-13 15:28:46] local.INFO: ETIN: ETDF-1002-1202 -- Location id: 7080 --  Qty Before: 8 -- Qty After: 7  
+[2023-06-13 15:28:46] local.INFO: ETIN: ETDF-1002-1229 -- Location id: 7081 --  Qty Before: 20 -- Qty After: 180  
+[2023-06-13 15:28:46] local.INFO: Shelf Found: 7061  
+[2023-06-13 15:28:46] local.INFO: ETIN: ETDF-1002-1000 -- Location id: 7060 --  Qty Before: 11 -- Qty After: 10  
+[2023-06-13 15:28:46] local.INFO: ETIN: ETDF-1002-1250 -- Location id: 7061 --  Qty Before: 0 -- Qty After: 130  
+[2023-06-13 15:28:46] local.INFO: Shelf Found: 7041  
+[2023-06-13 15:28:46] local.INFO: ETIN: ETDS-1000-8306 -- Location id: 7041 --  Qty Before: 12 -- Qty After: 8  

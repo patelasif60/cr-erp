@@ -1,0 +1,7 @@
+---
+- hosts: stage
+  become: yes
+  become_method: sudo
+  gather_facts: no
+  roles: 
+    - env_stage

@@ -1,0 +1,10 @@
+- name: Copy httpd.conf
+  template:
+    src: "httpd.conf.j2"
+    dest: "/etc/httpd/conf/httpd.conf"
+    owner: "ec2-user"
+    group: "ec2-user"
+    mode: "0755"  
+
+- name: restart service
+  command: sudo service httpd restart    

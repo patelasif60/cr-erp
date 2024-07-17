@@ -1,0 +1,344 @@
+[2023-04-24 11:13:28] local.INFO: ETIN: ETFZ-0000-2961  
+[2023-04-24 11:13:28] local.INFO: Before coolant_cost price: 0  
+[2023-04-24 11:13:28] local.INFO: After coolant_cost price: 0  
+[2023-04-24 11:13:28] local.INFO: Before product_cost price: 0  
+[2023-04-24 11:13:28] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-24 11:13:28] local.INFO: After product_cost price: 0  
+[2023-04-24 11:13:28] local.INFO: Before peak_surcharge price: 0  
+[2023-04-24 11:13:28] local.INFO: After peak_surcharge price: 0  
+[2023-04-24 11:13:28] local.INFO: Before acquisition_cost price: 0  
+[2023-04-24 11:13:28] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-24 11:13:28] local.INFO: After acquisition_cost price: 0  
+[2023-04-24 11:13:28] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-24 11:13:28] local.INFO: After base_shipping_cost price: 11.14  
+[2023-04-24 11:13:28] local.INFO: Before additional_handling price: 11.14  
+[2023-04-24 11:13:28] local.INFO: After additional_handling price: 11.9332  
+[2023-04-24 11:13:28] local.INFO: Before misc_fees_and_Charges price: 11.9332  
+[2023-04-24 11:13:28] local.INFO: After misc_fees_and_Charges price: 14.4332  
+[2023-04-24 11:13:28] local.INFO: Before remote_area_surcharge price: 14.4332  
+[2023-04-24 11:13:28] local.INFO: After remote_area_surcharge price: 14.4332  
+[2023-04-24 11:13:28] local.INFO: Before residential_surcharge price: 14.4332  
+[2023-04-24 11:13:28] local.INFO: After residential_surcharge price: 14.4332  
+[2023-04-24 11:13:28] local.INFO: Before packaging_and_material price: 14.4332  
+[2023-04-24 11:13:28] local.INFO: After packaging_and_material  price: 14.4332  
+[2023-04-24 11:13:28] local.INFO: Before delivery_area_surcharge price: 14.4332  
+[2023-04-24 11:13:28] local.INFO: After delivery_area_surcharge price: 14.4332  
+[2023-04-24 11:13:28] local.INFO: Before peak_additional_surcharge price: 14.4332  
+[2023-04-24 11:13:28] local.INFO: After peak_additional_surcharge price: 14.4732  
+[2023-04-24 11:13:28] local.INFO: Before extended_delivery_area_surcharge price: 14.4732  
+[2023-04-24 11:13:28] local.INFO: After price: 14.4732  
+[2023-04-24 11:13:28] local.INFO: Before fuel_surcharge price: 14.4732  
+[2023-04-24 11:13:28] local.INFO: baseShippingCost fuel_surcharge price: 11.14  
+[2023-04-24 11:13:28] local.INFO: additionalHandlingCostOpt fuel_surcharge price: 11.9332  
+[2023-04-24 11:13:28] local.INFO: residentialSurchargeCostOpt fuel_surcharge price: 11.9332  
+[2023-04-24 11:13:28] local.INFO: remoteAreaSurchargeCostOpt fuel_surcharge price: 11.9332  
+[2023-04-24 11:13:28] local.INFO: deliveryAreaSurchargeCostOpt fuel_surcharge price: 11.9332  
+[2023-04-24 11:13:28] local.INFO: extendedDeliveryAreaSurchargeCostOpt fuel_surcharge price: 11.9332  
+[2023-04-24 11:13:28] local.INFO: peakSurchargeCostOpt fuel_surcharge price: 11.9332  
+[2023-04-24 11:13:28] local.INFO: peakAdditionalSurchargeCostOpt fuel_surcharge price: 11.9732  
+[2023-04-24 11:13:28] local.INFO: After fuel_surcharge price: 16.598443  
+[2023-04-24 11:13:28] local.INFO: Before price block markup_total_cost: 16.598443  
+[2023-04-24 11:13:28] local.INFO: After price block markup_total_cost: 37.34649675  
+[2023-04-24 11:13:28] local.INFO: Final Price Cost: 37.34649675  
+[2023-04-24 11:13:28] local.INFO: *********************************************  
+[2023-04-24 11:13:28] local.INFO: ETIN: ETFZ-0000-2964  
+[2023-04-24 11:13:28] local.INFO: Before coolant_cost price: 0  
+[2023-04-24 11:13:28] local.INFO: After coolant_cost price: 0  
+[2023-04-24 11:13:28] local.INFO: Before product_cost price: 0  
+[2023-04-24 11:13:28] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-24 11:13:28] local.INFO: After product_cost price: 0  
+[2023-04-24 11:13:28] local.INFO: Before peak_surcharge price: 0  
+[2023-04-24 11:13:28] local.INFO: After peak_surcharge price: 0  
+[2023-04-24 11:13:28] local.INFO: Before acquisition_cost price: 0  
+[2023-04-24 11:13:28] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-24 11:13:28] local.INFO: After acquisition_cost price: 0  
+[2023-04-24 11:13:28] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-24 11:13:28] local.INFO: After base_shipping_cost price: 12.03  
+[2023-04-24 11:13:28] local.INFO: Before additional_handling price: 12.03  
+[2023-04-24 11:13:28] local.INFO: After additional_handling price: 12.8232  
+[2023-04-24 11:13:28] local.INFO: Before misc_fees_and_Charges price: 12.8232  
+[2023-04-24 11:13:28] local.INFO: After misc_fees_and_Charges price: 15.3232  
+[2023-04-24 11:13:28] local.INFO: Before remote_area_surcharge price: 15.3232  
+[2023-04-24 11:13:28] local.INFO: After remote_area_surcharge price: 15.3232  
+[2023-04-24 11:13:28] local.INFO: Before residential_surcharge price: 15.3232  
+[2023-04-24 11:13:28] local.INFO: After residential_surcharge price: 15.3232  
+[2023-04-24 11:13:28] local.INFO: Before packaging_and_material price: 15.3232  
+[2023-04-24 11:13:28] local.INFO: After packaging_and_material  price: 15.3232  
+[2023-04-24 11:13:28] local.INFO: Before delivery_area_surcharge price: 15.3232  
+[2023-04-24 11:13:28] local.INFO: After delivery_area_surcharge price: 15.3232  
+[2023-04-24 11:13:28] local.INFO: Before peak_additional_surcharge price: 15.3232  
+[2023-04-24 11:13:28] local.INFO: After peak_additional_surcharge price: 15.3632  
+[2023-04-24 11:13:28] local.INFO: Before extended_delivery_area_surcharge price: 15.3632  
+[2023-04-24 11:13:28] local.INFO: After price: 15.3632  
+[2023-04-24 11:13:28] local.INFO: Before fuel_surcharge price: 15.3632  
+[2023-04-24 11:13:28] local.INFO: baseShippingCost fuel_surcharge price: 12.03  
+[2023-04-24 11:13:28] local.INFO: additionalHandlingCostOpt fuel_surcharge price: 12.8232  
+[2023-04-24 11:13:28] local.INFO: residentialSurchargeCostOpt fuel_surcharge price: 12.8232  
+[2023-04-24 11:13:28] local.INFO: remoteAreaSurchargeCostOpt fuel_surcharge price: 12.8232  
+[2023-04-24 11:13:28] local.INFO: deliveryAreaSurchargeCostOpt fuel_surcharge price: 12.8232  
+[2023-04-24 11:13:28] local.INFO: extendedDeliveryAreaSurchargeCostOpt fuel_surcharge price: 12.8232  
+[2023-04-24 11:13:28] local.INFO: peakSurchargeCostOpt fuel_surcharge price: 12.8232  
+[2023-04-24 11:13:28] local.INFO: peakAdditionalSurchargeCostOpt fuel_surcharge price: 12.8632  
+[2023-04-24 11:13:28] local.INFO: After fuel_surcharge price: 17.646418  
+[2023-04-24 11:13:28] local.INFO: Before price block markup_total_cost: 17.646418  
+[2023-04-24 11:13:28] local.INFO: After price block markup_total_cost: 39.7044405  
+[2023-04-24 11:13:28] local.INFO: Final Price Cost: 39.7044405  
+[2023-04-24 11:13:28] local.INFO: *********************************************  
+[2023-04-24 11:13:28] local.INFO: ETIN: ETFZ-1002-0382  
+[2023-04-24 11:13:28] local.INFO: Before coolant_cost price: 0  
+[2023-04-24 11:13:28] local.INFO: After coolant_cost price: 0  
+[2023-04-24 11:13:28] local.INFO: Before product_cost price: 0  
+[2023-04-24 11:13:28] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-24 11:13:28] local.INFO: After product_cost price: 0  
+[2023-04-24 11:13:28] local.INFO: Before peak_surcharge price: 0  
+[2023-04-24 11:13:28] local.INFO: After peak_surcharge price: 0  
+[2023-04-24 11:13:28] local.INFO: Before acquisition_cost price: 0  
+[2023-04-24 11:13:28] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-24 11:13:28] local.INFO: After acquisition_cost price: 0  
+[2023-04-24 11:13:28] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-24 11:13:28] local.INFO: After base_shipping_cost price: 12.47  
+[2023-04-24 11:13:28] local.INFO: Before additional_handling price: 12.47  
+[2023-04-24 11:13:28] local.INFO: After additional_handling price: 13.2632  
+[2023-04-24 11:13:28] local.INFO: Before misc_fees_and_Charges price: 13.2632  
+[2023-04-24 11:13:28] local.INFO: After misc_fees_and_Charges price: 15.7632  
+[2023-04-24 11:13:28] local.INFO: Before remote_area_surcharge price: 15.7632  
+[2023-04-24 11:13:28] local.INFO: After remote_area_surcharge price: 15.7632  
+[2023-04-24 11:13:28] local.INFO: Before residential_surcharge price: 15.7632  
+[2023-04-24 11:13:28] local.INFO: After residential_surcharge price: 15.7632  
+[2023-04-24 11:13:28] local.INFO: Before packaging_and_material price: 15.7632  
+[2023-04-24 11:13:28] local.INFO: After packaging_and_material  price: 15.7632  
+[2023-04-24 11:13:28] local.INFO: Before delivery_area_surcharge price: 15.7632  
+[2023-04-24 11:13:28] local.INFO: After delivery_area_surcharge price: 15.7632  
+[2023-04-24 11:13:28] local.INFO: Before peak_additional_surcharge price: 15.7632  
+[2023-04-24 11:13:28] local.INFO: After peak_additional_surcharge price: 15.8032  
+[2023-04-24 11:13:28] local.INFO: Before extended_delivery_area_surcharge price: 15.8032  
+[2023-04-24 11:13:28] local.INFO: After price: 15.8032  
+[2023-04-24 11:13:28] local.INFO: Before fuel_surcharge price: 15.8032  
+[2023-04-24 11:13:28] local.INFO: baseShippingCost fuel_surcharge price: 12.47  
+[2023-04-24 11:13:28] local.INFO: additionalHandlingCostOpt fuel_surcharge price: 13.2632  
+[2023-04-24 11:13:28] local.INFO: residentialSurchargeCostOpt fuel_surcharge price: 13.2632  
+[2023-04-24 11:13:28] local.INFO: remoteAreaSurchargeCostOpt fuel_surcharge price: 13.2632  
+[2023-04-24 11:13:28] local.INFO: deliveryAreaSurchargeCostOpt fuel_surcharge price: 13.2632  
+[2023-04-24 11:13:28] local.INFO: extendedDeliveryAreaSurchargeCostOpt fuel_surcharge price: 13.2632  
+[2023-04-24 11:13:28] local.INFO: peakSurchargeCostOpt fuel_surcharge price: 13.2632  
+[2023-04-24 11:13:28] local.INFO: peakAdditionalSurchargeCostOpt fuel_surcharge price: 13.3032  
+[2023-04-24 11:13:28] local.INFO: After fuel_surcharge price: 18.164518  
+[2023-04-24 11:13:28] local.INFO: Before price block markup_total_cost: 18.164518  
+[2023-04-24 11:13:28] local.INFO: After price block markup_total_cost: 40.8701655  
+[2023-04-24 11:13:28] local.INFO: Final Price Cost: 40.8701655  
+[2023-04-24 11:13:28] local.INFO: *********************************************  
+[2023-04-24 11:13:28] local.INFO: ETIN: ETFZ-1002-0383  
+[2023-04-24 11:13:28] local.INFO: Before coolant_cost price: 0  
+[2023-04-24 11:13:28] local.INFO: After coolant_cost price: 0  
+[2023-04-24 11:13:28] local.INFO: Before product_cost price: 0  
+[2023-04-24 11:13:28] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-24 11:13:28] local.INFO: After product_cost price: 0  
+[2023-04-24 11:13:28] local.INFO: Before peak_surcharge price: 0  
+[2023-04-24 11:13:28] local.INFO: After peak_surcharge price: 0  
+[2023-04-24 11:13:28] local.INFO: Before acquisition_cost price: 0  
+[2023-04-24 11:13:28] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-24 11:13:28] local.INFO: After acquisition_cost price: 0  
+[2023-04-24 11:13:28] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-24 11:13:28] local.INFO: After base_shipping_cost price: 11.14  
+[2023-04-24 11:13:28] local.INFO: Before additional_handling price: 11.14  
+[2023-04-24 11:13:28] local.INFO: After additional_handling price: 11.9332  
+[2023-04-24 11:13:28] local.INFO: Before misc_fees_and_Charges price: 11.9332  
+[2023-04-24 11:13:28] local.INFO: After misc_fees_and_Charges price: 14.4332  
+[2023-04-24 11:13:28] local.INFO: Before remote_area_surcharge price: 14.4332  
+[2023-04-24 11:13:28] local.INFO: After remote_area_surcharge price: 14.4332  
+[2023-04-24 11:13:28] local.INFO: Before residential_surcharge price: 14.4332  
+[2023-04-24 11:13:28] local.INFO: After residential_surcharge price: 14.4332  
+[2023-04-24 11:13:28] local.INFO: Before packaging_and_material price: 14.4332  
+[2023-04-24 11:13:28] local.INFO: After packaging_and_material  price: 14.4332  
+[2023-04-24 11:13:28] local.INFO: Before delivery_area_surcharge price: 14.4332  
+[2023-04-24 11:13:28] local.INFO: After delivery_area_surcharge price: 14.4332  
+[2023-04-24 11:13:28] local.INFO: Before peak_additional_surcharge price: 14.4332  
+[2023-04-24 11:13:28] local.INFO: After peak_additional_surcharge price: 14.4732  
+[2023-04-24 11:13:28] local.INFO: Before extended_delivery_area_surcharge price: 14.4732  
+[2023-04-24 11:13:28] local.INFO: After price: 14.4732  
+[2023-04-24 11:13:28] local.INFO: Before fuel_surcharge price: 14.4732  
+[2023-04-24 11:13:28] local.INFO: baseShippingCost fuel_surcharge price: 11.14  
+[2023-04-24 11:13:28] local.INFO: additionalHandlingCostOpt fuel_surcharge price: 11.9332  
+[2023-04-24 11:13:28] local.INFO: residentialSurchargeCostOpt fuel_surcharge price: 11.9332  
+[2023-04-24 11:13:28] local.INFO: remoteAreaSurchargeCostOpt fuel_surcharge price: 11.9332  
+[2023-04-24 11:13:28] local.INFO: deliveryAreaSurchargeCostOpt fuel_surcharge price: 11.9332  
+[2023-04-24 11:13:28] local.INFO: extendedDeliveryAreaSurchargeCostOpt fuel_surcharge price: 11.9332  
+[2023-04-24 11:13:28] local.INFO: peakSurchargeCostOpt fuel_surcharge price: 11.9332  
+[2023-04-24 11:13:28] local.INFO: peakAdditionalSurchargeCostOpt fuel_surcharge price: 11.9732  
+[2023-04-24 11:13:28] local.INFO: After fuel_surcharge price: 16.598443  
+[2023-04-24 11:13:28] local.INFO: Before price block markup_total_cost: 16.598443  
+[2023-04-24 11:13:28] local.INFO: After price block markup_total_cost: 37.34649675  
+[2023-04-24 11:13:28] local.INFO: Final Price Cost: 37.34649675  
+[2023-04-24 11:13:28] local.INFO: *********************************************  
+[2023-04-24 11:13:29] local.INFO: ETIN: ETFZ-0000-2961  
+[2023-04-24 11:13:29] local.INFO: Before coolant_cost price: 0  
+[2023-04-24 11:13:29] local.INFO: After coolant_cost price: 0  
+[2023-04-24 11:13:29] local.INFO: Before product_cost price: 0  
+[2023-04-24 11:13:29] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-24 11:13:29] local.INFO: After product_cost price: 0  
+[2023-04-24 11:13:29] local.INFO: Before peak_surcharge price: 0  
+[2023-04-24 11:13:29] local.INFO: After peak_surcharge price: 0  
+[2023-04-24 11:13:29] local.INFO: Before acquisition_cost price: 0  
+[2023-04-24 11:13:29] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-24 11:13:29] local.INFO: After acquisition_cost price: 0  
+[2023-04-24 11:13:29] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-24 11:13:29] local.INFO: After base_shipping_cost price: 11.14  
+[2023-04-24 11:13:29] local.INFO: Before additional_handling price: 11.14  
+[2023-04-24 11:13:29] local.INFO: After additional_handling price: 11.9332  
+[2023-04-24 11:13:29] local.INFO: Before misc_fees_and_Charges price: 11.9332  
+[2023-04-24 11:13:29] local.INFO: After misc_fees_and_Charges price: 14.4332  
+[2023-04-24 11:13:29] local.INFO: Before remote_area_surcharge price: 14.4332  
+[2023-04-24 11:13:29] local.INFO: After remote_area_surcharge price: 14.4332  
+[2023-04-24 11:13:29] local.INFO: Before residential_surcharge price: 14.4332  
+[2023-04-24 11:13:29] local.INFO: After residential_surcharge price: 14.4332  
+[2023-04-24 11:13:29] local.INFO: Before packaging_and_material price: 14.4332  
+[2023-04-24 11:13:29] local.INFO: After packaging_and_material  price: 14.4332  
+[2023-04-24 11:13:29] local.INFO: Before delivery_area_surcharge price: 14.4332  
+[2023-04-24 11:13:29] local.INFO: After delivery_area_surcharge price: 14.4332  
+[2023-04-24 11:13:29] local.INFO: Before peak_additional_surcharge price: 14.4332  
+[2023-04-24 11:13:29] local.INFO: After peak_additional_surcharge price: 14.4732  
+[2023-04-24 11:13:29] local.INFO: Before extended_delivery_area_surcharge price: 14.4732  
+[2023-04-24 11:13:29] local.INFO: After price: 14.4732  
+[2023-04-24 11:13:29] local.INFO: Before fuel_surcharge price: 14.4732  
+[2023-04-24 11:13:29] local.INFO: baseShippingCost fuel_surcharge price: 11.14  
+[2023-04-24 11:13:29] local.INFO: additionalHandlingCostOpt fuel_surcharge price: 11.9332  
+[2023-04-24 11:13:29] local.INFO: residentialSurchargeCostOpt fuel_surcharge price: 11.9332  
+[2023-04-24 11:13:29] local.INFO: remoteAreaSurchargeCostOpt fuel_surcharge price: 11.9332  
+[2023-04-24 11:13:29] local.INFO: deliveryAreaSurchargeCostOpt fuel_surcharge price: 11.9332  
+[2023-04-24 11:13:29] local.INFO: extendedDeliveryAreaSurchargeCostOpt fuel_surcharge price: 11.9332  
+[2023-04-24 11:13:29] local.INFO: peakSurchargeCostOpt fuel_surcharge price: 11.9332  
+[2023-04-24 11:13:29] local.INFO: peakAdditionalSurchargeCostOpt fuel_surcharge price: 11.9732  
+[2023-04-24 11:13:29] local.INFO: After fuel_surcharge price: 16.598443  
+[2023-04-24 11:13:29] local.INFO: Before price block markup_total_cost: 16.598443  
+[2023-04-24 11:13:29] local.INFO: After price block markup_total_cost: 37.34649675  
+[2023-04-24 11:13:29] local.INFO: Final Price Cost: 37.34649675  
+[2023-04-24 11:13:29] local.INFO: *********************************************  
+[2023-04-24 11:13:29] local.INFO: ETIN: ETFZ-0000-2964  
+[2023-04-24 11:13:29] local.INFO: Before coolant_cost price: 0  
+[2023-04-24 11:13:29] local.INFO: After coolant_cost price: 0  
+[2023-04-24 11:13:29] local.INFO: Before product_cost price: 0  
+[2023-04-24 11:13:29] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-24 11:13:29] local.INFO: After product_cost price: 0  
+[2023-04-24 11:13:29] local.INFO: Before peak_surcharge price: 0  
+[2023-04-24 11:13:29] local.INFO: After peak_surcharge price: 0  
+[2023-04-24 11:13:29] local.INFO: Before acquisition_cost price: 0  
+[2023-04-24 11:13:29] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-24 11:13:29] local.INFO: After acquisition_cost price: 0  
+[2023-04-24 11:13:29] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-24 11:13:29] local.INFO: After base_shipping_cost price: 12.03  
+[2023-04-24 11:13:29] local.INFO: Before additional_handling price: 12.03  
+[2023-04-24 11:13:29] local.INFO: After additional_handling price: 12.8232  
+[2023-04-24 11:13:29] local.INFO: Before misc_fees_and_Charges price: 12.8232  
+[2023-04-24 11:13:29] local.INFO: After misc_fees_and_Charges price: 15.3232  
+[2023-04-24 11:13:29] local.INFO: Before remote_area_surcharge price: 15.3232  
+[2023-04-24 11:13:29] local.INFO: After remote_area_surcharge price: 15.3232  
+[2023-04-24 11:13:29] local.INFO: Before residential_surcharge price: 15.3232  
+[2023-04-24 11:13:29] local.INFO: After residential_surcharge price: 15.3232  
+[2023-04-24 11:13:29] local.INFO: Before packaging_and_material price: 15.3232  
+[2023-04-24 11:13:29] local.INFO: After packaging_and_material  price: 15.3232  
+[2023-04-24 11:13:29] local.INFO: Before delivery_area_surcharge price: 15.3232  
+[2023-04-24 11:13:29] local.INFO: After delivery_area_surcharge price: 15.3232  
+[2023-04-24 11:13:29] local.INFO: Before peak_additional_surcharge price: 15.3232  
+[2023-04-24 11:13:29] local.INFO: After peak_additional_surcharge price: 15.3632  
+[2023-04-24 11:13:29] local.INFO: Before extended_delivery_area_surcharge price: 15.3632  
+[2023-04-24 11:13:29] local.INFO: After price: 15.3632  
+[2023-04-24 11:13:29] local.INFO: Before fuel_surcharge price: 15.3632  
+[2023-04-24 11:13:29] local.INFO: baseShippingCost fuel_surcharge price: 12.03  
+[2023-04-24 11:13:29] local.INFO: additionalHandlingCostOpt fuel_surcharge price: 12.8232  
+[2023-04-24 11:13:29] local.INFO: residentialSurchargeCostOpt fuel_surcharge price: 12.8232  
+[2023-04-24 11:13:29] local.INFO: remoteAreaSurchargeCostOpt fuel_surcharge price: 12.8232  
+[2023-04-24 11:13:29] local.INFO: deliveryAreaSurchargeCostOpt fuel_surcharge price: 12.8232  
+[2023-04-24 11:13:29] local.INFO: extendedDeliveryAreaSurchargeCostOpt fuel_surcharge price: 12.8232  
+[2023-04-24 11:13:29] local.INFO: peakSurchargeCostOpt fuel_surcharge price: 12.8232  
+[2023-04-24 11:13:29] local.INFO: peakAdditionalSurchargeCostOpt fuel_surcharge price: 12.8632  
+[2023-04-24 11:13:29] local.INFO: After fuel_surcharge price: 17.646418  
+[2023-04-24 11:13:29] local.INFO: Before price block markup_total_cost: 17.646418  
+[2023-04-24 11:13:29] local.INFO: After price block markup_total_cost: 39.7044405  
+[2023-04-24 11:13:29] local.INFO: Final Price Cost: 39.7044405  
+[2023-04-24 11:13:29] local.INFO: *********************************************  
+[2023-04-24 11:13:29] local.INFO: ETIN: ETFZ-1002-0382  
+[2023-04-24 11:13:29] local.INFO: Before coolant_cost price: 0  
+[2023-04-24 11:13:29] local.INFO: After coolant_cost price: 0  
+[2023-04-24 11:13:29] local.INFO: Before product_cost price: 0  
+[2023-04-24 11:13:29] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-24 11:13:29] local.INFO: After product_cost price: 0  
+[2023-04-24 11:13:29] local.INFO: Before peak_surcharge price: 0  
+[2023-04-24 11:13:29] local.INFO: After peak_surcharge price: 0  
+[2023-04-24 11:13:29] local.INFO: Before acquisition_cost price: 0  
+[2023-04-24 11:13:29] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-24 11:13:29] local.INFO: After acquisition_cost price: 0  
+[2023-04-24 11:13:29] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-24 11:13:29] local.INFO: After base_shipping_cost price: 12.47  
+[2023-04-24 11:13:29] local.INFO: Before additional_handling price: 12.47  
+[2023-04-24 11:13:29] local.INFO: After additional_handling price: 13.2632  
+[2023-04-24 11:13:29] local.INFO: Before misc_fees_and_Charges price: 13.2632  
+[2023-04-24 11:13:29] local.INFO: After misc_fees_and_Charges price: 15.7632  
+[2023-04-24 11:13:29] local.INFO: Before remote_area_surcharge price: 15.7632  
+[2023-04-24 11:13:29] local.INFO: After remote_area_surcharge price: 15.7632  
+[2023-04-24 11:13:29] local.INFO: Before residential_surcharge price: 15.7632  
+[2023-04-24 11:13:29] local.INFO: After residential_surcharge price: 15.7632  
+[2023-04-24 11:13:29] local.INFO: Before packaging_and_material price: 15.7632  
+[2023-04-24 11:13:29] local.INFO: After packaging_and_material  price: 15.7632  
+[2023-04-24 11:13:29] local.INFO: Before delivery_area_surcharge price: 15.7632  
+[2023-04-24 11:13:29] local.INFO: After delivery_area_surcharge price: 15.7632  
+[2023-04-24 11:13:29] local.INFO: Before peak_additional_surcharge price: 15.7632  
+[2023-04-24 11:13:29] local.INFO: After peak_additional_surcharge price: 15.8032  
+[2023-04-24 11:13:29] local.INFO: Before extended_delivery_area_surcharge price: 15.8032  
+[2023-04-24 11:13:29] local.INFO: After price: 15.8032  
+[2023-04-24 11:13:29] local.INFO: Before fuel_surcharge price: 15.8032  
+[2023-04-24 11:13:29] local.INFO: baseShippingCost fuel_surcharge price: 12.47  
+[2023-04-24 11:13:29] local.INFO: additionalHandlingCostOpt fuel_surcharge price: 13.2632  
+[2023-04-24 11:13:29] local.INFO: residentialSurchargeCostOpt fuel_surcharge price: 13.2632  
+[2023-04-24 11:13:29] local.INFO: remoteAreaSurchargeCostOpt fuel_surcharge price: 13.2632  
+[2023-04-24 11:13:29] local.INFO: deliveryAreaSurchargeCostOpt fuel_surcharge price: 13.2632  
+[2023-04-24 11:13:29] local.INFO: extendedDeliveryAreaSurchargeCostOpt fuel_surcharge price: 13.2632  
+[2023-04-24 11:13:29] local.INFO: peakSurchargeCostOpt fuel_surcharge price: 13.2632  
+[2023-04-24 11:13:29] local.INFO: peakAdditionalSurchargeCostOpt fuel_surcharge price: 13.3032  
+[2023-04-24 11:13:29] local.INFO: After fuel_surcharge price: 18.164518  
+[2023-04-24 11:13:29] local.INFO: Before price block markup_total_cost: 18.164518  
+[2023-04-24 11:13:29] local.INFO: After price block markup_total_cost: 40.8701655  
+[2023-04-24 11:13:29] local.INFO: Final Price Cost: 40.8701655  
+[2023-04-24 11:13:29] local.INFO: *********************************************  
+[2023-04-24 11:13:29] local.INFO: ETIN: ETFZ-1002-0383  
+[2023-04-24 11:13:29] local.INFO: Before coolant_cost price: 0  
+[2023-04-24 11:13:29] local.INFO: After coolant_cost price: 0  
+[2023-04-24 11:13:29] local.INFO: Before product_cost price: 0  
+[2023-04-24 11:13:29] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-24 11:13:29] local.INFO: After product_cost price: 0  
+[2023-04-24 11:13:29] local.INFO: Before peak_surcharge price: 0  
+[2023-04-24 11:13:29] local.INFO: After peak_surcharge price: 0  
+[2023-04-24 11:13:29] local.INFO: Before acquisition_cost price: 0  
+[2023-04-24 11:13:29] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-24 11:13:29] local.INFO: After acquisition_cost price: 0  
+[2023-04-24 11:13:29] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-24 11:13:29] local.INFO: After base_shipping_cost price: 11.14  
+[2023-04-24 11:13:29] local.INFO: Before additional_handling price: 11.14  
+[2023-04-24 11:13:29] local.INFO: After additional_handling price: 11.9332  
+[2023-04-24 11:13:29] local.INFO: Before misc_fees_and_Charges price: 11.9332  
+[2023-04-24 11:13:29] local.INFO: After misc_fees_and_Charges price: 14.4332  
+[2023-04-24 11:13:29] local.INFO: Before remote_area_surcharge price: 14.4332  
+[2023-04-24 11:13:29] local.INFO: After remote_area_surcharge price: 14.4332  
+[2023-04-24 11:13:29] local.INFO: Before residential_surcharge price: 14.4332  
+[2023-04-24 11:13:29] local.INFO: After residential_surcharge price: 14.4332  
+[2023-04-24 11:13:29] local.INFO: Before packaging_and_material price: 14.4332  
+[2023-04-24 11:13:29] local.INFO: After packaging_and_material  price: 14.4332  
+[2023-04-24 11:13:29] local.INFO: Before delivery_area_surcharge price: 14.4332  
+[2023-04-24 11:13:29] local.INFO: After delivery_area_surcharge price: 14.4332  
+[2023-04-24 11:13:29] local.INFO: Before peak_additional_surcharge price: 14.4332  
+[2023-04-24 11:13:29] local.INFO: After peak_additional_surcharge price: 14.4732  
+[2023-04-24 11:13:29] local.INFO: Before extended_delivery_area_surcharge price: 14.4732  
+[2023-04-24 11:13:29] local.INFO: After price: 14.4732  
+[2023-04-24 11:13:29] local.INFO: Before fuel_surcharge price: 14.4732  
+[2023-04-24 11:13:29] local.INFO: baseShippingCost fuel_surcharge price: 11.14  
+[2023-04-24 11:13:29] local.INFO: additionalHandlingCostOpt fuel_surcharge price: 11.9332  
+[2023-04-24 11:13:29] local.INFO: residentialSurchargeCostOpt fuel_surcharge price: 11.9332  
+[2023-04-24 11:13:29] local.INFO: remoteAreaSurchargeCostOpt fuel_surcharge price: 11.9332  
+[2023-04-24 11:13:29] local.INFO: deliveryAreaSurchargeCostOpt fuel_surcharge price: 11.9332  
+[2023-04-24 11:13:29] local.INFO: extendedDeliveryAreaSurchargeCostOpt fuel_surcharge price: 11.9332  
+[2023-04-24 11:13:29] local.INFO: peakSurchargeCostOpt fuel_surcharge price: 11.9332  
+[2023-04-24 11:13:29] local.INFO: peakAdditionalSurchargeCostOpt fuel_surcharge price: 11.9732  
+[2023-04-24 11:13:29] local.INFO: After fuel_surcharge price: 16.598443  
+[2023-04-24 11:13:29] local.INFO: Before price block markup_total_cost: 16.598443  
+[2023-04-24 11:13:29] local.INFO: After price block markup_total_cost: 37.34649675  
+[2023-04-24 11:13:29] local.INFO: Final Price Cost: 37.34649675  
+[2023-04-24 11:13:29] local.INFO: *********************************************  

@@ -1,0 +1,10 @@
+---
+- name: php artisan schedule
+  cron:
+    name: "php_artisan_schedule"
+    minute: "*"
+    hour: "*"
+    day: "*"
+    month: "*"
+    weekday: "*"
+    job: "cd /var/www/html/cranium && php artisan schedule:run >> /dev/null 2>&1"

@@ -1,0 +1,56 @@
+[2023-02-17 09:54:45] local.INFO: ===========GetPickedItems Start ===================================  
+[2023-02-17 09:54:45] local.INFO: ------------------------  
+[2023-02-17 09:54:45] local.INFO: Product: ETFZ-1002-0550  
+[2023-02-17 09:54:45] local.INFO: ETIN: ETFZ-1002-0550  
+[2023-02-17 09:54:45] local.INFO: Sub-order Number: 11025.001  
+[2023-02-17 09:54:45] local.INFO: Pick Qty: 1  
+[2023-02-17 09:54:45] local.INFO: ------------------------  
+[2023-02-17 09:54:45] local.INFO: Product: ETFZ-1002-0552  
+[2023-02-17 09:54:46] local.INFO: ETIN: ETFZ-1002-0552  
+[2023-02-17 09:54:46] local.INFO: Sub-order Number: 11025.001  
+[2023-02-17 09:54:46] local.INFO: Pick Qty: 1  
+[2023-02-17 09:54:46] local.INFO: ------------------------  
+[2023-02-17 09:54:46] local.INFO: Product: ETFZ-1002-0553  
+[2023-02-17 09:54:46] local.INFO: ETIN: ETFZ-1002-0553  
+[2023-02-17 09:54:46] local.INFO: Sub-order Number: 11025.001  
+[2023-02-17 09:54:46] local.INFO: Pick Qty: 1  
+[2023-02-17 09:54:46] local.INFO: ------------------------  
+[2023-02-17 09:54:46] local.INFO: Product: ETFZ-1002-0551  
+[2023-02-17 09:54:46] local.INFO: ETIN: ETFZ-1002-0551  
+[2023-02-17 09:54:46] local.INFO: Sub-order Number: 11025.001  
+[2023-02-17 09:54:46] local.INFO: Pick Qty: 2  
+[2023-02-17 09:54:46] local.INFO: ================GetPickedItems END==============================  
+[2023-02-17 09:54:46] local.INFO: ===========GetPickedItems Start ===================================  
+[2023-02-17 09:54:46] local.INFO: ------------------------  
+[2023-02-17 09:54:46] local.INFO: Product: ETFZ-1002-0550  
+[2023-02-17 09:54:46] local.INFO: ETIN: ETFZ-1002-0550  
+[2023-02-17 09:54:46] local.INFO: Sub-order Number: 11025.001  
+[2023-02-17 09:54:46] local.INFO: Pick Qty: 1  
+[2023-02-17 09:54:46] local.INFO: ------------------------  
+[2023-02-17 09:54:46] local.INFO: Product: ETFZ-1002-0552  
+[2023-02-17 09:54:46] local.INFO: ETIN: ETFZ-1002-0552  
+[2023-02-17 09:54:46] local.INFO: Sub-order Number: 11025.001  
+[2023-02-17 09:54:46] local.INFO: Pick Qty: 1  
+[2023-02-17 09:54:46] local.INFO: ------------------------  
+[2023-02-17 09:54:46] local.INFO: Product: ETFZ-1002-0553  
+[2023-02-17 09:54:46] local.INFO: ETIN: ETFZ-1002-0553  
+[2023-02-17 09:54:46] local.INFO: Sub-order Number: 11025.001  
+[2023-02-17 09:54:46] local.INFO: Pick Qty: 1  
+[2023-02-17 09:54:46] local.INFO: ------------------------  
+[2023-02-17 09:54:46] local.INFO: Product: ETFZ-1002-0551  
+[2023-02-17 09:54:46] local.INFO: ETIN: ETFZ-1002-0551  
+[2023-02-17 09:54:46] local.INFO: Sub-order Number: 11025.001  
+[2023-02-17 09:54:46] local.INFO: Pick Qty: 2  
+[2023-02-17 09:54:46] local.INFO: ================GetPickedItems END==============================  
+[2023-02-17 09:54:46] local.INFO: Shelf Found: 6615  
+[2023-02-17 09:54:46] local.INFO: ETIN: ETFZ-1002-0544 -- Location id: 6614 --  Qty Before: 6 -- Qty After: 5  
+[2023-02-17 09:54:46] local.INFO: ETIN: ETFZ-1002-0550 -- Location id: 6615 --  Qty Before: 0 -- Qty After: 3  
+[2023-02-17 09:54:46] local.INFO: Shelf Found: 6619  
+[2023-02-17 09:54:46] local.INFO: ETIN: ETFZ-1002-0546 -- Location id: 6618 --  Qty Before: 6 -- Qty After: 5  
+[2023-02-17 09:54:46] local.INFO: ETIN: ETFZ-1002-0552 -- Location id: 6619 --  Qty Before: 0 -- Qty After: 3  
+[2023-02-17 09:54:46] local.INFO: Shelf Found: 6611  
+[2023-02-17 09:54:46] local.INFO: ETIN: ETFZ-1002-0547 -- Location id: 6610 --  Qty Before: 6 -- Qty After: 5  
+[2023-02-17 09:54:46] local.INFO: ETIN: ETFZ-1002-0553 -- Location id: 6611 --  Qty Before: 0 -- Qty After: 3  
+[2023-02-17 09:54:46] local.INFO: Shelf Found: 6613  
+[2023-02-17 09:54:46] local.INFO: ETIN: ETFZ-1002-0545 -- Location id: 6612 --  Qty Before: 6 -- Qty After: 5  
+[2023-02-17 09:54:47] local.INFO: ETIN: ETFZ-1002-0551 -- Location id: 6613 --  Qty Before: 0 -- Qty After: 2  

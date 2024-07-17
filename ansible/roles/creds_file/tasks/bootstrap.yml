@@ -1,0 +1,60 @@
+---
+- name: bootstrap conf
+  template:
+    src: "config.php.j2"
+    dest: "/var/www/html/cranium/bootstrap/cache/config.php"
+    owner: "ec2-user"
+    group: "ec2-user"
+    mode: "0777"
+#  vars:
+#    key: "{{ lookup('aws_ssm', 'CONF_KEY', region='us-east-2', decrypt=True ) }}"
+#    prod_db_host: "{{ lookup('aws_ssm', 'PROD_DB_HOST', region='us-east-2', decrypt=True ) }}"
+#    db_port: "{{ lookup('aws_ssm', 'CONF_DB_PORT', region='us-east-2', decrypt=True ) }}"
+#    prod_dbn: "{{ lookup('aws_ssm', 'PROD_DB', region='us-east-2', decrypt=True ) }}"
+#    prod_db_user: "{{ lookup('aws_ssm', 'PROD_DB_UN', region='us-east-2', decrypt=True ) }}"
+#    prod_db_pass: "{{ lookup('aws_ssm', 'db_pass_prod', region='us-east-2', decrypt=True ) }}"
+#    redis_host: "{{ lookup('aws_ssm', 'CONF_REDIS_HOST', region='us-east-2', decrypt=True ) }}"
+#    redis_port: "{{ lookup('aws_ssm', 'CONF_REDIS_PORT', region='us-east-2', decrypt=True ) }}"
+#    mail_host: "{{ lookup('aws_ssm', 'CONF_MAIL_HOST', region='us-east-2', decrypt=True ) }}"
+#    mail_port: "{{ lookup('aws_ssm', 'CONF_MAIL_PORT', region='us-east-2', decrypt=True ) }}"
+#    conf_aws_key: "{{ lookup('aws_ssm', 'CONF_AWS_KEY', region='us-east-2', decrypt=True ) }}"
+#    conf_aws_secret_key: "{{ lookup('aws_ssm', 'CONF_AWS_SECRET_KEY', region='us-east-2', decrypt=True ) }}"
+#    conf_aws_region: "{{ lookup('aws_ssm', 'CONF_AWS_REGION', region='us-east-2', decrypt=True ) }}"
+#    conf_aws_bucket: "{{ lookup('aws_ssm', 'CONF_AWS_BUCKET', region='us-east-2', decrypt=True ) }}"    
+
+- name: env file
+  template:
+    src: "env.j2"
+    dest: "/var/www/html/cranium/.env"
+    owner: "ec2-user"
+    group: "ec2-user"
+    mode: "0777"    
+
+- name: Running composer and restart
+  shell: | 
+    cd /var/www/html/cranium/
+    sudo chown -R ec2-user:ec2-user bootstrap
+    sudo chmod -R 777 bootstrap
+    cd storage
+    sudo mkdir -p framework/cache
+    sudo mkdir -p framework/sessions
+    sudo mkdir -p framework/testing
+    sudo mkdir -p framework/views
+    sudo mkdir -p framework/cache/data
+    sudo chown -R ec2-user:ec2-user ../storage
+    sudo chmod -R 777 ../storage    
+    cd ../
+    yes | composer install
+    php artisan cache:clear
+    php artisan config:clear
+    php artisan view:clear
+
+- name: fpm
+  service:
+    name: php-fpm
+    state: restarted
+
+- name: httpd
+  service:
+    name: httpd
+    state: restarted

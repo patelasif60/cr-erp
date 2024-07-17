@@ -1,0 +1,40 @@
+[2023-06-14 00:50:08] local.INFO: ===========GetPickedItems Start ===================================  
+[2023-06-14 00:50:08] local.INFO: ------------------------  
+[2023-06-14 00:50:08] local.INFO: Product: ETFZ-1001-7919  
+[2023-06-14 00:50:08] local.INFO: ETIN: ETFZ-1001-7919  
+[2023-06-14 00:50:08] local.INFO: Sub-order Number: 11994.001_XE_1  
+[2023-06-14 00:50:08] local.INFO: Pick Qty: 1  
+[2023-06-14 00:50:08] local.INFO: ------------------------  
+[2023-06-14 00:50:08] local.INFO: Product: ETFZ-1001-7927  
+[2023-06-14 00:50:08] local.INFO: ETIN: ETFZ-1001-7927  
+[2023-06-14 00:50:08] local.INFO: Sub-order Number: 11994.001_XE_1  
+[2023-06-14 00:50:08] local.INFO: Pick Qty: 1  
+[2023-06-14 00:50:08] local.INFO: ------------------------  
+[2023-06-14 00:50:08] local.INFO: Product: ETFZ-1000-6194  
+[2023-06-14 00:50:08] local.INFO: ETIN: ETFZ-1000-6194  
+[2023-06-14 00:50:08] local.INFO: Sub-order Number: 11994.001_XE_1  
+[2023-06-14 00:50:08] local.INFO: Pick Qty: 5  
+[2023-06-14 00:50:08] local.INFO: ================GetPickedItems END==============================  
+[2023-06-14 00:50:08] local.INFO: ===========GetPickedItems Start ===================================  
+[2023-06-14 00:50:08] local.INFO: ------------------------  
+[2023-06-14 00:50:08] local.INFO: Product: ETFZ-1001-7919  
+[2023-06-14 00:50:08] local.INFO: ETIN: ETFZ-1001-7919  
+[2023-06-14 00:50:08] local.INFO: Sub-order Number: 11994.001_XE_1  
+[2023-06-14 00:50:08] local.INFO: Pick Qty: 1  
+[2023-06-14 00:50:08] local.INFO: ------------------------  
+[2023-06-14 00:50:08] local.INFO: Product: ETFZ-1001-7927  
+[2023-06-14 00:50:08] local.INFO: ETIN: ETFZ-1001-7927  
+[2023-06-14 00:50:08] local.INFO: Sub-order Number: 11994.001_XE_1  
+[2023-06-14 00:50:08] local.INFO: Pick Qty: 1  
+[2023-06-14 00:50:08] local.INFO: ------------------------  
+[2023-06-14 00:50:08] local.INFO: Product: ETFZ-1000-6194  
+[2023-06-14 00:50:08] local.INFO: ETIN: ETFZ-1000-6194  
+[2023-06-14 00:50:08] local.INFO: Sub-order Number: 11994.001_XE_1  
+[2023-06-14 00:50:08] local.INFO: Pick Qty: 5  
+[2023-06-14 00:50:08] local.INFO: ================GetPickedItems END==============================  
+[2023-06-14 00:50:08] local.INFO: Shelf Found: 6434  
+[2023-06-14 00:50:08] local.INFO: ETIN: ETFZ-1001-7919 -- Location id: 6434 --  Qty Before: 8 -- Qty After: 7  
+[2023-06-14 00:50:08] local.INFO: Shelf Found: 6430  
+[2023-06-14 00:50:08] local.INFO: ETIN: ETFZ-1001-7927 -- Location id: 6430 --  Qty Before: 4 -- Qty After: 3  
+[2023-06-14 00:50:08] local.INFO: Shelf Found: 5740  
+[2023-06-14 00:50:08] local.INFO: ETIN: ETFZ-1000-6194 -- Location id: 5740 --  Qty Before: 5 -- Qty After: 0  

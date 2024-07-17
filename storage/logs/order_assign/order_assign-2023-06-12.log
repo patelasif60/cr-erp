@@ -1,0 +1,264 @@
+[2023-06-12 14:56:38] local.INFO: ==============================================  
+[2023-06-12 14:56:38] local.INFO: assignOrdersToPicker Start  
+[2023-06-12 14:56:38] local.INFO: Picker: 1, Warehouse: WI  
+[2023-06-12 14:56:38] local.INFO: Picker Role: [{"role":"Admin","name":"Sunny","time_zone":"America\/Chicago"}]  
+[2023-06-12 14:56:38] local.INFO: Fetched sub-order items to sort. Size: 0  
+[2023-06-12 15:12:43] local.INFO: ==============================================  
+[2023-06-12 15:12:43] local.INFO: assignOrdersToPicker Start  
+[2023-06-12 15:12:43] local.INFO: Picker: 1, Warehouse: PA  
+[2023-06-12 15:12:43] local.INFO: Picker Role: [{"role":"Admin","name":"Sunny","time_zone":"America\/New_York"}]  
+[2023-06-12 15:12:43] local.INFO: Fetched sub-order items to sort. Size: 14  
+[2023-06-12 15:12:43] local.INFO: Order # 12158  
+[2023-06-12 15:12:43] local.INFO: Order # 12158  
+[2023-06-12 15:12:43] local.INFO: Order # 12158  
+[2023-06-12 15:12:43] local.INFO: Order # 12158  
+[2023-06-12 15:12:43] local.INFO: Order # 12158  
+[2023-06-12 15:12:43] local.INFO: Order # 12158  
+[2023-06-12 15:12:43] local.INFO: Order # 12158  
+[2023-06-12 15:12:43] local.INFO: Order # 12158  
+[2023-06-12 15:12:43] local.INFO: Order # 12158  
+[2023-06-12 15:12:43] local.INFO: Order # 12147  
+[2023-06-12 15:12:43] local.INFO: Order # 12147  
+[2023-06-12 15:12:43] local.INFO: Order # 12187  
+[2023-06-12 15:12:43] local.INFO: Order # 12187  
+[2023-06-12 15:12:43] local.INFO: Order # 12187  
+[2023-06-12 15:12:43] local.INFO: Fetched Temperatures for orders: ["Frozen"]  
+[2023-06-12 15:12:43] local.INFO: Using TZ for WH assigned to Picker: America/New_York  
+[2023-06-12 15:12:43] local.INFO: Day: monday, Time: 16  
+[2023-06-12 15:12:43] local.INFO: Shipping WH Eligibility: [{"monday":"1"},{"monday":"2"},{"monday":"3"},{"monday":"4"},{"monday":"5"},{"monday":"6"},{"monday":"7"},{"monday":"8"},{"monday":"9"},{"monday":"10"},{"monday":"11"},{"monday":"12"}]  
+[2023-06-12 15:12:43] local.INFO: Order Day Shipping: 12  
+[2023-06-12 15:12:43] local.INFO: Picker Config: 1,2,3  
+[2023-06-12 15:12:43] local.INFO: Picker Groups: ["Dry","Frozen","Refrigerated"]  
+[2023-06-12 15:12:43] local.INFO: Max batch for picker: 20  
+[2023-06-12 15:12:43] local.INFO: Fulfilled By: e-tailer  
+[2023-06-12 15:12:43] local.INFO: Sub Order Number: 12158.001_XE_0  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7143. Temp: Frozen. Pack Type: Frozen  
+[2023-06-12 15:12:43] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-06-12 15:12:43] local.INFO: Pack Type to Assign: Frozen  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7143. Transit day: 1  
+[2023-06-12 15:12:43] local.INFO: strcmp: 0  
+[2023-06-12 15:12:43] local.INFO: To check. Temp: Frozen, Day: 1, osge: [{"id":1,"description":"FRZ | 4Day","temperature":"Frozen","day":"4","created_at":null,"updated_at":null},{"id":2,"description":"FRZ | 3Day","temperature":"Frozen","day":"3","created_at":null,"updated_at":null},{"id":3,"description":"FRZ | 2Day","temperature":"Frozen","day":"2","created_at":null,"updated_at":null},{"id":4,"description":"FRZ | 1Day","temperature":"Frozen","day":"1","created_at":null,"updated_at":null},{"id":5,"description":"REF | 4Day","temperature":"Refrigerated","day":"4","created_at":null,"updated_at":null},{"id":6,"description":"REF | 3Day","temperature":"Refrigerated","day":"3","created_at":null,"updated_at":null},{"id":7,"description":"REF | 2Day","temperature":"Refrigerated","day":"2","created_at":null,"updated_at":null},{"id":8,"description":"REF | 1Day","temperature":"Refrigerated","day":"1","created_at":null,"updated_at":null},{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 4  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 3  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 2  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 1  
+[2023-06-12 15:12:43] local.INFO: isTempAndTransitElligible: 1  
+[2023-06-12 15:12:43] local.INFO: Condition 1: true  
+[2023-06-12 15:12:43] local.INFO: Condition 2: true  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7143. Order Added to batch.  
+[2023-06-12 15:12:43] local.INFO: Fulfilled By: e-tailer  
+[2023-06-12 15:12:43] local.INFO: Sub Order Number: 12158.001_XE_0  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7142. Temp: Frozen. Pack Type: Frozen  
+[2023-06-12 15:12:43] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-06-12 15:12:43] local.INFO: Pack Type to Assign: Frozen  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7142. Transit day: 1  
+[2023-06-12 15:12:43] local.INFO: strcmp: 0  
+[2023-06-12 15:12:43] local.INFO: To check. Temp: Frozen, Day: 1, osge: [{"id":1,"description":"FRZ | 4Day","temperature":"Frozen","day":"4","created_at":null,"updated_at":null},{"id":2,"description":"FRZ | 3Day","temperature":"Frozen","day":"3","created_at":null,"updated_at":null},{"id":3,"description":"FRZ | 2Day","temperature":"Frozen","day":"2","created_at":null,"updated_at":null},{"id":4,"description":"FRZ | 1Day","temperature":"Frozen","day":"1","created_at":null,"updated_at":null},{"id":5,"description":"REF | 4Day","temperature":"Refrigerated","day":"4","created_at":null,"updated_at":null},{"id":6,"description":"REF | 3Day","temperature":"Refrigerated","day":"3","created_at":null,"updated_at":null},{"id":7,"description":"REF | 2Day","temperature":"Refrigerated","day":"2","created_at":null,"updated_at":null},{"id":8,"description":"REF | 1Day","temperature":"Refrigerated","day":"1","created_at":null,"updated_at":null},{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 4  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 3  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 2  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 1  
+[2023-06-12 15:12:43] local.INFO: isTempAndTransitElligible: 1  
+[2023-06-12 15:12:43] local.INFO: Condition 1: true  
+[2023-06-12 15:12:43] local.INFO: Condition 2: true  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7142. Order Added to batch.  
+[2023-06-12 15:12:43] local.INFO: Fulfilled By: e-tailer  
+[2023-06-12 15:12:43] local.INFO: Sub Order Number: 12158.001_XE_0  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7141. Temp: Frozen. Pack Type: Frozen  
+[2023-06-12 15:12:43] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-06-12 15:12:43] local.INFO: Pack Type to Assign: Frozen  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7141. Transit day: 1  
+[2023-06-12 15:12:43] local.INFO: strcmp: 0  
+[2023-06-12 15:12:43] local.INFO: To check. Temp: Frozen, Day: 1, osge: [{"id":1,"description":"FRZ | 4Day","temperature":"Frozen","day":"4","created_at":null,"updated_at":null},{"id":2,"description":"FRZ | 3Day","temperature":"Frozen","day":"3","created_at":null,"updated_at":null},{"id":3,"description":"FRZ | 2Day","temperature":"Frozen","day":"2","created_at":null,"updated_at":null},{"id":4,"description":"FRZ | 1Day","temperature":"Frozen","day":"1","created_at":null,"updated_at":null},{"id":5,"description":"REF | 4Day","temperature":"Refrigerated","day":"4","created_at":null,"updated_at":null},{"id":6,"description":"REF | 3Day","temperature":"Refrigerated","day":"3","created_at":null,"updated_at":null},{"id":7,"description":"REF | 2Day","temperature":"Refrigerated","day":"2","created_at":null,"updated_at":null},{"id":8,"description":"REF | 1Day","temperature":"Refrigerated","day":"1","created_at":null,"updated_at":null},{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 4  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 3  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 2  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 1  
+[2023-06-12 15:12:43] local.INFO: isTempAndTransitElligible: 1  
+[2023-06-12 15:12:43] local.INFO: Condition 1: true  
+[2023-06-12 15:12:43] local.INFO: Condition 2: true  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7141. Order Added to batch.  
+[2023-06-12 15:12:43] local.INFO: Fulfilled By: e-tailer  
+[2023-06-12 15:12:43] local.INFO: Sub Order Number: 12158.001_XE_0  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7140. Temp: Frozen. Pack Type: Frozen  
+[2023-06-12 15:12:43] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-06-12 15:12:43] local.INFO: Pack Type to Assign: Frozen  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7140. Transit day: 1  
+[2023-06-12 15:12:43] local.INFO: strcmp: 0  
+[2023-06-12 15:12:43] local.INFO: To check. Temp: Frozen, Day: 1, osge: [{"id":1,"description":"FRZ | 4Day","temperature":"Frozen","day":"4","created_at":null,"updated_at":null},{"id":2,"description":"FRZ | 3Day","temperature":"Frozen","day":"3","created_at":null,"updated_at":null},{"id":3,"description":"FRZ | 2Day","temperature":"Frozen","day":"2","created_at":null,"updated_at":null},{"id":4,"description":"FRZ | 1Day","temperature":"Frozen","day":"1","created_at":null,"updated_at":null},{"id":5,"description":"REF | 4Day","temperature":"Refrigerated","day":"4","created_at":null,"updated_at":null},{"id":6,"description":"REF | 3Day","temperature":"Refrigerated","day":"3","created_at":null,"updated_at":null},{"id":7,"description":"REF | 2Day","temperature":"Refrigerated","day":"2","created_at":null,"updated_at":null},{"id":8,"description":"REF | 1Day","temperature":"Refrigerated","day":"1","created_at":null,"updated_at":null},{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 4  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 3  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 2  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 1  
+[2023-06-12 15:12:43] local.INFO: isTempAndTransitElligible: 1  
+[2023-06-12 15:12:43] local.INFO: Condition 1: true  
+[2023-06-12 15:12:43] local.INFO: Condition 2: true  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7140. Order Added to batch.  
+[2023-06-12 15:12:43] local.INFO: Fulfilled By: e-tailer  
+[2023-06-12 15:12:43] local.INFO: Sub Order Number: 12158.001_XE_0  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7139. Temp: Frozen. Pack Type: Frozen  
+[2023-06-12 15:12:43] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-06-12 15:12:43] local.INFO: Pack Type to Assign: Frozen  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7139. Transit day: 1  
+[2023-06-12 15:12:43] local.INFO: strcmp: 0  
+[2023-06-12 15:12:43] local.INFO: To check. Temp: Frozen, Day: 1, osge: [{"id":1,"description":"FRZ | 4Day","temperature":"Frozen","day":"4","created_at":null,"updated_at":null},{"id":2,"description":"FRZ | 3Day","temperature":"Frozen","day":"3","created_at":null,"updated_at":null},{"id":3,"description":"FRZ | 2Day","temperature":"Frozen","day":"2","created_at":null,"updated_at":null},{"id":4,"description":"FRZ | 1Day","temperature":"Frozen","day":"1","created_at":null,"updated_at":null},{"id":5,"description":"REF | 4Day","temperature":"Refrigerated","day":"4","created_at":null,"updated_at":null},{"id":6,"description":"REF | 3Day","temperature":"Refrigerated","day":"3","created_at":null,"updated_at":null},{"id":7,"description":"REF | 2Day","temperature":"Refrigerated","day":"2","created_at":null,"updated_at":null},{"id":8,"description":"REF | 1Day","temperature":"Refrigerated","day":"1","created_at":null,"updated_at":null},{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 4  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 3  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 2  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 1  
+[2023-06-12 15:12:43] local.INFO: isTempAndTransitElligible: 1  
+[2023-06-12 15:12:43] local.INFO: Condition 1: true  
+[2023-06-12 15:12:43] local.INFO: Condition 2: true  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7139. Order Added to batch.  
+[2023-06-12 15:12:43] local.INFO: Fulfilled By: e-tailer  
+[2023-06-12 15:12:43] local.INFO: Sub Order Number: 12158.001_XE_0  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7138. Temp: Frozen. Pack Type: Frozen  
+[2023-06-12 15:12:43] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-06-12 15:12:43] local.INFO: Pack Type to Assign: Frozen  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7138. Transit day: 1  
+[2023-06-12 15:12:43] local.INFO: strcmp: 0  
+[2023-06-12 15:12:43] local.INFO: To check. Temp: Frozen, Day: 1, osge: [{"id":1,"description":"FRZ | 4Day","temperature":"Frozen","day":"4","created_at":null,"updated_at":null},{"id":2,"description":"FRZ | 3Day","temperature":"Frozen","day":"3","created_at":null,"updated_at":null},{"id":3,"description":"FRZ | 2Day","temperature":"Frozen","day":"2","created_at":null,"updated_at":null},{"id":4,"description":"FRZ | 1Day","temperature":"Frozen","day":"1","created_at":null,"updated_at":null},{"id":5,"description":"REF | 4Day","temperature":"Refrigerated","day":"4","created_at":null,"updated_at":null},{"id":6,"description":"REF | 3Day","temperature":"Refrigerated","day":"3","created_at":null,"updated_at":null},{"id":7,"description":"REF | 2Day","temperature":"Refrigerated","day":"2","created_at":null,"updated_at":null},{"id":8,"description":"REF | 1Day","temperature":"Refrigerated","day":"1","created_at":null,"updated_at":null},{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 4  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 3  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 2  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 1  
+[2023-06-12 15:12:43] local.INFO: isTempAndTransitElligible: 1  
+[2023-06-12 15:12:43] local.INFO: Condition 1: true  
+[2023-06-12 15:12:43] local.INFO: Condition 2: true  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7138. Order Added to batch.  
+[2023-06-12 15:12:43] local.INFO: Fulfilled By: e-tailer  
+[2023-06-12 15:12:43] local.INFO: Sub Order Number: 12158.001_XE_0  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7137. Temp: Frozen. Pack Type: Frozen  
+[2023-06-12 15:12:43] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-06-12 15:12:43] local.INFO: Pack Type to Assign: Frozen  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7137. Transit day: 1  
+[2023-06-12 15:12:43] local.INFO: strcmp: 0  
+[2023-06-12 15:12:43] local.INFO: To check. Temp: Frozen, Day: 1, osge: [{"id":1,"description":"FRZ | 4Day","temperature":"Frozen","day":"4","created_at":null,"updated_at":null},{"id":2,"description":"FRZ | 3Day","temperature":"Frozen","day":"3","created_at":null,"updated_at":null},{"id":3,"description":"FRZ | 2Day","temperature":"Frozen","day":"2","created_at":null,"updated_at":null},{"id":4,"description":"FRZ | 1Day","temperature":"Frozen","day":"1","created_at":null,"updated_at":null},{"id":5,"description":"REF | 4Day","temperature":"Refrigerated","day":"4","created_at":null,"updated_at":null},{"id":6,"description":"REF | 3Day","temperature":"Refrigerated","day":"3","created_at":null,"updated_at":null},{"id":7,"description":"REF | 2Day","temperature":"Refrigerated","day":"2","created_at":null,"updated_at":null},{"id":8,"description":"REF | 1Day","temperature":"Refrigerated","day":"1","created_at":null,"updated_at":null},{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 4  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 3  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 2  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 1  
+[2023-06-12 15:12:43] local.INFO: isTempAndTransitElligible: 1  
+[2023-06-12 15:12:43] local.INFO: Condition 1: true  
+[2023-06-12 15:12:43] local.INFO: Condition 2: true  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7137. Order Added to batch.  
+[2023-06-12 15:12:43] local.INFO: Fulfilled By: e-tailer  
+[2023-06-12 15:12:43] local.INFO: Sub Order Number: 12158.001_XE_0  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7136. Temp: Frozen. Pack Type: Frozen  
+[2023-06-12 15:12:43] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-06-12 15:12:43] local.INFO: Pack Type to Assign: Frozen  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7136. Transit day: 1  
+[2023-06-12 15:12:43] local.INFO: strcmp: 0  
+[2023-06-12 15:12:43] local.INFO: To check. Temp: Frozen, Day: 1, osge: [{"id":1,"description":"FRZ | 4Day","temperature":"Frozen","day":"4","created_at":null,"updated_at":null},{"id":2,"description":"FRZ | 3Day","temperature":"Frozen","day":"3","created_at":null,"updated_at":null},{"id":3,"description":"FRZ | 2Day","temperature":"Frozen","day":"2","created_at":null,"updated_at":null},{"id":4,"description":"FRZ | 1Day","temperature":"Frozen","day":"1","created_at":null,"updated_at":null},{"id":5,"description":"REF | 4Day","temperature":"Refrigerated","day":"4","created_at":null,"updated_at":null},{"id":6,"description":"REF | 3Day","temperature":"Refrigerated","day":"3","created_at":null,"updated_at":null},{"id":7,"description":"REF | 2Day","temperature":"Refrigerated","day":"2","created_at":null,"updated_at":null},{"id":8,"description":"REF | 1Day","temperature":"Refrigerated","day":"1","created_at":null,"updated_at":null},{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 4  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 3  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 2  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 1  
+[2023-06-12 15:12:43] local.INFO: isTempAndTransitElligible: 1  
+[2023-06-12 15:12:43] local.INFO: Condition 1: true  
+[2023-06-12 15:12:43] local.INFO: Condition 2: true  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7136. Order Added to batch.  
+[2023-06-12 15:12:43] local.INFO: Fulfilled By: e-tailer  
+[2023-06-12 15:12:43] local.INFO: Sub Order Number: 12158.001_XE_0  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7135. Temp: Frozen. Pack Type: Frozen  
+[2023-06-12 15:12:43] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-06-12 15:12:43] local.INFO: Pack Type to Assign: Frozen  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7135. Transit day: 1  
+[2023-06-12 15:12:43] local.INFO: strcmp: 0  
+[2023-06-12 15:12:43] local.INFO: To check. Temp: Frozen, Day: 1, osge: [{"id":1,"description":"FRZ | 4Day","temperature":"Frozen","day":"4","created_at":null,"updated_at":null},{"id":2,"description":"FRZ | 3Day","temperature":"Frozen","day":"3","created_at":null,"updated_at":null},{"id":3,"description":"FRZ | 2Day","temperature":"Frozen","day":"2","created_at":null,"updated_at":null},{"id":4,"description":"FRZ | 1Day","temperature":"Frozen","day":"1","created_at":null,"updated_at":null},{"id":5,"description":"REF | 4Day","temperature":"Refrigerated","day":"4","created_at":null,"updated_at":null},{"id":6,"description":"REF | 3Day","temperature":"Refrigerated","day":"3","created_at":null,"updated_at":null},{"id":7,"description":"REF | 2Day","temperature":"Refrigerated","day":"2","created_at":null,"updated_at":null},{"id":8,"description":"REF | 1Day","temperature":"Refrigerated","day":"1","created_at":null,"updated_at":null},{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 4  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 3  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 2  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 1  
+[2023-06-12 15:12:43] local.INFO: isTempAndTransitElligible: 1  
+[2023-06-12 15:12:43] local.INFO: Condition 1: true  
+[2023-06-12 15:12:43] local.INFO: Condition 2: true  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7135. Order Added to batch.  
+[2023-06-12 15:12:43] local.INFO: Fulfilled By: e-tailer  
+[2023-06-12 15:12:43] local.INFO: Sub Order Number: 12147.001_XE_1  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7145. Temp: Frozen. Pack Type: Frozen  
+[2023-06-12 15:12:43] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-06-12 15:12:43] local.INFO: Pack Type to Assign: Frozen  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7145. Transit day:   
+[2023-06-12 15:12:43] local.INFO: strcmp: 0  
+[2023-06-12 15:12:43] local.INFO: To check. Temp: Frozen, Day: , osge: [{"id":1,"description":"FRZ | 4Day","temperature":"Frozen","day":"4","created_at":null,"updated_at":null},{"id":2,"description":"FRZ | 3Day","temperature":"Frozen","day":"3","created_at":null,"updated_at":null},{"id":3,"description":"FRZ | 2Day","temperature":"Frozen","day":"2","created_at":null,"updated_at":null},{"id":4,"description":"FRZ | 1Day","temperature":"Frozen","day":"1","created_at":null,"updated_at":null},{"id":5,"description":"REF | 4Day","temperature":"Refrigerated","day":"4","created_at":null,"updated_at":null},{"id":6,"description":"REF | 3Day","temperature":"Refrigerated","day":"3","created_at":null,"updated_at":null},{"id":7,"description":"REF | 2Day","temperature":"Refrigerated","day":"2","created_at":null,"updated_at":null},{"id":8,"description":"REF | 1Day","temperature":"Refrigerated","day":"1","created_at":null,"updated_at":null},{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 4  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 3  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 2  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 1  
+[2023-06-12 15:12:43] local.INFO: Temp: Refrigerated, Day: 4  
+[2023-06-12 15:12:43] local.INFO: Temp: Refrigerated, Day: 3  
+[2023-06-12 15:12:43] local.INFO: Temp: Refrigerated, Day: 2  
+[2023-06-12 15:12:43] local.INFO: Temp: Refrigerated, Day: 1  
+[2023-06-12 15:12:43] local.INFO: Temp: DRY, Day: 4  
+[2023-06-12 15:12:43] local.INFO: Temp: DRY, Day: 3  
+[2023-06-12 15:12:43] local.INFO: Temp: DRY, Day: 2  
+[2023-06-12 15:12:43] local.INFO: Temp: DRY, Day: 1  
+[2023-06-12 15:12:43] local.INFO: isTempAndTransitElligible:   
+[2023-06-12 15:12:43] local.INFO: Condition 1: true  
+[2023-06-12 15:12:43] local.INFO: Condition 2: false  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7145. Condition not fulfilled. Checking for Saturday Order.  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7145. Condition not fulfilled. Not Adding  
+[2023-06-12 15:12:43] local.INFO: Fulfilled By: e-tailer  
+[2023-06-12 15:12:43] local.INFO: Sub Order Number: 12147.001_XE_1  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7144. Temp: Frozen. Pack Type: Frozen  
+[2023-06-12 15:12:43] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-06-12 15:12:43] local.INFO: Pack Type to Assign: Frozen  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7144. Transit day: 1  
+[2023-06-12 15:12:43] local.INFO: strcmp: 0  
+[2023-06-12 15:12:43] local.INFO: To check. Temp: Frozen, Day: 1, osge: [{"id":1,"description":"FRZ | 4Day","temperature":"Frozen","day":"4","created_at":null,"updated_at":null},{"id":2,"description":"FRZ | 3Day","temperature":"Frozen","day":"3","created_at":null,"updated_at":null},{"id":3,"description":"FRZ | 2Day","temperature":"Frozen","day":"2","created_at":null,"updated_at":null},{"id":4,"description":"FRZ | 1Day","temperature":"Frozen","day":"1","created_at":null,"updated_at":null},{"id":5,"description":"REF | 4Day","temperature":"Refrigerated","day":"4","created_at":null,"updated_at":null},{"id":6,"description":"REF | 3Day","temperature":"Refrigerated","day":"3","created_at":null,"updated_at":null},{"id":7,"description":"REF | 2Day","temperature":"Refrigerated","day":"2","created_at":null,"updated_at":null},{"id":8,"description":"REF | 1Day","temperature":"Refrigerated","day":"1","created_at":null,"updated_at":null},{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 4  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 3  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 2  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 1  
+[2023-06-12 15:12:43] local.INFO: isTempAndTransitElligible: 1  
+[2023-06-12 15:12:43] local.INFO: Condition 1: true  
+[2023-06-12 15:12:43] local.INFO: Condition 2: true  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7144. Order Added to batch.  
+[2023-06-12 15:12:43] local.INFO: Fulfilled By: e-tailer  
+[2023-06-12 15:12:43] local.INFO: Sub Order Number: 12187.001  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7040. Temp: Frozen. Pack Type: Frozen  
+[2023-06-12 15:12:43] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-06-12 15:12:43] local.INFO: Pack Type to Assign: Frozen  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7040. Transit day: 2  
+[2023-06-12 15:12:43] local.INFO: strcmp: 0  
+[2023-06-12 15:12:43] local.INFO: To check. Temp: Frozen, Day: 2, osge: [{"id":1,"description":"FRZ | 4Day","temperature":"Frozen","day":"4","created_at":null,"updated_at":null},{"id":2,"description":"FRZ | 3Day","temperature":"Frozen","day":"3","created_at":null,"updated_at":null},{"id":3,"description":"FRZ | 2Day","temperature":"Frozen","day":"2","created_at":null,"updated_at":null},{"id":4,"description":"FRZ | 1Day","temperature":"Frozen","day":"1","created_at":null,"updated_at":null},{"id":5,"description":"REF | 4Day","temperature":"Refrigerated","day":"4","created_at":null,"updated_at":null},{"id":6,"description":"REF | 3Day","temperature":"Refrigerated","day":"3","created_at":null,"updated_at":null},{"id":7,"description":"REF | 2Day","temperature":"Refrigerated","day":"2","created_at":null,"updated_at":null},{"id":8,"description":"REF | 1Day","temperature":"Refrigerated","day":"1","created_at":null,"updated_at":null},{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 4  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 3  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 2  
+[2023-06-12 15:12:43] local.INFO: isTempAndTransitElligible: 1  
+[2023-06-12 15:12:43] local.INFO: Condition 1: true  
+[2023-06-12 15:12:43] local.INFO: Condition 2: true  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7040. Order Added to batch.  
+[2023-06-12 15:12:43] local.INFO: Fulfilled By: e-tailer  
+[2023-06-12 15:12:43] local.INFO: Sub Order Number: 12187.001  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7038. Temp: Frozen. Pack Type: Frozen  
+[2023-06-12 15:12:43] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-06-12 15:12:43] local.INFO: Pack Type to Assign: Frozen  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7038. Transit day: 2  
+[2023-06-12 15:12:43] local.INFO: strcmp: 0  
+[2023-06-12 15:12:43] local.INFO: To check. Temp: Frozen, Day: 2, osge: [{"id":1,"description":"FRZ | 4Day","temperature":"Frozen","day":"4","created_at":null,"updated_at":null},{"id":2,"description":"FRZ | 3Day","temperature":"Frozen","day":"3","created_at":null,"updated_at":null},{"id":3,"description":"FRZ | 2Day","temperature":"Frozen","day":"2","created_at":null,"updated_at":null},{"id":4,"description":"FRZ | 1Day","temperature":"Frozen","day":"1","created_at":null,"updated_at":null},{"id":5,"description":"REF | 4Day","temperature":"Refrigerated","day":"4","created_at":null,"updated_at":null},{"id":6,"description":"REF | 3Day","temperature":"Refrigerated","day":"3","created_at":null,"updated_at":null},{"id":7,"description":"REF | 2Day","temperature":"Refrigerated","day":"2","created_at":null,"updated_at":null},{"id":8,"description":"REF | 1Day","temperature":"Refrigerated","day":"1","created_at":null,"updated_at":null},{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 4  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 3  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 2  
+[2023-06-12 15:12:43] local.INFO: isTempAndTransitElligible: 1  
+[2023-06-12 15:12:43] local.INFO: Condition 1: true  
+[2023-06-12 15:12:43] local.INFO: Condition 2: true  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7038. Order Added to batch.  
+[2023-06-12 15:12:43] local.INFO: Fulfilled By: e-tailer  
+[2023-06-12 15:12:43] local.INFO: Sub Order Number: 12187.001  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7037. Temp: Frozen. Pack Type: Frozen  
+[2023-06-12 15:12:43] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-06-12 15:12:43] local.INFO: Pack Type to Assign: Frozen  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7037. Transit day: 2  
+[2023-06-12 15:12:43] local.INFO: strcmp: 0  
+[2023-06-12 15:12:43] local.INFO: To check. Temp: Frozen, Day: 2, osge: [{"id":1,"description":"FRZ | 4Day","temperature":"Frozen","day":"4","created_at":null,"updated_at":null},{"id":2,"description":"FRZ | 3Day","temperature":"Frozen","day":"3","created_at":null,"updated_at":null},{"id":3,"description":"FRZ | 2Day","temperature":"Frozen","day":"2","created_at":null,"updated_at":null},{"id":4,"description":"FRZ | 1Day","temperature":"Frozen","day":"1","created_at":null,"updated_at":null},{"id":5,"description":"REF | 4Day","temperature":"Refrigerated","day":"4","created_at":null,"updated_at":null},{"id":6,"description":"REF | 3Day","temperature":"Refrigerated","day":"3","created_at":null,"updated_at":null},{"id":7,"description":"REF | 2Day","temperature":"Refrigerated","day":"2","created_at":null,"updated_at":null},{"id":8,"description":"REF | 1Day","temperature":"Refrigerated","day":"1","created_at":null,"updated_at":null},{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 4  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 3  
+[2023-06-12 15:12:43] local.INFO: Temp: Frozen, Day: 2  
+[2023-06-12 15:12:43] local.INFO: isTempAndTransitElligible: 1  
+[2023-06-12 15:12:43] local.INFO: Condition 1: true  
+[2023-06-12 15:12:43] local.INFO: Condition 2: true  
+[2023-06-12 15:12:43] local.INFO: Order Id: 7037. Order Added to batch.  
+[2023-06-12 15:12:43] local.INFO: Batch:[{"id":7143,"order_number":"12158","ETIN":"ETFZ-1002-0549","SA_line_number":"13308959555822","SA_sku":"1206","channel_product_name":"Zero Added Sugar Ice Cream Bars - Vanilla Crunch","etailer_product_name":"Keto Pint Vanilla Crunch Ice Cream Bar, 11 oz. Box (1-4 Each)","channel_unit_price":"9.99","channel_extended_price":"9.99","etailer_channel_price":"9.99","discount_name":null,"customer_discount":null,"customer_paid_price":"9.99","quantity_ordered":"1","quantity_fulfilled":"1","ETIN_flag":"0","created_at":"2023-05-01T21:20:10.000000Z","updated_at":"2023-06-08T19:50:32.000000Z","sub_order_number":"12158.001_XE_0","warehouse":"PA","fulfilled_by":"e-tailer","picker_id":null,"status":9,"carrier_id":1,"carrier_account_id":11,"service_type_id":1,"transit_days":1,"hot_route":0,"air_shipment":null,"ship_to_state":"NY","ship_to_zip":"11213","etailer_order_number":"12158","client_id":"71","saturday_eligible":0},{"id":7142,"order_number":"12158","ETIN":"ETFZ-1002-0553","SA_line_number":"13308959523054","SA_sku":"1211","channel_product_name":"Zero Added Sugar Ice Cream Bars - Triple Chocolate Crunch","etailer_product_name":"Keto Pint Triple Chocolate Crunch Ice Cream Bar, 11 oz. Box (1-4 Each)","channel_unit_price":"9.99","channel_extended_price":"9.99","etailer_channel_price":"9.99","discount_name":null,"customer_discount":null,"customer_paid_price":"9.99","quantity_ordered":"1","quantity_fulfilled":"1","ETIN_flag":"0","created_at":"2023-05-01T21:20:10.000000Z","updated_at":"2023-06-08T19:50:32.000000Z","sub_order_number":"12158.001_XE_0","warehouse":"PA","fulfilled_by":"e-tailer","picker_id":null,"status":9,"carrier_id":1,"carrier_account_id":11,"service_type_id":1,"transit_days":1,"hot_route":0,"air_shipment":null,"ship_to_state":"NY","ship_to_zip":"11213","etailer_order_number":"12158","client_id":"71","saturday_eligible":0},{"id":7141,"order_number":"12158","ETIN":"ETFZ-1002-0360","SA_line_number":"13308959490286","SA_sku":"1204","channel_product_name":"Keto Ice Cream Bars - Chocolate","etailer_product_name":"Keto Pint Chocolate Ice Cream Bar, 1.52 oz. Bar (1-4 Pack)","channel_unit_price":"9.99","channel_extended_price":"9.99","etailer_channel_price":"1","discount_name":null,"customer_discount":null,"customer_paid_price":"9.99","quantity_ordered":"1","quantity_fulfilled":"1","ETIN_flag":"0","created_at":"2023-05-01T21:20:09.000000Z","updated_at":"2023-06-08T19:50:32.000000Z","sub_order_number":"12158.001_XE_0","warehouse":"PA","fulfilled_by":"e-tailer","picker_id":null,"status":9,"carrier_id":1,"carrier_account_id":11,"service_type_id":1,"transit_days":1,"hot_route":0,"air_shipment":null,"ship_to_state":"NY","ship_to_zip":"11213","etailer_order_number":"12158","client_id":"71","saturday_eligible":0},{"id":7140,"order_number":"12158","ETIN":"ETFZ-1002-0361","SA_line_number":"13308959457518","SA_sku":"1205","channel_product_name":"Keto Ice Cream Bars - Strawberry","etailer_product_name":"Keto Pint Strawberry Ice Cream Bar, 1.52 oz. Bar (1-4 Pack)","channel_unit_price":"9.99","channel_extended_price":"9.99","etailer_channel_price":"1","discount_name":null,"customer_discount":null,"customer_paid_price":"9.99","quantity_ordered":"1","quantity_fulfilled":"1","ETIN_flag":"0","created_at":"2023-05-01T21:20:09.000000Z","updated_at":"2023-06-08T19:50:32.000000Z","sub_order_number":"12158.001_XE_0","warehouse":"PA","fulfilled_by":"e-tailer","picker_id":null,"status":9,"carrier_id":1,"carrier_account_id":11,"service_type_id":1,"transit_days":1,"hot_route":0,"air_shipment":null,"ship_to_state":"NY","ship_to_zip":"11213","etailer_order_number":"12158","client_id":"71","saturday_eligible":0},{"id":7139,"order_number":"12158","ETIN":"ETFZ-1002-0329","SA_line_number":"13308959424750","SA_sku":"1105","channel_product_name":"Keto Pint - Triple Chocolate Brownie","etailer_product_name":"Keto Pint Triple Chocolate Brownie Ice Cream, 16 oz. Pint (1-1 Each)","channel_unit_price":"9.99","channel_extended_price":"19.98","etailer_channel_price":"0.02","discount_name":null,"customer_discount":null,"customer_paid_price":"19.98","quantity_ordered":"2","quantity_fulfilled":"2","ETIN_flag":"0","created_at":"2023-05-01T21:20:09.000000Z","updated_at":"2023-06-08T19:50:32.000000Z","sub_order_number":"12158.001_XE_0","warehouse":"PA","fulfilled_by":"e-tailer","picker_id":null,"status":9,"carrier_id":1,"carrier_account_id":11,"service_type_id":1,"transit_days":1,"hot_route":0,"air_shipment":null,"ship_to_state":"NY","ship_to_zip":"11213","etailer_order_number":"12158","client_id":"71","saturday_eligible":0},{"id":7138,"order_number":"12158","ETIN":"ETFZ-1002-0334","SA_line_number":"13308959391982","SA_sku":"1110","channel_product_name":"Keto Pint - Cherry Chip","etailer_product_name":"Keto Pint Cherry Chip Ice Cream, 16 oz. Pint (1-1 Each)","channel_unit_price":"9.99","channel_extended_price":"9.99","etailer_channel_price":"0.01","discount_name":null,"customer_discount":null,"customer_paid_price":"9.99","quantity_ordered":"1","quantity_fulfilled":"1","ETIN_flag":"0","created_at":"2023-05-01T21:20:08.000000Z","updated_at":"2023-06-08T19:50:32.000000Z","sub_order_number":"12158.001_XE_0","warehouse":"PA","fulfilled_by":"e-tailer","picker_id":null,"status":9,"carrier_id":1,"carrier_account_id":11,"service_type_id":1,"transit_days":1,"hot_route":0,"air_shipment":null,"ship_to_state":"NY","ship_to_zip":"11213","etailer_order_number":"12158","client_id":"71","saturday_eligible":0},{"id":7137,"order_number":"12158","ETIN":"ETFZ-1002-0330","SA_line_number":"13308959359214","SA_sku":"1106","channel_product_name":"Keto Pint - Chocolate Chip Cookie Dough","etailer_product_name":"Keto Pint Cookie Dough Ice Cream, 16 oz. Pint (1-1 Each)","channel_unit_price":"9.99","channel_extended_price":"19.98","etailer_channel_price":"0.02","discount_name":null,"customer_discount":null,"customer_paid_price":"19.98","quantity_ordered":"2","quantity_fulfilled":"2","ETIN_flag":"0","created_at":"2023-05-01T21:20:08.000000Z","updated_at":"2023-06-08T19:50:32.000000Z","sub_order_number":"12158.001_XE_0","warehouse":"PA","fulfilled_by":"e-tailer","picker_id":null,"status":9,"carrier_id":1,"carrier_account_id":11,"service_type_id":1,"transit_days":1,"hot_route":0,"air_shipment":null,"ship_to_state":"NY","ship_to_zip":"11213","etailer_order_number":"12158","client_id":"71","saturday_eligible":0},{"id":7136,"order_number":"12158","ETIN":"ETFZ-1002-0331","SA_line_number":"13308959326446","SA_sku":"1107","channel_product_name":"Keto Pint - Strawberry","etailer_product_name":"Keto Pint Strawberry Ice Cream, 16 oz. Pint (1-1 Each)","channel_unit_price":"9.99","channel_extended_price":"9.99","etailer_channel_price":"0.01","discount_name":null,"customer_discount":null,"customer_paid_price":"9.99","quantity_ordered":"1","quantity_fulfilled":"1","ETIN_flag":"0","created_at":"2023-05-01T21:20:07.000000Z","updated_at":"2023-06-08T19:50:32.000000Z","sub_order_number":"12158.001_XE_0","warehouse":"PA","fulfilled_by":"e-tailer","picker_id":null,"status":9,"carrier_id":1,"carrier_account_id":11,"service_type_id":1,"transit_days":1,"hot_route":0,"air_shipment":null,"ship_to_state":"NY","ship_to_zip":"11213","etailer_order_number":"12158","client_id":"71","saturday_eligible":0},{"id":7135,"order_number":"12158","ETIN":"ETFZ-1002-0335","SA_line_number":"13308959293678","SA_sku":"1111","channel_product_name":"Keto Pint - Cake Batter","etailer_product_name":"Keto Pint Birthday Cake Ice Cream, 16 oz. Pint (1-1 Each)","channel_unit_price":"9.99","channel_extended_price":"9.99","etailer_channel_price":"0.01","discount_name":null,"customer_discount":null,"customer_paid_price":"9.99","quantity_ordered":"1","quantity_fulfilled":"1","ETIN_flag":"0","created_at":"2023-05-01T21:20:07.000000Z","updated_at":"2023-06-08T19:50:32.000000Z","sub_order_number":"12158.001_XE_0","warehouse":"PA","fulfilled_by":"e-tailer","picker_id":null,"status":9,"carrier_id":1,"carrier_account_id":11,"service_type_id":1,"transit_days":1,"hot_route":0,"air_shipment":null,"ship_to_state":"NY","ship_to_zip":"11213","etailer_order_number":"12158","client_id":"71","saturday_eligible":0},{"id":7144,"order_number":"12147","ETIN":"ETFZ-1001-7919","SA_line_number":"2525","SA_sku":"ETFZ-0001-6153","channel_product_name":"Double Chocolate Cherry Frobert - 16oz. Pint","etailer_product_name":"The Frozen Farmer Double Chocolate Cherry Frobert, 16 fl. oz. Pint (1-1 Each)","channel_unit_price":"9.99","channel_extended_price":"89.91","etailer_channel_price":"27","discount_name":null,"customer_discount":"22.5","customer_paid_price":"-112.59","quantity_ordered":"9","quantity_fulfilled":"9","ETIN_flag":"0","created_at":"2023-04-30T23:20:05.000000Z","updated_at":"2023-06-08T19:50:32.000000Z","sub_order_number":"12147.001_XE_1","warehouse":"PA","fulfilled_by":"e-tailer","picker_id":null,"status":9,"carrier_id":1,"carrier_account_id":11,"service_type_id":1,"transit_days":1,"hot_route":0,"air_shipment":null,"ship_to_state":"CT","ship_to_zip":"06231","etailer_order_number":"12147","client_id":"40","saturday_eligible":0},{"id":7040,"order_number":"12187","ETIN":"ETFZ-1001-8181","SA_line_number":"12547289514071","SA_sku":"ETFZ-0001-1244","channel_product_name":"Midnight Chocolate","etailer_product_name":"Nightfood Midnight Chocolate Sleep Expert Approved - Nighttime Ice Cream, 16 fl. oz. Pint (1-1 Each)","channel_unit_price":"7.99","channel_extended_price":"7.99","etailer_channel_price":"0.01","discount_name":null,"customer_discount":null,"customer_paid_price":"7.99","quantity_ordered":"1","quantity_fulfilled":"1","ETIN_flag":"0","created_at":"2023-05-03T18:30:06.000000Z","updated_at":"2023-05-12T18:43:08.000000Z","sub_order_number":"12187.001","warehouse":"PA","fulfilled_by":"e-tailer","picker_id":null,"status":1,"carrier_id":1,"carrier_account_id":11,"service_type_id":1,"transit_days":2,"hot_route":0,"air_shipment":null,"ship_to_state":"MA","ship_to_zip":"01430","etailer_order_number":"12187","client_id":"22","saturday_eligible":0},{"id":7038,"order_number":"12187","ETIN":"ETFZ-1001-8176","SA_line_number":"12547289448535","SA_sku":"ETFZ-0001-1239","channel_product_name":"Bed and Breakfast","etailer_product_name":"Nightfood Bed And Breakfast Sleep Expert Approved - Nighttime Ice Cream, 16 fl. oz. Pint (1-1 Each)","channel_unit_price":"7.99","channel_extended_price":"7.99","etailer_channel_price":"0.01","discount_name":null,"customer_discount":null,"customer_paid_price":"7.99","quantity_ordered":"1","quantity_fulfilled":"1","ETIN_flag":"0","created_at":"2023-05-03T18:30:05.000000Z","updated_at":"2023-05-12T18:43:08.000000Z","sub_order_number":"12187.001","warehouse":"PA","fulfilled_by":"e-tailer","picker_id":null,"status":1,"carrier_id":1,"carrier_account_id":11,"service_type_id":1,"transit_days":2,"hot_route":0,"air_shipment":null,"ship_to_state":"MA","ship_to_zip":"01430","etailer_order_number":"12187","client_id":"22","saturday_eligible":0},{"id":7037,"order_number":"12187","ETIN":"ETFZ-1001-8175","SA_line_number":"12547289415767","SA_sku":"ETFZ-0001-1238","channel_product_name":"After Dinner Mint Chip","etailer_product_name":"Nightfood After Dinner Mint Chip Sleep Expert Approved - Nighttime Ice Cream, 16 fl. oz. Pint (1-1 E","channel_unit_price":"7.99","channel_extended_price":"7.99","etailer_channel_price":"0.01","discount_name":null,"customer_discount":null,"customer_paid_price":"7.99","quantity_ordered":"1","quantity_fulfilled":"1","ETIN_flag":"0","created_at":"2023-05-03T18:30:05.000000Z","updated_at":"2023-05-12T18:43:08.000000Z","sub_order_number":"12187.001","warehouse":"PA","fulfilled_by":"e-tailer","picker_id":null,"status":1,"carrier_id":null,"carrier_account_id":null,"service_type_id":null,"transit_days":2,"hot_route":0,"air_shipment":null,"ship_to_state":"MA","ship_to_zip":"01430","etailer_order_number":"12187","client_id":"22","saturday_eligible":0}]  
+[2023-06-12 15:12:43] local.INFO: orderNumbers:["12158","12147","12187"]  

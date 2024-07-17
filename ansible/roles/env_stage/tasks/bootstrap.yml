@@ -1,0 +1,46 @@
+---
+
+- name: bootstrap conf
+  template:
+    src: "config.php.j2"
+    dest: "/var/www/html/cranium/bootstrap/cache/config.php"
+    owner: "ec2-user"
+    group: "ec2-user"
+    mode: "0777"
+
+- name: env file
+  template:
+    src: "env.j2"
+    dest: "/var/www/html/cranium/.env"
+    owner: "ec2-user"
+    group: "ec2-user"
+    mode: "0777"    
+
+- name: Running composer and restart
+  shell: | 
+    cd /var/www/html/cranium/
+    #sudo chown -R ec2-user:ec2-user bootstrap
+    sudo chmod -R 777 bootstrap
+    cd storage
+    sudo mkdir -p framework/cache
+    sudo mkdir -p framework/sessions
+    sudo mkdir -p framework/testing
+    sudo mkdir -p framework/views
+    sudo mkdir -p framework/cache/data
+    sudo chown -R ec2-user:ec2-user ../storage
+    sudo chmod -R 777 ../storage    
+    cd ../
+    yes | composer install
+    php artisan cache:clear
+    php artisan config:clear
+    php artisan view:clear
+
+- name: fpm
+  service:
+    name: php-fpm
+    state: restarted
+
+- name: httpd
+  service:
+    name: httpd
+    state: restarted

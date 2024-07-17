@@ -1,0 +1,348 @@
+[2023-06-08 12:59:52] local.INFO: Starting Orders Processing  
+[2023-06-08 12:59:52] local.INFO: Getting all new orders  
+[2023-06-08 12:59:52] local.INFO: ************Start of 12204 **************  
+[2023-06-08 12:59:52] local.INFO: Order number: 12204  
+[2023-06-08 12:59:52] local.INFO: Checking address for: 12204  
+[2023-06-08 12:59:52] local.INFO: Fetching address validation  
+[2023-06-08 13:25:51] local.INFO: Starting Orders Processing  
+[2023-06-08 13:26:05] local.INFO: Starting Orders Processing  
+[2023-06-08 13:26:27] local.INFO: Starting Orders Processing  
+[2023-06-08 13:26:34] local.INFO: Starting Orders Processing  
+[2023-06-08 13:26:34] local.INFO: Getting all new orders  
+[2023-06-08 13:26:34] local.INFO: ************Start of 12204 **************  
+[2023-06-08 13:26:34] local.INFO: Order number: 12204  
+[2023-06-08 13:26:34] local.INFO: Checking address for: 12204  
+[2023-06-08 13:26:34] local.INFO: Fetching address validation  
+[2023-06-08 13:27:01] local.INFO: Starting Orders Processing  
+[2023-06-08 13:27:01] local.INFO: Getting all new orders  
+[2023-06-08 13:27:52] local.INFO: Starting Orders Processing  
+[2023-06-08 13:27:52] local.INFO: Getting all new orders  
+[2023-06-08 13:27:52] local.INFO: ************Start of 12204 **************  
+[2023-06-08 13:27:52] local.INFO: Order number: 12204  
+[2023-06-08 13:27:52] local.INFO: Checking address for: 12204  
+[2023-06-08 13:27:52] local.INFO: Fetching address validation  
+[2023-06-08 13:31:59] local.INFO: Starting Orders Processing  
+[2023-06-08 13:31:59] local.INFO: Getting all new orders  
+[2023-06-08 13:31:59] local.INFO: ************Start of 12204 **************  
+[2023-06-08 13:31:59] local.INFO: Order number: 12204  
+[2023-06-08 13:31:59] local.INFO: Checking address for: 12204  
+[2023-06-08 13:31:59] local.INFO: Fetching address validation  
+[2023-06-08 13:32:22] local.INFO: Starting Orders Processing  
+[2023-06-08 13:32:22] local.INFO: Getting all new orders  
+[2023-06-08 13:32:22] local.INFO: ************Start of 12204 **************  
+[2023-06-08 13:32:22] local.INFO: Order number: 12204  
+[2023-06-08 13:32:22] local.INFO: Checking address for: 12204  
+[2023-06-08 13:32:22] local.INFO: Fetching address validation  
+[2023-06-08 13:33:00] local.INFO: Starting Orders Processing  
+[2023-06-08 13:33:00] local.INFO: Getting all new orders  
+[2023-06-08 13:33:27] local.INFO: Starting Orders Processing  
+[2023-06-08 13:33:27] local.INFO: Getting all new orders  
+[2023-06-08 13:33:27] local.INFO: ************Start of 12204 **************  
+[2023-06-08 13:33:27] local.INFO: Order number: 12204  
+[2023-06-08 13:33:41] local.INFO: Starting Orders Processing  
+[2023-06-08 13:33:41] local.INFO: Getting all new orders  
+[2023-06-08 13:33:41] local.INFO: ************Start of 12204 **************  
+[2023-06-08 13:33:41] local.INFO: Order number: 12204  
+[2023-06-08 13:33:41] local.INFO: Checking address for: 12204  
+[2023-06-08 13:33:41] local.INFO: Fetching address validation  
+[2023-06-08 13:34:02] local.INFO: Starting Orders Processing  
+[2023-06-08 13:34:02] local.INFO: Getting all new orders  
+[2023-06-08 13:34:02] local.INFO: ************Start of 12204 **************  
+[2023-06-08 13:34:02] local.INFO: Order number: 12204  
+[2023-06-08 13:34:13] local.INFO: Starting Orders Processing  
+[2023-06-08 13:34:13] local.INFO: Getting all new orders  
+[2023-06-08 13:34:13] local.INFO: ************Start of 12204 **************  
+[2023-06-08 13:34:13] local.INFO: Order number: 12204  
+[2023-06-08 13:34:13] local.INFO: Checking address for: 12204  
+[2023-06-08 13:34:13] local.INFO: Fetching address validation  
+[2023-06-08 13:34:26] local.INFO: Starting Orders Processing  
+[2023-06-08 13:34:26] local.INFO: Getting all new orders  
+[2023-06-08 13:34:26] local.INFO: ************Start of 12204 **************  
+[2023-06-08 13:34:26] local.INFO: Order number: 12204  
+[2023-06-08 13:34:26] local.INFO: Checking address for: 12204  
+[2023-06-08 13:35:05] local.INFO: Starting Orders Processing  
+[2023-06-08 13:35:05] local.INFO: Getting all new orders  
+[2023-06-08 13:35:05] local.INFO: ************Start of 12204 **************  
+[2023-06-08 13:35:05] local.INFO: Order number: 12204  
+[2023-06-08 13:35:05] local.INFO: Checking address for: 12204  
+[2023-06-08 13:35:16] local.INFO: Starting Orders Processing  
+[2023-06-08 13:35:16] local.INFO: Getting all new orders  
+[2023-06-08 13:35:16] local.INFO: ************Start of 12204 **************  
+[2023-06-08 13:35:16] local.INFO: Order number: 12204  
+[2023-06-08 13:35:16] local.INFO: Checking address for: 12204  
+[2023-06-08 13:35:16] local.INFO: Starting Re-Checking Flags for Order Number: 12204  
+[2023-06-08 13:35:16] local.INFO: In Check for exclusion  
+[2023-06-08 13:35:16] local.INFO: Params: Client|Channel|MP_ID|SKU - 22|44||NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:35:16] local.INFO: MP Not found. Checking SKU Exclusion: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:35:16] local.INFO: Exclusions: 0  
+[2023-06-08 13:35:16] local.INFO: DNE: Nightfood  
+[2023-06-08 13:35:16] local.INFO: Re-Checking Flags for Order Number: 12204 complete.  
+[2023-06-08 13:35:16] local.INFO: ************Start WH Checking*************  
+[2023-06-08 13:35:16] local.INFO: Checking for WH for Order: 12204  
+[2023-06-08 13:35:16] local.INFO: Selected Warehouse:   
+[2023-06-08 13:35:16] local.INFO: Selected Transit Day:   
+[2023-06-08 13:35:16] local.INFO: ************End WH Checking**************  
+[2023-06-08 13:35:37] local.INFO: Starting Orders Processing  
+[2023-06-08 13:35:37] local.INFO: Getting all new orders  
+[2023-06-08 13:35:37] local.INFO: ************Start of 12204 **************  
+[2023-06-08 13:35:37] local.INFO: Order number: 12204  
+[2023-06-08 13:35:37] local.INFO: Checking address for: 12204  
+[2023-06-08 13:35:37] local.INFO: Starting Re-Checking Flags for Order Number: 12204  
+[2023-06-08 13:35:38] local.INFO: In Check for exclusion  
+[2023-06-08 13:35:38] local.INFO: Params: Client|Channel|MP_ID|SKU - 22|44||NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:35:38] local.INFO: MP Not found. Checking SKU Exclusion: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:35:38] local.INFO: Exclusions: 0  
+[2023-06-08 13:35:38] local.INFO: DNE: Nightfood  
+[2023-06-08 13:35:38] local.INFO: Re-Checking Flags for Order Number: 12204 complete.  
+[2023-06-08 13:35:38] local.INFO: ************Start WH Checking*************  
+[2023-06-08 13:35:38] local.INFO: Checking for WH for Order: 12204  
+[2023-06-08 13:35:38] local.INFO: Selected Warehouse:   
+[2023-06-08 13:35:38] local.INFO: Selected Transit Day:   
+[2023-06-08 13:35:38] local.INFO: ************End WH Checking**************  
+[2023-06-08 13:35:38] local.INFO: Checking ETIN for Order: 12204 ETIN: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:35:38] local.INFO: Checking Fullfilled By for Order: 12204 ETIN: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:35:38] local.INFO: Fulfilled By:   
+[2023-06-08 13:35:38] local.INFO: WH already assigned for Order: 12204 ETIN: NIGHTFOOD-COOKIES-CHOC12. WH:   
+[2023-06-08 13:35:38] local.INFO: fetchItems: 12204 ETIN: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:35:38] local.INFO: Creating Sub-Order for Order: 12204 ETIN: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:35:38] local.INFO: Creating Sub-Order ETIN: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:35:38] local.INFO: Channel is DNE and SKU is not found. ETIN: NIGHTFOOD-COOKIES-CHOC12. Sub Order: 12204.BVE  
+[2023-06-08 13:35:38] local.INFO: Cannot assign Carrier/Service for Client Fulfilled ETIN: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:35:38] local.INFO: Checking if WH assigned to all Sub-Orders Order: 12204  
+[2023-06-08 13:35:38] local.INFO: Starting Hot Route Processing for Order: 12204  
+[2023-06-08 13:35:38] local.INFO: Hot Route Processing completed for Order: 12204  
+[2023-06-08 13:35:38] local.INFO: ************End of 12204 **************  
+[2023-06-08 13:35:38] local.INFO: ************Start of 12215 **************  
+[2023-06-08 13:35:38] local.INFO: Order number: 12215  
+[2023-06-08 13:35:38] local.INFO: Checking address for: 12215  
+[2023-06-08 13:35:38] local.INFO: Starting Re-Checking Flags for Order Number: 12215  
+[2023-06-08 13:35:38] local.INFO: Re-Checking Flags for Order Number: 12215 complete.  
+[2023-06-08 13:35:38] local.INFO: ************Start WH Checking*************  
+[2023-06-08 13:35:38] local.INFO: Checking for WH for Order: 12215  
+[2023-06-08 13:35:38] local.INFO: Checking for ETIN: ETFZ-1002-0306  
+[2023-06-08 13:35:38] local.INFO: Warehouse to be checked: ["NV","OKC","PA","WI"]  
+[2023-06-08 13:35:38] local.INFO: Selected Warehouse: PA  
+[2023-06-08 13:35:38] local.INFO: Selected Transit Day: 1  
+[2023-06-08 13:35:38] local.INFO: ************End WH Checking**************  
+[2023-06-08 13:35:38] local.INFO: Checking ETIN for Order: 12215 ETIN: ETFZ-1002-0306  
+[2023-06-08 13:35:38] local.INFO: ETIN matched with Product  
+[2023-06-08 13:35:38] local.INFO: Checking Fullfilled By for Order: 12215 ETIN: ETFZ-1002-0306  
+[2023-06-08 13:35:38] local.INFO: Fulfilled By: e-tailer  
+[2023-06-08 13:35:38] local.INFO: WH already assigned for Order: 12215 ETIN: ETFZ-1002-0306. WH: WI  
+[2023-06-08 13:35:38] local.INFO: fetchItems: 12215 ETIN: ETFZ-1002-0306  
+[2023-06-08 13:35:38] local.INFO: fetchItems: etin: ETFZ-1002-0306 wh_list: WI quantity_ordereds:   
+[2023-06-08 13:35:38] local.INFO: fetchItems: Count before return: 23 GetAvailableQty: 0  
+[2023-06-08 13:35:38] local.INFO: fetchItems: Count after return: 23 GetAvailableQty: 0  
+[2023-06-08 13:35:38] local.INFO: Creating Sub-Order for Order: 12215 ETIN: ETFZ-1002-0306  
+[2023-06-08 13:35:38] local.INFO: Creating Sub-Order ETIN: ETFZ-1002-0306  
+[2023-06-08 13:35:38] local.INFO: Assigning Carrier, Account and Service Type for Order:  12215 ETIN: ETFZ-1002-0306, WH: WI  
+[2023-06-08 13:35:38] local.INFO: e-tailer 12215.001 Frozen  
+[2023-06-08 13:35:38] local.INFO: Client custom config not found. Getting default One.  
+[2023-06-08 13:35:38] local.INFO: Checking if WH assigned to all Sub-Orders Order: 12215  
+[2023-06-08 13:35:38] local.INFO: WH assigned to all. Order: 12215  
+[2023-06-08 13:35:38] local.INFO: Assigning Manual - Ready to Ship Status to Order Number: 12215  
+[2023-06-08 13:35:38] local.INFO: Starting Hot Route Processing for Order: 12215  
+[2023-06-08 13:35:38] local.INFO: Hot Route Processing completed for Order: 12215  
+[2023-06-08 13:35:38] local.INFO: ************End of 12215 **************  
+[2023-06-08 13:35:38] local.INFO: Completed Orders Processing  
+[2023-06-08 13:35:38] local.INFO: =================================  
+[2023-06-08 13:35:38] local.INFO:   
+[2023-06-08 13:36:12] local.INFO: Starting Orders Processing  
+[2023-06-08 13:36:12] local.INFO: Getting all new orders  
+[2023-06-08 13:36:12] local.INFO: ************Start of 12204 **************  
+[2023-06-08 13:36:12] local.INFO: Order number: 12204  
+[2023-06-08 13:36:12] local.INFO: Checking address for: 12204  
+[2023-06-08 13:36:12] local.INFO: Starting Re-Checking Flags for Order Number: 12204  
+[2023-06-08 13:36:12] local.INFO: In Check for exclusion  
+[2023-06-08 13:36:12] local.INFO: Params: Client|Channel|MP_ID|SKU - 22|44||NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:36:12] local.INFO: MP Not found. Checking SKU Exclusion: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:36:12] local.INFO: Exclusions: 0  
+[2023-06-08 13:36:12] local.INFO: DNE: Nightfood  
+[2023-06-08 13:36:12] local.INFO: Re-Checking Flags for Order Number: 12204 complete.  
+[2023-06-08 13:36:12] local.INFO: ************Start WH Checking*************  
+[2023-06-08 13:36:12] local.INFO: Checking for WH for Order: 12204  
+[2023-06-08 13:36:12] local.INFO: Selected Warehouse:   
+[2023-06-08 13:36:12] local.INFO: Selected Transit Day:   
+[2023-06-08 13:36:12] local.INFO: ************End WH Checking**************  
+[2023-06-08 13:36:12] local.INFO: Checking ETIN for Order: 12204 ETIN: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:36:12] local.INFO: Checking Fullfilled By for Order: 12204 ETIN: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:36:12] local.INFO: Fulfilled By:   
+[2023-06-08 13:36:12] local.INFO: WH already assigned for Order: 12204 ETIN: NIGHTFOOD-COOKIES-CHOC12. WH:   
+[2023-06-08 13:36:12] local.INFO: fetchItems: 12204 ETIN: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:36:12] local.INFO: Creating Sub-Order for Order: 12204 ETIN: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:36:12] local.INFO: Creating Sub-Order ETIN: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:36:12] local.INFO: Channel is DNE and SKU is not found. ETIN: NIGHTFOOD-COOKIES-CHOC12. Sub Order: 12204.LAM  
+[2023-06-08 13:36:12] local.INFO: Cannot assign Carrier/Service for Client Fulfilled ETIN: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:36:12] local.INFO: Checking if WH assigned to all Sub-Orders Order: 12204  
+[2023-06-08 13:36:12] local.INFO: Starting Hot Route Processing for Order: 12204  
+[2023-06-08 13:36:12] local.INFO: Hot Route Processing completed for Order: 12204  
+[2023-06-08 13:36:12] local.INFO: ************End of 12204 **************  
+[2023-06-08 13:36:12] local.INFO: Completed Orders Processing  
+[2023-06-08 13:36:12] local.INFO: =================================  
+[2023-06-08 13:36:12] local.INFO:   
+[2023-06-08 13:36:27] local.INFO: Starting Orders Processing  
+[2023-06-08 13:36:27] local.INFO: Getting all new orders  
+[2023-06-08 13:36:27] local.INFO: ************Start of 12204 **************  
+[2023-06-08 13:36:27] local.INFO: Order number: 12204  
+[2023-06-08 13:36:27] local.INFO: Checking address for: 12204  
+[2023-06-08 13:36:27] local.INFO: Starting Re-Checking Flags for Order Number: 12204  
+[2023-06-08 13:36:27] local.INFO: In Check for exclusion  
+[2023-06-08 13:36:27] local.INFO: Params: Client|Channel|MP_ID|SKU - 22|44||NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:36:27] local.INFO: MP Not found. Checking SKU Exclusion: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:36:27] local.INFO: Exclusions: 0  
+[2023-06-08 13:36:27] local.INFO: DNE: Nightfood  
+[2023-06-08 13:36:27] local.INFO: Re-Checking Flags for Order Number: 12204 complete.  
+[2023-06-08 13:36:27] local.INFO: ************Start WH Checking*************  
+[2023-06-08 13:36:27] local.INFO: Checking for WH for Order: 12204  
+[2023-06-08 13:36:27] local.INFO: Selected Warehouse:   
+[2023-06-08 13:36:27] local.INFO: Selected Transit Day:   
+[2023-06-08 13:36:27] local.INFO: ************End WH Checking**************  
+[2023-06-08 13:36:27] local.INFO: Checking ETIN for Order: 12204 ETIN: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:36:27] local.INFO: Checking Fullfilled By for Order: 12204 ETIN: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:36:39] local.INFO: Starting Orders Processing  
+[2023-06-08 13:36:39] local.INFO: Getting all new orders  
+[2023-06-08 13:36:39] local.INFO: ************Start of 12204 **************  
+[2023-06-08 13:36:39] local.INFO: Order number: 12204  
+[2023-06-08 13:36:39] local.INFO: Checking address for: 12204  
+[2023-06-08 13:36:39] local.INFO: Starting Re-Checking Flags for Order Number: 12204  
+[2023-06-08 13:36:40] local.INFO: In Check for exclusion  
+[2023-06-08 13:36:40] local.INFO: Params: Client|Channel|MP_ID|SKU - 22|44||NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:36:40] local.INFO: MP Not found. Checking SKU Exclusion: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:36:40] local.INFO: Exclusions: 0  
+[2023-06-08 13:36:40] local.INFO: DNE: Nightfood  
+[2023-06-08 13:36:40] local.INFO: Re-Checking Flags for Order Number: 12204 complete.  
+[2023-06-08 13:36:40] local.INFO: ************Start WH Checking*************  
+[2023-06-08 13:36:40] local.INFO: Checking for WH for Order: 12204  
+[2023-06-08 13:36:40] local.INFO: Selected Warehouse:   
+[2023-06-08 13:36:40] local.INFO: Selected Transit Day:   
+[2023-06-08 13:36:40] local.INFO: ************End WH Checking**************  
+[2023-06-08 13:36:40] local.INFO: Checking ETIN for Order: 12204 ETIN: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:36:40] local.INFO: Checking Fullfilled By for Order: 12204 ETIN: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:36:40] local.INFO: Fulfilled By:   
+[2023-06-08 13:36:51] local.INFO: Starting Orders Processing  
+[2023-06-08 13:36:51] local.INFO: Getting all new orders  
+[2023-06-08 13:36:51] local.INFO: ************Start of 12204 **************  
+[2023-06-08 13:36:51] local.INFO: Order number: 12204  
+[2023-06-08 13:36:51] local.INFO: Checking address for: 12204  
+[2023-06-08 13:36:51] local.INFO: Starting Re-Checking Flags for Order Number: 12204  
+[2023-06-08 13:36:51] local.INFO: In Check for exclusion  
+[2023-06-08 13:36:51] local.INFO: Params: Client|Channel|MP_ID|SKU - 22|44||NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:36:51] local.INFO: MP Not found. Checking SKU Exclusion: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:36:51] local.INFO: Exclusions: 0  
+[2023-06-08 13:36:51] local.INFO: DNE: Nightfood  
+[2023-06-08 13:36:51] local.INFO: Re-Checking Flags for Order Number: 12204 complete.  
+[2023-06-08 13:36:51] local.INFO: ************Start WH Checking*************  
+[2023-06-08 13:36:51] local.INFO: Checking for WH for Order: 12204  
+[2023-06-08 13:36:51] local.INFO: Selected Warehouse:   
+[2023-06-08 13:36:51] local.INFO: Selected Transit Day:   
+[2023-06-08 13:36:51] local.INFO: ************End WH Checking**************  
+[2023-06-08 13:36:51] local.INFO: Checking ETIN for Order: 12204 ETIN: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:36:51] local.INFO: Checking Fullfilled By for Order: 12204 ETIN: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:36:51] local.INFO: Fulfilled By:   
+[2023-06-08 13:37:05] local.INFO: Starting Orders Processing  
+[2023-06-08 13:37:05] local.INFO: Getting all new orders  
+[2023-06-08 13:37:05] local.INFO: ************Start of 12204 **************  
+[2023-06-08 13:37:05] local.INFO: Order number: 12204  
+[2023-06-08 13:37:05] local.INFO: Checking address for: 12204  
+[2023-06-08 13:37:05] local.INFO: Starting Re-Checking Flags for Order Number: 12204  
+[2023-06-08 13:37:06] local.INFO: In Check for exclusion  
+[2023-06-08 13:37:06] local.INFO: Params: Client|Channel|MP_ID|SKU - 22|44||NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:37:06] local.INFO: MP Not found. Checking SKU Exclusion: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:37:06] local.INFO: Exclusions: 0  
+[2023-06-08 13:37:06] local.INFO: DNE: Nightfood  
+[2023-06-08 13:37:06] local.INFO: Re-Checking Flags for Order Number: 12204 complete.  
+[2023-06-08 13:37:06] local.INFO: ************Start WH Checking*************  
+[2023-06-08 13:37:06] local.INFO: Checking for WH for Order: 12204  
+[2023-06-08 13:37:06] local.INFO: Selected Warehouse:   
+[2023-06-08 13:37:06] local.INFO: Selected Transit Day:   
+[2023-06-08 13:37:06] local.INFO: ************End WH Checking**************  
+[2023-06-08 13:37:06] local.INFO: Checking ETIN for Order: 12204 ETIN: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:37:06] local.INFO: Checking Fullfilled By for Order: 12204 ETIN: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:37:06] local.INFO: Fulfilled By:   
+[2023-06-08 13:38:15] local.INFO: Starting Orders Processing  
+[2023-06-08 13:38:15] local.INFO: Getting all new orders  
+[2023-06-08 13:38:15] local.INFO: ************Start of 12204 **************  
+[2023-06-08 13:38:15] local.INFO: Order number: 12204  
+[2023-06-08 13:38:15] local.INFO: Checking address for: 12204  
+[2023-06-08 13:38:15] local.INFO: Starting Re-Checking Flags for Order Number: 12204  
+[2023-06-08 13:38:15] local.INFO: In Check for exclusion  
+[2023-06-08 13:38:15] local.INFO: Params: Client|Channel|MP_ID|SKU - 22|44||NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:38:15] local.INFO: MP Not found. Checking SKU Exclusion: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:38:15] local.INFO: Exclusions: 0  
+[2023-06-08 13:38:15] local.INFO: DNE: Nightfood  
+[2023-06-08 13:38:15] local.INFO: Re-Checking Flags for Order Number: 12204 complete.  
+[2023-06-08 13:38:15] local.INFO: ************Start WH Checking*************  
+[2023-06-08 13:38:15] local.INFO: Checking for WH for Order: 12204  
+[2023-06-08 13:38:15] local.INFO: Selected Warehouse:   
+[2023-06-08 13:38:15] local.INFO: Selected Transit Day:   
+[2023-06-08 13:38:15] local.INFO: ************End WH Checking**************  
+[2023-06-08 13:38:15] local.INFO: Checking ETIN for Order: 12204 ETIN: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:38:15] local.INFO: Checking Fullfilled By for Order: 12204 ETIN: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:38:15] local.INFO: Fulfilled By:   
+[2023-06-08 13:38:15] local.INFO: Assigning WH for Order: 12204 ETIN: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:38:26] local.INFO: Starting Orders Processing  
+[2023-06-08 13:38:26] local.INFO: Getting all new orders  
+[2023-06-08 13:38:26] local.INFO: ************Start of 12204 **************  
+[2023-06-08 13:38:26] local.INFO: Order number: 12204  
+[2023-06-08 13:38:26] local.INFO: Checking address for: 12204  
+[2023-06-08 13:38:26] local.INFO: Starting Re-Checking Flags for Order Number: 12204  
+[2023-06-08 13:38:27] local.INFO: In Check for exclusion  
+[2023-06-08 13:38:27] local.INFO: Params: Client|Channel|MP_ID|SKU - 22|44||NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:38:27] local.INFO: MP Not found. Checking SKU Exclusion: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:38:27] local.INFO: Exclusions: 0  
+[2023-06-08 13:38:27] local.INFO: DNE: Nightfood  
+[2023-06-08 13:38:27] local.INFO: Re-Checking Flags for Order Number: 12204 complete.  
+[2023-06-08 13:38:27] local.INFO: ************Start WH Checking*************  
+[2023-06-08 13:38:27] local.INFO: Checking for WH for Order: 12204  
+[2023-06-08 13:38:27] local.INFO: Selected Warehouse:   
+[2023-06-08 13:38:27] local.INFO: Selected Transit Day:   
+[2023-06-08 13:38:27] local.INFO: ************End WH Checking**************  
+[2023-06-08 13:38:27] local.INFO: Checking ETIN for Order: 12204 ETIN: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:38:27] local.INFO: Checking Fullfilled By for Order: 12204 ETIN: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:38:27] local.INFO: Fulfilled By:   
+[2023-06-08 13:38:27] local.INFO: Assigning WH for Order: 12204 ETIN: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:38:27] local.INFO: CF as dummy WH assignment for Client Fulfilled ETIN: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:38:27] local.INFO: fetchItems: 12204 ETIN: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:38:27] local.INFO: Creating Sub-Order for Order: 12204 ETIN: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:38:27] local.INFO: Creating Sub-Order ETIN: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:38:27] local.INFO: Channel is DNE and SKU is not found. ETIN: NIGHTFOOD-COOKIES-CHOC12. Sub Order: 12204.GBL  
+[2023-06-08 13:38:27] local.INFO: Cannot assign Carrier/Service for Client Fulfilled ETIN: NIGHTFOOD-COOKIES-CHOC12  
+[2023-06-08 13:38:27] local.INFO: Checking if WH assigned to all Sub-Orders Order: 12204  
+[2023-06-08 13:38:27] local.INFO: WH assigned to all. Order: 12204  
+[2023-06-08 13:38:27] local.INFO: Assigning Ready to Ship Status to Order Number: 12204  
+[2023-06-08 13:38:27] local.INFO: Starting Hot Route Processing for Order: 12204  
+[2023-06-08 13:38:27] local.INFO: Hot Route Processing completed for Order: 12204  
+[2023-06-08 13:38:27] local.INFO: ************End of 12204 **************  
+[2023-06-08 13:38:27] local.INFO: Completed Orders Processing  
+[2023-06-08 13:38:27] local.INFO: =================================  
+[2023-06-08 13:38:27] local.INFO:   
+[2023-06-08 13:45:52] local.INFO: Starting Orders Processing  
+[2023-06-08 13:45:52] local.INFO: Getting all new orders  
+[2023-06-08 13:45:52] local.INFO: No new Orders  
+[2023-06-08 13:45:52] local.INFO: =================================  
+[2023-06-08 13:45:52] local.INFO:   
+[2023-06-08 13:46:18] local.INFO: Starting Orders Processing  
+[2023-06-08 13:46:18] local.INFO: Getting all new orders  
+[2023-06-08 13:46:18] local.INFO: No new Orders  
+[2023-06-08 13:46:18] local.INFO: =================================  
+[2023-06-08 13:46:18] local.INFO:   
+[2023-06-08 13:46:48] local.INFO: Starting Orders Processing  
+[2023-06-08 13:46:48] local.INFO: Getting all new orders  
+[2023-06-08 13:46:48] local.INFO: No new Orders  
+[2023-06-08 13:46:48] local.INFO: =================================  
+[2023-06-08 13:46:48] local.INFO:   
+[2023-06-08 13:47:38] local.INFO: Starting Orders Processing  
+[2023-06-08 13:47:38] local.INFO: Getting all new orders  
+[2023-06-08 13:47:38] local.INFO: No new Orders  
+[2023-06-08 13:47:38] local.INFO: =================================  
+[2023-06-08 13:47:38] local.INFO:   
+[2023-06-08 13:48:08] local.INFO: Starting Orders Processing  
+[2023-06-08 13:48:08] local.INFO: Getting all new orders  
+[2023-06-08 13:48:08] local.INFO: No new Orders  
+[2023-06-08 13:48:08] local.INFO: =================================  
+[2023-06-08 13:48:08] local.INFO:   
+[2023-06-08 13:51:55] local.INFO: Starting Orders Processing  
+[2023-06-08 13:51:55] local.INFO: Getting all new orders  
+[2023-06-08 13:51:55] local.INFO: No new Orders  
+[2023-06-08 13:51:55] local.INFO: =================================  
+[2023-06-08 13:51:55] local.INFO:   

@@ -1,0 +1,663 @@
+[2023-05-12 13:45:45] local.INFO: ==============================================  
+[2023-05-12 13:45:45] local.INFO: assignOrdersToPicker Start  
+[2023-05-12 13:45:45] local.INFO: Picker: 1, Warehouse: PA  
+[2023-05-12 13:45:45] local.INFO: Picker Role: [{"role":"Admin","name":"Sunny","time_zone":"America\/New_York"}]  
+[2023-05-12 13:45:45] local.INFO: Fetched sub-order items to sort. Size: 5  
+[2023-05-12 13:45:45] local.INFO: Order # 12179  
+[2023-05-12 13:45:45] local.INFO: Order # 12201  
+[2023-05-12 13:45:45] local.INFO: Order # 12187  
+[2023-05-12 13:45:45] local.INFO: Order # 12187  
+[2023-05-12 13:45:45] local.INFO: Order # 12187  
+[2023-05-12 13:45:45] local.INFO: Fetched Temperatures for orders: ["Frozen"]  
+[2023-05-12 13:45:45] local.INFO: Using TZ for WH assigned to Picker: America/New_York  
+[2023-05-12 13:45:45] local.INFO: Day: friday, Time: 14  
+[2023-05-12 13:45:45] local.INFO: Shipping WH Eligibility: [{"friday":"9"},{"friday":"10"},{"friday":"11"},{"friday":"12"},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null}]  
+[2023-05-12 13:45:45] local.INFO: Order Day Shipping: 4  
+[2023-05-12 13:45:45] local.INFO: Picker Config: 1,2,3  
+[2023-05-12 13:45:45] local.INFO: Picker Groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 13:45:45] local.INFO: Max batch for picker: 20  
+[2023-05-12 13:45:45] local.INFO: Fulfilled By: e-tailer  
+[2023-05-12 13:45:45] local.INFO: Sub Order Number: 12179.001_XE_0  
+[2023-05-12 13:45:45] local.INFO: Order Id: 7116. Temp: Frozen. Pack Type: Frozen  
+[2023-05-12 13:45:45] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 13:45:45] local.INFO: Pack Type to Assign: Frozen  
+[2023-05-12 13:45:45] local.INFO: Order Id: 7116. Transit day: 2  
+[2023-05-12 13:45:45] local.INFO: strcmp: 0  
+[2023-05-12 13:45:45] local.INFO: To check. Temp: Frozen, Day: 2, osge: [{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-05-12 13:45:45] local.INFO: Temp: DRY, Day: 4  
+[2023-05-12 13:45:45] local.INFO: Temp: DRY, Day: 3  
+[2023-05-12 13:45:45] local.INFO: Temp: DRY, Day: 2  
+[2023-05-12 13:45:45] local.INFO: Temp: DRY, Day: 1  
+[2023-05-12 13:45:45] local.INFO: isTempAndTransitElligible:   
+[2023-05-12 13:45:45] local.INFO: Condition 1: true  
+[2023-05-12 13:45:45] local.INFO: Condition 2: false  
+[2023-05-12 13:45:45] local.INFO: Order Id: 7116. Condition not fulfilled. Checking for Saturday Order.  
+[2023-05-12 13:45:45] local.INFO: Order Id: 7116. Condition not fulfilled. Not Adding  
+[2023-05-12 13:45:45] local.INFO: Fulfilled By: e-tailer  
+[2023-05-12 13:45:45] local.INFO: Sub Order Number: 12201.001  
+[2023-05-12 13:45:45] local.INFO: Order Id: 7086. Temp: Frozen. Pack Type: Frozen  
+[2023-05-12 13:45:45] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 13:45:45] local.INFO: Pack Type to Assign: Frozen  
+[2023-05-12 13:45:45] local.INFO: Order Id: 7086. Transit day: 2  
+[2023-05-12 13:45:45] local.INFO: strcmp: 0  
+[2023-05-12 13:45:45] local.INFO: To check. Temp: Frozen, Day: 2, osge: [{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-05-12 13:45:45] local.INFO: Temp: DRY, Day: 4  
+[2023-05-12 13:45:45] local.INFO: Temp: DRY, Day: 3  
+[2023-05-12 13:45:45] local.INFO: Temp: DRY, Day: 2  
+[2023-05-12 13:45:45] local.INFO: Temp: DRY, Day: 1  
+[2023-05-12 13:45:45] local.INFO: isTempAndTransitElligible:   
+[2023-05-12 13:45:45] local.INFO: Condition 1: true  
+[2023-05-12 13:45:45] local.INFO: Condition 2: false  
+[2023-05-12 13:45:45] local.INFO: Order Id: 7086. Condition not fulfilled. Checking for Saturday Order.  
+[2023-05-12 13:45:45] local.INFO: Order Id: 7086. Condition not fulfilled. Not Adding  
+[2023-05-12 13:45:45] local.INFO: Fulfilled By: e-tailer  
+[2023-05-12 13:45:45] local.INFO: Sub Order Number: 12187.001  
+[2023-05-12 13:45:45] local.INFO: Order Id: 7040. Temp: Frozen. Pack Type: Frozen  
+[2023-05-12 13:45:45] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 13:45:45] local.INFO: Pack Type to Assign: Frozen  
+[2023-05-12 13:45:45] local.INFO: Order Id: 7040. Transit day: 2  
+[2023-05-12 13:45:45] local.INFO: strcmp: 0  
+[2023-05-12 13:45:45] local.INFO: To check. Temp: Frozen, Day: 2, osge: [{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-05-12 13:45:45] local.INFO: Temp: DRY, Day: 4  
+[2023-05-12 13:45:45] local.INFO: Temp: DRY, Day: 3  
+[2023-05-12 13:45:45] local.INFO: Temp: DRY, Day: 2  
+[2023-05-12 13:45:45] local.INFO: Temp: DRY, Day: 1  
+[2023-05-12 13:45:45] local.INFO: isTempAndTransitElligible:   
+[2023-05-12 13:45:45] local.INFO: Condition 1: true  
+[2023-05-12 13:45:45] local.INFO: Condition 2: false  
+[2023-05-12 13:45:45] local.INFO: Order Id: 7040. Condition not fulfilled. Checking for Saturday Order.  
+[2023-05-12 13:45:45] local.INFO: Order Id: 7040. Condition not fulfilled. Not Adding  
+[2023-05-12 13:45:45] local.INFO: Fulfilled By: e-tailer  
+[2023-05-12 13:45:45] local.INFO: Sub Order Number: 12187.001  
+[2023-05-12 13:45:45] local.INFO: Order Id: 7038. Temp: Frozen. Pack Type: Frozen  
+[2023-05-12 13:45:45] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 13:45:45] local.INFO: Pack Type to Assign: Frozen  
+[2023-05-12 13:45:45] local.INFO: Order Id: 7038. Transit day: 2  
+[2023-05-12 13:45:45] local.INFO: strcmp: 0  
+[2023-05-12 13:45:45] local.INFO: To check. Temp: Frozen, Day: 2, osge: [{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-05-12 13:45:45] local.INFO: Temp: DRY, Day: 4  
+[2023-05-12 13:45:45] local.INFO: Temp: DRY, Day: 3  
+[2023-05-12 13:45:45] local.INFO: Temp: DRY, Day: 2  
+[2023-05-12 13:45:45] local.INFO: Temp: DRY, Day: 1  
+[2023-05-12 13:45:45] local.INFO: isTempAndTransitElligible:   
+[2023-05-12 13:45:45] local.INFO: Condition 1: true  
+[2023-05-12 13:45:45] local.INFO: Condition 2: false  
+[2023-05-12 13:45:45] local.INFO: Order Id: 7038. Condition not fulfilled. Checking for Saturday Order.  
+[2023-05-12 13:45:45] local.INFO: Order Id: 7038. Condition not fulfilled. Not Adding  
+[2023-05-12 13:45:45] local.INFO: Fulfilled By: e-tailer  
+[2023-05-12 13:45:45] local.INFO: Sub Order Number: 12187.001  
+[2023-05-12 13:45:45] local.INFO: Order Id: 7037. Temp: Frozen. Pack Type: Frozen  
+[2023-05-12 13:45:45] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 13:45:45] local.INFO: Pack Type to Assign: Frozen  
+[2023-05-12 13:45:45] local.INFO: Order Id: 7037. Transit day: 2  
+[2023-05-12 13:45:45] local.INFO: strcmp: 0  
+[2023-05-12 13:45:45] local.INFO: To check. Temp: Frozen, Day: 2, osge: [{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-05-12 13:45:45] local.INFO: Temp: DRY, Day: 4  
+[2023-05-12 13:45:45] local.INFO: Temp: DRY, Day: 3  
+[2023-05-12 13:45:45] local.INFO: Temp: DRY, Day: 2  
+[2023-05-12 13:45:45] local.INFO: Temp: DRY, Day: 1  
+[2023-05-12 13:45:45] local.INFO: isTempAndTransitElligible:   
+[2023-05-12 13:45:45] local.INFO: Condition 1: true  
+[2023-05-12 13:45:45] local.INFO: Condition 2: false  
+[2023-05-12 13:45:45] local.INFO: Order Id: 7037. Condition not fulfilled. Checking for Saturday Order.  
+[2023-05-12 13:45:45] local.INFO: Order Id: 7037. Condition not fulfilled. Not Adding  
+[2023-05-12 13:45:45] local.INFO: Batch:[]  
+[2023-05-12 13:45:45] local.INFO: orderNumbers:[]  
+[2023-05-12 13:46:20] local.INFO: ==============================================  
+[2023-05-12 13:46:20] local.INFO: assignOrdersToPicker Start  
+[2023-05-12 13:46:20] local.INFO: Picker: 1, Warehouse: PA  
+[2023-05-12 13:46:21] local.INFO: Picker Role: [{"role":"Admin","name":"Sunny","time_zone":"America\/New_York"}]  
+[2023-05-12 13:46:21] local.INFO: Fetched sub-order items to sort. Size: 5  
+[2023-05-12 13:46:21] local.INFO: Order # 12179  
+[2023-05-12 13:46:21] local.INFO: Order # 12201  
+[2023-05-12 13:46:21] local.INFO: Order # 12187  
+[2023-05-12 13:46:21] local.INFO: Order # 12187  
+[2023-05-12 13:46:21] local.INFO: Order # 12187  
+[2023-05-12 13:46:21] local.INFO: Fetched Temperatures for orders: ["Frozen"]  
+[2023-05-12 13:46:21] local.INFO: Using TZ for WH assigned to Picker: America/New_York  
+[2023-05-12 13:46:21] local.INFO: Day: friday, Time: 14  
+[2023-05-12 13:46:21] local.INFO: Shipping WH Eligibility: [{"friday":"9"},{"friday":"10"},{"friday":"11"},{"friday":"12"},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null}]  
+[2023-05-12 13:46:21] local.INFO: Order Day Shipping: 4  
+[2023-05-12 13:46:21] local.INFO: Picker Config: 1,2,3  
+[2023-05-12 13:46:21] local.INFO: Picker Groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 13:46:21] local.INFO: Max batch for picker: 20  
+[2023-05-12 13:46:21] local.INFO: Fulfilled By: e-tailer  
+[2023-05-12 13:46:21] local.INFO: Sub Order Number: 12179.001_XE_0  
+[2023-05-12 13:46:21] local.INFO: Order Id: 7116. Temp: Frozen. Pack Type: Frozen  
+[2023-05-12 13:46:21] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 13:46:21] local.INFO: Pack Type to Assign: Frozen  
+[2023-05-12 13:46:21] local.INFO: Order Id: 7116. Transit day: 2  
+[2023-05-12 13:46:21] local.INFO: strcmp: 0  
+[2023-05-12 13:46:21] local.INFO: To check. Temp: Frozen, Day: 2, osge: [{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-05-12 13:46:21] local.INFO: Temp: DRY, Day: 4  
+[2023-05-12 13:46:21] local.INFO: Temp: DRY, Day: 3  
+[2023-05-12 13:46:21] local.INFO: Temp: DRY, Day: 2  
+[2023-05-12 13:46:21] local.INFO: Temp: DRY, Day: 1  
+[2023-05-12 13:46:21] local.INFO: isTempAndTransitElligible:   
+[2023-05-12 13:46:21] local.INFO: Condition 1: true  
+[2023-05-12 13:46:21] local.INFO: Condition 2: false  
+[2023-05-12 13:46:21] local.INFO: Order Id: 7116. Condition not fulfilled. Checking for Saturday Order.  
+[2023-05-12 13:46:21] local.INFO: Order Id: 7116. Condition not fulfilled. Not Adding  
+[2023-05-12 13:46:21] local.INFO: Fulfilled By: e-tailer  
+[2023-05-12 13:46:21] local.INFO: Sub Order Number: 12201.001  
+[2023-05-12 13:46:21] local.INFO: Order Id: 7086. Temp: Frozen. Pack Type: Frozen  
+[2023-05-12 13:46:21] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 13:46:21] local.INFO: Pack Type to Assign: Frozen  
+[2023-05-12 13:46:21] local.INFO: Order Id: 7086. Transit day: 2  
+[2023-05-12 13:46:21] local.INFO: strcmp: 0  
+[2023-05-12 13:46:21] local.INFO: To check. Temp: Frozen, Day: 2, osge: [{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-05-12 13:46:21] local.INFO: Temp: DRY, Day: 4  
+[2023-05-12 13:46:21] local.INFO: Temp: DRY, Day: 3  
+[2023-05-12 13:46:21] local.INFO: Temp: DRY, Day: 2  
+[2023-05-12 13:46:21] local.INFO: Temp: DRY, Day: 1  
+[2023-05-12 13:46:21] local.INFO: isTempAndTransitElligible:   
+[2023-05-12 13:46:21] local.INFO: Condition 1: true  
+[2023-05-12 13:46:21] local.INFO: Condition 2: false  
+[2023-05-12 13:46:21] local.INFO: Order Id: 7086. Condition not fulfilled. Checking for Saturday Order.  
+[2023-05-12 13:46:21] local.INFO: Order Id: 7086. Condition not fulfilled. Not Adding  
+[2023-05-12 13:46:21] local.INFO: Fulfilled By: e-tailer  
+[2023-05-12 13:46:21] local.INFO: Sub Order Number: 12187.001  
+[2023-05-12 13:46:21] local.INFO: Order Id: 7040. Temp: Frozen. Pack Type: Frozen  
+[2023-05-12 13:46:21] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 13:46:21] local.INFO: Pack Type to Assign: Frozen  
+[2023-05-12 13:46:21] local.INFO: Order Id: 7040. Transit day: 2  
+[2023-05-12 13:46:21] local.INFO: strcmp: 0  
+[2023-05-12 13:46:21] local.INFO: To check. Temp: Frozen, Day: 2, osge: [{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-05-12 13:46:21] local.INFO: Temp: DRY, Day: 4  
+[2023-05-12 13:46:21] local.INFO: Temp: DRY, Day: 3  
+[2023-05-12 13:46:21] local.INFO: Temp: DRY, Day: 2  
+[2023-05-12 13:46:21] local.INFO: Temp: DRY, Day: 1  
+[2023-05-12 13:46:21] local.INFO: isTempAndTransitElligible:   
+[2023-05-12 13:46:21] local.INFO: Condition 1: true  
+[2023-05-12 13:46:21] local.INFO: Condition 2: false  
+[2023-05-12 13:46:21] local.INFO: Order Id: 7040. Condition not fulfilled. Checking for Saturday Order.  
+[2023-05-12 13:46:21] local.INFO: Order Id: 7040. Condition not fulfilled. Not Adding  
+[2023-05-12 13:46:21] local.INFO: Fulfilled By: e-tailer  
+[2023-05-12 13:46:21] local.INFO: Sub Order Number: 12187.001  
+[2023-05-12 13:46:21] local.INFO: Order Id: 7038. Temp: Frozen. Pack Type: Frozen  
+[2023-05-12 13:46:21] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 13:46:21] local.INFO: Pack Type to Assign: Frozen  
+[2023-05-12 13:46:21] local.INFO: Order Id: 7038. Transit day: 2  
+[2023-05-12 13:46:21] local.INFO: strcmp: 0  
+[2023-05-12 13:46:21] local.INFO: To check. Temp: Frozen, Day: 2, osge: [{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-05-12 13:46:21] local.INFO: Temp: DRY, Day: 4  
+[2023-05-12 13:46:21] local.INFO: Temp: DRY, Day: 3  
+[2023-05-12 13:46:21] local.INFO: Temp: DRY, Day: 2  
+[2023-05-12 13:46:21] local.INFO: Temp: DRY, Day: 1  
+[2023-05-12 13:46:21] local.INFO: isTempAndTransitElligible:   
+[2023-05-12 13:46:21] local.INFO: Condition 1: true  
+[2023-05-12 13:46:21] local.INFO: Condition 2: false  
+[2023-05-12 13:46:21] local.INFO: Order Id: 7038. Condition not fulfilled. Checking for Saturday Order.  
+[2023-05-12 13:46:21] local.INFO: Order Id: 7038. Condition not fulfilled. Not Adding  
+[2023-05-12 13:46:21] local.INFO: Fulfilled By: e-tailer  
+[2023-05-12 13:46:21] local.INFO: Sub Order Number: 12187.001  
+[2023-05-12 13:46:21] local.INFO: Order Id: 7037. Temp: Frozen. Pack Type: Frozen  
+[2023-05-12 13:46:21] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 13:46:21] local.INFO: Pack Type to Assign: Frozen  
+[2023-05-12 13:46:21] local.INFO: Order Id: 7037. Transit day: 2  
+[2023-05-12 13:46:21] local.INFO: strcmp: 0  
+[2023-05-12 13:46:21] local.INFO: To check. Temp: Frozen, Day: 2, osge: [{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-05-12 13:46:21] local.INFO: Temp: DRY, Day: 4  
+[2023-05-12 13:46:21] local.INFO: Temp: DRY, Day: 3  
+[2023-05-12 13:46:21] local.INFO: Temp: DRY, Day: 2  
+[2023-05-12 13:46:21] local.INFO: Temp: DRY, Day: 1  
+[2023-05-12 13:46:21] local.INFO: isTempAndTransitElligible:   
+[2023-05-12 13:46:21] local.INFO: Condition 1: true  
+[2023-05-12 13:46:21] local.INFO: Condition 2: false  
+[2023-05-12 13:46:21] local.INFO: Order Id: 7037. Condition not fulfilled. Checking for Saturday Order.  
+[2023-05-12 13:46:21] local.INFO: Order Id: 7037. Condition not fulfilled. Not Adding  
+[2023-05-12 13:46:21] local.INFO: Batch:[]  
+[2023-05-12 13:46:21] local.INFO: orderNumbers:[]  
+[2023-05-12 14:29:54] local.INFO: ==============================================  
+[2023-05-12 14:29:54] local.INFO: assignOrdersToPicker Start  
+[2023-05-12 14:29:54] local.INFO: Picker: 1, Warehouse: PA  
+[2023-05-12 14:29:54] local.INFO: Picker Role: [{"role":"Admin","name":"Sunny","time_zone":"America\/New_York"}]  
+[2023-05-12 14:29:54] local.INFO: Fetched sub-order items to sort. Size: 5  
+[2023-05-12 14:29:54] local.INFO: Order # 12179  
+[2023-05-12 14:29:54] local.INFO: Order # 12201  
+[2023-05-12 14:29:54] local.INFO: Order # 12187  
+[2023-05-12 14:29:54] local.INFO: Order # 12187  
+[2023-05-12 14:29:54] local.INFO: Order # 12187  
+[2023-05-12 14:29:54] local.INFO: Fetched Temperatures for orders: ["Frozen"]  
+[2023-05-12 14:29:54] local.INFO: Using TZ for WH assigned to Picker: America/New_York  
+[2023-05-12 14:29:54] local.INFO: Day: friday, Time: 15  
+[2023-05-12 14:29:54] local.INFO: Shipping WH Eligibility: [{"friday":"9"},{"friday":"10"},{"friday":"11"},{"friday":"12"},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null}]  
+[2023-05-12 14:29:54] local.INFO: Order Day Shipping: 4  
+[2023-05-12 14:29:54] local.INFO: Picker Config: 1,2,3  
+[2023-05-12 14:29:54] local.INFO: Picker Groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 14:29:54] local.INFO: Max batch for picker: 20  
+[2023-05-12 14:29:54] local.INFO: Fulfilled By: e-tailer  
+[2023-05-12 14:29:54] local.INFO: Sub Order Number: 12179.001_XE_0  
+[2023-05-12 14:29:54] local.INFO: Order Id: 7116. Temp: Frozen. Pack Type: Frozen  
+[2023-05-12 14:29:54] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 14:29:54] local.INFO: Pack Type to Assign: Frozen  
+[2023-05-12 14:29:54] local.INFO: Order Id: 7116. Transit day: 2  
+[2023-05-12 14:29:54] local.INFO: strcmp: 0  
+[2023-05-12 14:29:54] local.INFO: To check. Temp: Frozen, Day: 2, osge: [{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-05-12 14:29:54] local.INFO: Temp: DRY, Day: 4  
+[2023-05-12 14:29:54] local.INFO: Temp: DRY, Day: 3  
+[2023-05-12 14:29:54] local.INFO: Temp: DRY, Day: 2  
+[2023-05-12 14:29:54] local.INFO: Temp: DRY, Day: 1  
+[2023-05-12 14:29:54] local.INFO: isTempAndTransitElligible:   
+[2023-05-12 14:29:54] local.INFO: Condition 1: true  
+[2023-05-12 14:29:54] local.INFO: Condition 2: false  
+[2023-05-12 14:29:54] local.INFO: Order Id: 7116. Condition not fulfilled. Checking for Saturday Order.  
+[2023-05-12 14:29:54] local.INFO: Order Id: 7116. Condition not fulfilled. Not Adding  
+[2023-05-12 14:29:54] local.INFO: Fulfilled By: e-tailer  
+[2023-05-12 14:29:54] local.INFO: Sub Order Number: 12201.001  
+[2023-05-12 14:29:54] local.INFO: Order Id: 7086. Temp: Frozen. Pack Type: Frozen  
+[2023-05-12 14:29:54] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 14:29:54] local.INFO: Pack Type to Assign: Frozen  
+[2023-05-12 14:29:54] local.INFO: Order Id: 7086. Transit day: 2  
+[2023-05-12 14:29:54] local.INFO: strcmp: 0  
+[2023-05-12 14:29:54] local.INFO: To check. Temp: Frozen, Day: 2, osge: [{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-05-12 14:29:54] local.INFO: Temp: DRY, Day: 4  
+[2023-05-12 14:29:54] local.INFO: Temp: DRY, Day: 3  
+[2023-05-12 14:29:54] local.INFO: Temp: DRY, Day: 2  
+[2023-05-12 14:29:54] local.INFO: Temp: DRY, Day: 1  
+[2023-05-12 14:29:54] local.INFO: isTempAndTransitElligible:   
+[2023-05-12 14:29:54] local.INFO: Condition 1: true  
+[2023-05-12 14:29:54] local.INFO: Condition 2: false  
+[2023-05-12 14:29:54] local.INFO: Order Id: 7086. Condition not fulfilled. Checking for Saturday Order.  
+[2023-05-12 14:29:54] local.INFO: Order Id: 7086. Condition not fulfilled. Not Adding  
+[2023-05-12 14:29:54] local.INFO: Fulfilled By: e-tailer  
+[2023-05-12 14:29:54] local.INFO: Sub Order Number: 12187.001  
+[2023-05-12 14:29:54] local.INFO: Order Id: 7040. Temp: Frozen. Pack Type: Frozen  
+[2023-05-12 14:29:54] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 14:29:54] local.INFO: Pack Type to Assign: Frozen  
+[2023-05-12 14:29:54] local.INFO: Order Id: 7040. Transit day: 2  
+[2023-05-12 14:29:54] local.INFO: strcmp: 0  
+[2023-05-12 14:29:54] local.INFO: To check. Temp: Frozen, Day: 2, osge: [{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-05-12 14:29:54] local.INFO: Temp: DRY, Day: 4  
+[2023-05-12 14:29:54] local.INFO: Temp: DRY, Day: 3  
+[2023-05-12 14:29:54] local.INFO: Temp: DRY, Day: 2  
+[2023-05-12 14:29:54] local.INFO: Temp: DRY, Day: 1  
+[2023-05-12 14:29:54] local.INFO: isTempAndTransitElligible:   
+[2023-05-12 14:29:54] local.INFO: Condition 1: true  
+[2023-05-12 14:29:54] local.INFO: Condition 2: false  
+[2023-05-12 14:29:54] local.INFO: Order Id: 7040. Condition not fulfilled. Checking for Saturday Order.  
+[2023-05-12 14:29:54] local.INFO: Order Id: 7040. Condition not fulfilled. Not Adding  
+[2023-05-12 14:29:54] local.INFO: Fulfilled By: e-tailer  
+[2023-05-12 14:29:54] local.INFO: Sub Order Number: 12187.001  
+[2023-05-12 14:29:54] local.INFO: Order Id: 7038. Temp: Frozen. Pack Type: Frozen  
+[2023-05-12 14:29:54] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 14:29:54] local.INFO: Pack Type to Assign: Frozen  
+[2023-05-12 14:29:54] local.INFO: Order Id: 7038. Transit day: 2  
+[2023-05-12 14:29:54] local.INFO: strcmp: 0  
+[2023-05-12 14:29:54] local.INFO: To check. Temp: Frozen, Day: 2, osge: [{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-05-12 14:29:54] local.INFO: Temp: DRY, Day: 4  
+[2023-05-12 14:29:54] local.INFO: Temp: DRY, Day: 3  
+[2023-05-12 14:29:54] local.INFO: Temp: DRY, Day: 2  
+[2023-05-12 14:29:54] local.INFO: Temp: DRY, Day: 1  
+[2023-05-12 14:29:54] local.INFO: isTempAndTransitElligible:   
+[2023-05-12 14:29:54] local.INFO: Condition 1: true  
+[2023-05-12 14:29:54] local.INFO: Condition 2: false  
+[2023-05-12 14:29:54] local.INFO: Order Id: 7038. Condition not fulfilled. Checking for Saturday Order.  
+[2023-05-12 14:29:54] local.INFO: Order Id: 7038. Condition not fulfilled. Not Adding  
+[2023-05-12 14:29:54] local.INFO: Fulfilled By: e-tailer  
+[2023-05-12 14:29:54] local.INFO: Sub Order Number: 12187.001  
+[2023-05-12 14:29:54] local.INFO: Order Id: 7037. Temp: Frozen. Pack Type: Frozen  
+[2023-05-12 14:29:54] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 14:29:54] local.INFO: Pack Type to Assign: Frozen  
+[2023-05-12 14:29:54] local.INFO: Order Id: 7037. Transit day: 2  
+[2023-05-12 14:29:54] local.INFO: strcmp: 0  
+[2023-05-12 14:29:54] local.INFO: To check. Temp: Frozen, Day: 2, osge: [{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-05-12 14:29:54] local.INFO: Temp: DRY, Day: 4  
+[2023-05-12 14:29:54] local.INFO: Temp: DRY, Day: 3  
+[2023-05-12 14:29:54] local.INFO: Temp: DRY, Day: 2  
+[2023-05-12 14:29:54] local.INFO: Temp: DRY, Day: 1  
+[2023-05-12 14:29:54] local.INFO: isTempAndTransitElligible:   
+[2023-05-12 14:29:54] local.INFO: Condition 1: true  
+[2023-05-12 14:29:54] local.INFO: Condition 2: false  
+[2023-05-12 14:29:54] local.INFO: Order Id: 7037. Condition not fulfilled. Checking for Saturday Order.  
+[2023-05-12 14:29:54] local.INFO: Order Id: 7037. Condition not fulfilled. Not Adding  
+[2023-05-12 14:29:54] local.INFO: Batch:[]  
+[2023-05-12 14:29:54] local.INFO: orderNumbers:[]  
+[2023-05-12 15:02:11] local.INFO: ==============================================  
+[2023-05-12 15:02:11] local.INFO: assignOrdersToPicker Start  
+[2023-05-12 15:02:11] local.INFO: Picker: 1, Warehouse: PA  
+[2023-05-12 15:02:11] local.INFO: Picker Role: [{"role":"Admin","name":"Sunny","time_zone":"America\/New_York"}]  
+[2023-05-12 15:02:11] local.INFO: Fetched sub-order items to sort. Size: 4  
+[2023-05-12 15:02:11] local.INFO: Order # 12201  
+[2023-05-12 15:02:11] local.INFO: Order # 12187  
+[2023-05-12 15:02:11] local.INFO: Order # 12187  
+[2023-05-12 15:02:11] local.INFO: Order # 12187  
+[2023-05-12 15:02:11] local.INFO: Fetched Temperatures for orders: ["Frozen"]  
+[2023-05-12 15:02:11] local.INFO: Using TZ for WH assigned to Picker: America/New_York  
+[2023-05-12 15:02:11] local.INFO: Day: friday, Time: 16  
+[2023-05-12 15:02:11] local.INFO: Shipping WH Eligibility: [{"friday":"9"},{"friday":"10"},{"friday":"11"},{"friday":"12"},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null}]  
+[2023-05-12 15:02:11] local.INFO: Order Day Shipping: 4  
+[2023-05-12 15:02:11] local.INFO: Picker Config: 1,2,3  
+[2023-05-12 15:02:11] local.INFO: Picker Groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 15:02:11] local.INFO: Max batch for picker: 20  
+[2023-05-12 15:02:11] local.INFO: Fulfilled By: e-tailer  
+[2023-05-12 15:02:11] local.INFO: Sub Order Number: 12201.001  
+[2023-05-12 15:02:11] local.INFO: Order Id: 7086. Temp: Frozen. Pack Type: Frozen  
+[2023-05-12 15:02:11] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 15:02:11] local.INFO: Pack Type to Assign: Frozen  
+[2023-05-12 15:02:11] local.INFO: Order Id: 7086. Transit day: 2  
+[2023-05-12 15:02:11] local.INFO: strcmp: 0  
+[2023-05-12 15:02:11] local.INFO: To check. Temp: Frozen, Day: 2, osge: [{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-05-12 15:02:11] local.INFO: Temp: DRY, Day: 4  
+[2023-05-12 15:02:11] local.INFO: Temp: DRY, Day: 3  
+[2023-05-12 15:02:11] local.INFO: Temp: DRY, Day: 2  
+[2023-05-12 15:02:11] local.INFO: Temp: DRY, Day: 1  
+[2023-05-12 15:02:11] local.INFO: isTempAndTransitElligible:   
+[2023-05-12 15:02:11] local.INFO: Condition 1: true  
+[2023-05-12 15:02:11] local.INFO: Condition 2: false  
+[2023-05-12 15:02:11] local.INFO: Order Id: 7086. Condition not fulfilled. Checking for Saturday Order.  
+[2023-05-12 15:02:11] local.INFO: Order Id: 7086. Condition not fulfilled. Not Adding  
+[2023-05-12 15:02:11] local.INFO: Fulfilled By: e-tailer  
+[2023-05-12 15:02:11] local.INFO: Sub Order Number: 12187.001  
+[2023-05-12 15:02:11] local.INFO: Order Id: 7040. Temp: Frozen. Pack Type: Frozen  
+[2023-05-12 15:02:11] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 15:02:11] local.INFO: Pack Type to Assign: Frozen  
+[2023-05-12 15:02:11] local.INFO: Order Id: 7040. Transit day: 2  
+[2023-05-12 15:02:11] local.INFO: strcmp: 0  
+[2023-05-12 15:02:11] local.INFO: To check. Temp: Frozen, Day: 2, osge: [{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-05-12 15:02:11] local.INFO: Temp: DRY, Day: 4  
+[2023-05-12 15:02:11] local.INFO: Temp: DRY, Day: 3  
+[2023-05-12 15:02:11] local.INFO: Temp: DRY, Day: 2  
+[2023-05-12 15:02:11] local.INFO: Temp: DRY, Day: 1  
+[2023-05-12 15:02:11] local.INFO: isTempAndTransitElligible:   
+[2023-05-12 15:02:11] local.INFO: Condition 1: true  
+[2023-05-12 15:02:11] local.INFO: Condition 2: false  
+[2023-05-12 15:02:11] local.INFO: Order Id: 7040. Condition not fulfilled. Checking for Saturday Order.  
+[2023-05-12 15:02:11] local.INFO: Order Id: 7040. Condition not fulfilled. Not Adding  
+[2023-05-12 15:02:11] local.INFO: Fulfilled By: e-tailer  
+[2023-05-12 15:02:11] local.INFO: Sub Order Number: 12187.001  
+[2023-05-12 15:02:11] local.INFO: Order Id: 7038. Temp: Frozen. Pack Type: Frozen  
+[2023-05-12 15:02:11] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 15:02:11] local.INFO: Pack Type to Assign: Frozen  
+[2023-05-12 15:02:11] local.INFO: Order Id: 7038. Transit day: 2  
+[2023-05-12 15:02:11] local.INFO: strcmp: 0  
+[2023-05-12 15:02:11] local.INFO: To check. Temp: Frozen, Day: 2, osge: [{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-05-12 15:02:11] local.INFO: Temp: DRY, Day: 4  
+[2023-05-12 15:02:11] local.INFO: Temp: DRY, Day: 3  
+[2023-05-12 15:02:11] local.INFO: Temp: DRY, Day: 2  
+[2023-05-12 15:02:11] local.INFO: Temp: DRY, Day: 1  
+[2023-05-12 15:02:11] local.INFO: isTempAndTransitElligible:   
+[2023-05-12 15:02:11] local.INFO: Condition 1: true  
+[2023-05-12 15:02:11] local.INFO: Condition 2: false  
+[2023-05-12 15:02:11] local.INFO: Order Id: 7038. Condition not fulfilled. Checking for Saturday Order.  
+[2023-05-12 15:02:11] local.INFO: Order Id: 7038. Condition not fulfilled. Not Adding  
+[2023-05-12 15:02:11] local.INFO: Fulfilled By: e-tailer  
+[2023-05-12 15:02:11] local.INFO: Sub Order Number: 12187.001  
+[2023-05-12 15:02:11] local.INFO: Order Id: 7037. Temp: Frozen. Pack Type: Frozen  
+[2023-05-12 15:02:11] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 15:02:11] local.INFO: Pack Type to Assign: Frozen  
+[2023-05-12 15:02:11] local.INFO: Order Id: 7037. Transit day: 2  
+[2023-05-12 15:02:11] local.INFO: strcmp: 0  
+[2023-05-12 15:02:11] local.INFO: To check. Temp: Frozen, Day: 2, osge: [{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-05-12 15:02:11] local.INFO: Temp: DRY, Day: 4  
+[2023-05-12 15:02:11] local.INFO: Temp: DRY, Day: 3  
+[2023-05-12 15:02:11] local.INFO: Temp: DRY, Day: 2  
+[2023-05-12 15:02:11] local.INFO: Temp: DRY, Day: 1  
+[2023-05-12 15:02:11] local.INFO: isTempAndTransitElligible:   
+[2023-05-12 15:02:11] local.INFO: Condition 1: true  
+[2023-05-12 15:02:11] local.INFO: Condition 2: false  
+[2023-05-12 15:02:11] local.INFO: Order Id: 7037. Condition not fulfilled. Checking for Saturday Order.  
+[2023-05-12 15:02:11] local.INFO: Order Id: 7037. Condition not fulfilled. Not Adding  
+[2023-05-12 15:02:11] local.INFO: Batch:[]  
+[2023-05-12 15:02:11] local.INFO: orderNumbers:[]  
+[2023-05-12 15:10:01] local.INFO: ==============================================  
+[2023-05-12 15:10:01] local.INFO: assignOrdersToPicker Start  
+[2023-05-12 15:10:01] local.INFO: Picker: 1, Warehouse: PA  
+[2023-05-12 15:10:01] local.INFO: Picker Role: [{"role":"Admin","name":"Sunny","time_zone":"America\/New_York"}]  
+[2023-05-12 15:10:01] local.INFO: Fetched sub-order items to sort. Size: 4  
+[2023-05-12 15:10:01] local.INFO: Order # 12201  
+[2023-05-12 15:10:01] local.INFO: Order # 12187  
+[2023-05-12 15:10:01] local.INFO: Order # 12187  
+[2023-05-12 15:10:01] local.INFO: Order # 12187  
+[2023-05-12 15:10:01] local.INFO: Fetched Temperatures for orders: ["Frozen"]  
+[2023-05-12 15:10:01] local.INFO: Using TZ for WH assigned to Picker: America/New_York  
+[2023-05-12 15:10:01] local.INFO: Day: friday, Time: 16  
+[2023-05-12 15:10:01] local.INFO: Shipping WH Eligibility: [{"friday":"9"},{"friday":"10"},{"friday":"11"},{"friday":"12"},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null}]  
+[2023-05-12 15:10:01] local.INFO: Order Day Shipping: 4  
+[2023-05-12 15:10:01] local.INFO: Picker Config: 1,2,3  
+[2023-05-12 15:10:01] local.INFO: Picker Groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 15:10:01] local.INFO: Max batch for picker: 20  
+[2023-05-12 15:10:01] local.INFO: Fulfilled By: e-tailer  
+[2023-05-12 15:10:01] local.INFO: Sub Order Number: 12201.001  
+[2023-05-12 15:10:01] local.INFO: Order Id: 7086. Temp: Frozen. Pack Type: Frozen  
+[2023-05-12 15:10:01] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 15:10:01] local.INFO: Pack Type to Assign: Frozen  
+[2023-05-12 15:10:01] local.INFO: Order Id: 7086. Transit day: 2  
+[2023-05-12 15:10:01] local.INFO: strcmp: 0  
+[2023-05-12 15:10:01] local.INFO: To check. Temp: Frozen, Day: 2, osge: [{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-05-12 15:10:01] local.INFO: Temp: DRY, Day: 4  
+[2023-05-12 15:10:01] local.INFO: Temp: DRY, Day: 3  
+[2023-05-12 15:10:01] local.INFO: Temp: DRY, Day: 2  
+[2023-05-12 15:10:01] local.INFO: Temp: DRY, Day: 1  
+[2023-05-12 15:10:01] local.INFO: isTempAndTransitElligible:   
+[2023-05-12 15:10:01] local.INFO: Condition 1: true  
+[2023-05-12 15:10:01] local.INFO: Condition 2: false  
+[2023-05-12 15:10:01] local.INFO: Order Id: 7086. Condition not fulfilled. Checking for Saturday Order.  
+[2023-05-12 15:10:01] local.INFO: Order Id: 7086. Condition not fulfilled. Not Adding  
+[2023-05-12 15:10:01] local.INFO: Fulfilled By: e-tailer  
+[2023-05-12 15:10:01] local.INFO: Sub Order Number: 12187.001  
+[2023-05-12 15:10:01] local.INFO: Order Id: 7040. Temp: Frozen. Pack Type: Frozen  
+[2023-05-12 15:10:01] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 15:10:01] local.INFO: Pack Type to Assign: Frozen  
+[2023-05-12 15:10:01] local.INFO: Order Id: 7040. Transit day: 2  
+[2023-05-12 15:10:01] local.INFO: strcmp: 0  
+[2023-05-12 15:10:01] local.INFO: To check. Temp: Frozen, Day: 2, osge: [{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-05-12 15:10:01] local.INFO: Temp: DRY, Day: 4  
+[2023-05-12 15:10:01] local.INFO: Temp: DRY, Day: 3  
+[2023-05-12 15:10:01] local.INFO: Temp: DRY, Day: 2  
+[2023-05-12 15:10:01] local.INFO: Temp: DRY, Day: 1  
+[2023-05-12 15:10:01] local.INFO: isTempAndTransitElligible:   
+[2023-05-12 15:10:01] local.INFO: Condition 1: true  
+[2023-05-12 15:10:01] local.INFO: Condition 2: false  
+[2023-05-12 15:10:01] local.INFO: Order Id: 7040. Condition not fulfilled. Checking for Saturday Order.  
+[2023-05-12 15:10:01] local.INFO: Order Id: 7040. Condition not fulfilled. Not Adding  
+[2023-05-12 15:10:01] local.INFO: Fulfilled By: e-tailer  
+[2023-05-12 15:10:01] local.INFO: Sub Order Number: 12187.001  
+[2023-05-12 15:10:01] local.INFO: Order Id: 7038. Temp: Frozen. Pack Type: Frozen  
+[2023-05-12 15:10:01] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 15:10:01] local.INFO: Pack Type to Assign: Frozen  
+[2023-05-12 15:10:01] local.INFO: Order Id: 7038. Transit day: 2  
+[2023-05-12 15:10:01] local.INFO: strcmp: 0  
+[2023-05-12 15:10:01] local.INFO: To check. Temp: Frozen, Day: 2, osge: [{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-05-12 15:10:01] local.INFO: Temp: DRY, Day: 4  
+[2023-05-12 15:10:01] local.INFO: Temp: DRY, Day: 3  
+[2023-05-12 15:10:01] local.INFO: Temp: DRY, Day: 2  
+[2023-05-12 15:10:01] local.INFO: Temp: DRY, Day: 1  
+[2023-05-12 15:10:01] local.INFO: isTempAndTransitElligible:   
+[2023-05-12 15:10:01] local.INFO: Condition 1: true  
+[2023-05-12 15:10:01] local.INFO: Condition 2: false  
+[2023-05-12 15:10:01] local.INFO: Order Id: 7038. Condition not fulfilled. Checking for Saturday Order.  
+[2023-05-12 15:10:01] local.INFO: Order Id: 7038. Condition not fulfilled. Not Adding  
+[2023-05-12 15:10:01] local.INFO: Fulfilled By: e-tailer  
+[2023-05-12 15:10:01] local.INFO: Sub Order Number: 12187.001  
+[2023-05-12 15:10:01] local.INFO: Order Id: 7037. Temp: Frozen. Pack Type: Frozen  
+[2023-05-12 15:10:01] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 15:10:01] local.INFO: Pack Type to Assign: Frozen  
+[2023-05-12 15:10:01] local.INFO: Order Id: 7037. Transit day: 2  
+[2023-05-12 15:10:01] local.INFO: strcmp: 0  
+[2023-05-12 15:10:01] local.INFO: To check. Temp: Frozen, Day: 2, osge: [{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-05-12 15:10:01] local.INFO: Temp: DRY, Day: 4  
+[2023-05-12 15:10:01] local.INFO: Temp: DRY, Day: 3  
+[2023-05-12 15:10:01] local.INFO: Temp: DRY, Day: 2  
+[2023-05-12 15:10:01] local.INFO: Temp: DRY, Day: 1  
+[2023-05-12 15:10:01] local.INFO: isTempAndTransitElligible:   
+[2023-05-12 15:10:01] local.INFO: Condition 1: true  
+[2023-05-12 15:10:01] local.INFO: Condition 2: false  
+[2023-05-12 15:10:01] local.INFO: Order Id: 7037. Condition not fulfilled. Checking for Saturday Order.  
+[2023-05-12 15:10:01] local.INFO: Order Id: 7037. Condition not fulfilled. Not Adding  
+[2023-05-12 15:10:01] local.INFO: Batch:[]  
+[2023-05-12 15:10:01] local.INFO: orderNumbers:[]  
+[2023-05-12 15:15:37] local.INFO: ==============================================  
+[2023-05-12 15:15:37] local.INFO: assignOrdersToPicker Start  
+[2023-05-12 15:15:37] local.INFO: Picker: 1, Warehouse: PA  
+[2023-05-12 15:15:37] local.INFO: Picker Role: [{"role":"Admin","name":"Sunny","time_zone":"America\/New_York"}]  
+[2023-05-12 15:15:37] local.INFO: Fetched sub-order items to sort. Size: 4  
+[2023-05-12 15:15:37] local.INFO: Order # 12201  
+[2023-05-12 15:15:37] local.INFO: Order # 12187  
+[2023-05-12 15:15:37] local.INFO: Order # 12187  
+[2023-05-12 15:15:37] local.INFO: Order # 12187  
+[2023-05-12 15:15:37] local.INFO: Fetched Temperatures for orders: ["Frozen"]  
+[2023-05-12 15:15:37] local.INFO: Using TZ for WH assigned to Picker: America/New_York  
+[2023-05-12 15:15:37] local.INFO: Day: friday, Time: 16  
+[2023-05-12 15:15:37] local.INFO: Shipping WH Eligibility: [{"friday":"9"},{"friday":"10"},{"friday":"11"},{"friday":"12"},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null}]  
+[2023-05-12 15:15:37] local.INFO: Order Day Shipping: 4  
+[2023-05-12 15:15:37] local.INFO: Picker Config: 1,2,3  
+[2023-05-12 15:15:37] local.INFO: Picker Groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 15:15:37] local.INFO: Max batch for picker: 20  
+[2023-05-12 15:15:37] local.INFO: Fulfilled By: e-tailer  
+[2023-05-12 15:15:37] local.INFO: Sub Order Number: 12201.001  
+[2023-05-12 15:15:37] local.INFO: Order Id: 7086. Temp: Frozen. Pack Type: Frozen  
+[2023-05-12 15:15:37] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 15:15:37] local.INFO: Pack Type to Assign: Frozen  
+[2023-05-12 15:15:37] local.INFO: Order Id: 7086. Transit day: 2  
+[2023-05-12 15:15:37] local.INFO: strcmp: 0  
+[2023-05-12 15:15:37] local.INFO: To check. Temp: Frozen, Day: 2, osge: [{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-05-12 15:15:37] local.INFO: Temp: DRY, Day: 4  
+[2023-05-12 15:15:37] local.INFO: Temp: DRY, Day: 3  
+[2023-05-12 15:15:37] local.INFO: Temp: DRY, Day: 2  
+[2023-05-12 15:15:37] local.INFO: Temp: DRY, Day: 1  
+[2023-05-12 15:15:37] local.INFO: isTempAndTransitElligible:   
+[2023-05-12 15:15:37] local.INFO: Condition 1: true  
+[2023-05-12 15:15:37] local.INFO: Condition 2: false  
+[2023-05-12 15:15:37] local.INFO: Order Id: 7086. Condition not fulfilled. Checking for Saturday Order.  
+[2023-05-12 15:15:37] local.INFO: Order Id: 7086. Condition not fulfilled. Not Adding  
+[2023-05-12 15:15:37] local.INFO: Fulfilled By: e-tailer  
+[2023-05-12 15:15:37] local.INFO: Sub Order Number: 12187.001  
+[2023-05-12 15:15:37] local.INFO: Order Id: 7040. Temp: Frozen. Pack Type: Frozen  
+[2023-05-12 15:15:37] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 15:15:37] local.INFO: Pack Type to Assign: Frozen  
+[2023-05-12 15:15:37] local.INFO: Order Id: 7040. Transit day: 2  
+[2023-05-12 15:15:37] local.INFO: strcmp: 0  
+[2023-05-12 15:15:37] local.INFO: To check. Temp: Frozen, Day: 2, osge: [{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-05-12 15:15:37] local.INFO: Temp: DRY, Day: 4  
+[2023-05-12 15:15:37] local.INFO: Temp: DRY, Day: 3  
+[2023-05-12 15:15:37] local.INFO: Temp: DRY, Day: 2  
+[2023-05-12 15:15:37] local.INFO: Temp: DRY, Day: 1  
+[2023-05-12 15:15:37] local.INFO: isTempAndTransitElligible:   
+[2023-05-12 15:15:37] local.INFO: Condition 1: true  
+[2023-05-12 15:15:37] local.INFO: Condition 2: false  
+[2023-05-12 15:15:37] local.INFO: Order Id: 7040. Condition not fulfilled. Checking for Saturday Order.  
+[2023-05-12 15:15:37] local.INFO: Order Id: 7040. Condition not fulfilled. Not Adding  
+[2023-05-12 15:15:37] local.INFO: Fulfilled By: e-tailer  
+[2023-05-12 15:15:37] local.INFO: Sub Order Number: 12187.001  
+[2023-05-12 15:15:37] local.INFO: Order Id: 7038. Temp: Frozen. Pack Type: Frozen  
+[2023-05-12 15:15:37] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 15:15:37] local.INFO: Pack Type to Assign: Frozen  
+[2023-05-12 15:15:37] local.INFO: Order Id: 7038. Transit day: 2  
+[2023-05-12 15:15:37] local.INFO: strcmp: 0  
+[2023-05-12 15:15:37] local.INFO: To check. Temp: Frozen, Day: 2, osge: [{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-05-12 15:15:37] local.INFO: Temp: DRY, Day: 4  
+[2023-05-12 15:15:37] local.INFO: Temp: DRY, Day: 3  
+[2023-05-12 15:15:37] local.INFO: Temp: DRY, Day: 2  
+[2023-05-12 15:15:37] local.INFO: Temp: DRY, Day: 1  
+[2023-05-12 15:15:37] local.INFO: isTempAndTransitElligible:   
+[2023-05-12 15:15:37] local.INFO: Condition 1: true  
+[2023-05-12 15:15:37] local.INFO: Condition 2: false  
+[2023-05-12 15:15:37] local.INFO: Order Id: 7038. Condition not fulfilled. Checking for Saturday Order.  
+[2023-05-12 15:15:37] local.INFO: Order Id: 7038. Condition not fulfilled. Not Adding  
+[2023-05-12 15:15:37] local.INFO: Fulfilled By: e-tailer  
+[2023-05-12 15:15:37] local.INFO: Sub Order Number: 12187.001  
+[2023-05-12 15:15:37] local.INFO: Order Id: 7037. Temp: Frozen. Pack Type: Frozen  
+[2023-05-12 15:15:37] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 15:15:37] local.INFO: Pack Type to Assign: Frozen  
+[2023-05-12 15:15:37] local.INFO: Order Id: 7037. Transit day: 2  
+[2023-05-12 15:15:37] local.INFO: strcmp: 0  
+[2023-05-12 15:15:37] local.INFO: To check. Temp: Frozen, Day: 2, osge: [{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-05-12 15:15:37] local.INFO: Temp: DRY, Day: 4  
+[2023-05-12 15:15:37] local.INFO: Temp: DRY, Day: 3  
+[2023-05-12 15:15:37] local.INFO: Temp: DRY, Day: 2  
+[2023-05-12 15:15:37] local.INFO: Temp: DRY, Day: 1  
+[2023-05-12 15:15:37] local.INFO: isTempAndTransitElligible:   
+[2023-05-12 15:15:37] local.INFO: Condition 1: true  
+[2023-05-12 15:15:37] local.INFO: Condition 2: false  
+[2023-05-12 15:15:37] local.INFO: Order Id: 7037. Condition not fulfilled. Checking for Saturday Order.  
+[2023-05-12 15:15:37] local.INFO: Order Id: 7037. Condition not fulfilled. Not Adding  
+[2023-05-12 15:15:37] local.INFO: Batch:[]  
+[2023-05-12 15:15:37] local.INFO: orderNumbers:[]  
+[2023-05-12 15:17:47] local.INFO: ==============================================  
+[2023-05-12 15:17:47] local.INFO: assignOrdersToPicker Start  
+[2023-05-12 15:17:47] local.INFO: Picker: 1, Warehouse: PA  
+[2023-05-12 15:17:48] local.INFO: Picker Role: [{"role":"Admin","name":"Sunny","time_zone":"America\/New_York"}]  
+[2023-05-12 15:17:48] local.INFO: Fetched sub-order items to sort. Size: 4  
+[2023-05-12 15:17:48] local.INFO: Order # 12201  
+[2023-05-12 15:17:48] local.INFO: Order # 12187  
+[2023-05-12 15:17:48] local.INFO: Order # 12187  
+[2023-05-12 15:17:48] local.INFO: Order # 12187  
+[2023-05-12 15:17:48] local.INFO: Fetched Temperatures for orders: ["Frozen"]  
+[2023-05-12 15:17:48] local.INFO: Using TZ for WH assigned to Picker: America/New_York  
+[2023-05-12 15:17:48] local.INFO: Day: friday, Time: 16  
+[2023-05-12 15:17:48] local.INFO: Shipping WH Eligibility: [{"friday":"9"},{"friday":"10"},{"friday":"11"},{"friday":"12"},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null}]  
+[2023-05-12 15:17:48] local.INFO: Order Day Shipping: 4  
+[2023-05-12 15:17:48] local.INFO: Picker Config: 1,2,3  
+[2023-05-12 15:17:48] local.INFO: Picker Groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 15:17:48] local.INFO: Max batch for picker: 20  
+[2023-05-12 15:17:48] local.INFO: Fulfilled By: e-tailer  
+[2023-05-12 15:17:48] local.INFO: Sub Order Number: 12201.001  
+[2023-05-12 15:17:48] local.INFO: Order Id: 7086. Temp: Frozen. Pack Type: Frozen  
+[2023-05-12 15:17:48] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 15:17:48] local.INFO: Pack Type to Assign: Frozen  
+[2023-05-12 15:17:48] local.INFO: Order Id: 7086. Transit day: 2  
+[2023-05-12 15:17:48] local.INFO: strcmp: 0  
+[2023-05-12 15:17:48] local.INFO: To check. Temp: Frozen, Day: 2, osge: [{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-05-12 15:17:48] local.INFO: Temp: DRY, Day: 4  
+[2023-05-12 15:17:48] local.INFO: Temp: DRY, Day: 3  
+[2023-05-12 15:17:48] local.INFO: Temp: DRY, Day: 2  
+[2023-05-12 15:17:48] local.INFO: Temp: DRY, Day: 1  
+[2023-05-12 15:17:48] local.INFO: isTempAndTransitElligible:   
+[2023-05-12 15:17:48] local.INFO: Condition 1: true  
+[2023-05-12 15:17:48] local.INFO: Condition 2: false  
+[2023-05-12 15:17:48] local.INFO: Order Id: 7086. Condition not fulfilled. Checking for Saturday Order.  
+[2023-05-12 15:17:48] local.INFO: Order Id: 7086. Condition not fulfilled. Not Adding  
+[2023-05-12 15:17:48] local.INFO: Fulfilled By: e-tailer  
+[2023-05-12 15:17:48] local.INFO: Sub Order Number: 12187.001  
+[2023-05-12 15:17:48] local.INFO: Order Id: 7040. Temp: Frozen. Pack Type: Frozen  
+[2023-05-12 15:17:48] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 15:17:48] local.INFO: Pack Type to Assign: Frozen  
+[2023-05-12 15:17:48] local.INFO: Order Id: 7040. Transit day: 2  
+[2023-05-12 15:17:48] local.INFO: strcmp: 0  
+[2023-05-12 15:17:48] local.INFO: To check. Temp: Frozen, Day: 2, osge: [{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-05-12 15:17:48] local.INFO: Temp: DRY, Day: 4  
+[2023-05-12 15:17:48] local.INFO: Temp: DRY, Day: 3  
+[2023-05-12 15:17:48] local.INFO: Temp: DRY, Day: 2  
+[2023-05-12 15:17:48] local.INFO: Temp: DRY, Day: 1  
+[2023-05-12 15:17:48] local.INFO: isTempAndTransitElligible:   
+[2023-05-12 15:17:48] local.INFO: Condition 1: true  
+[2023-05-12 15:17:48] local.INFO: Condition 2: false  
+[2023-05-12 15:17:48] local.INFO: Order Id: 7040. Condition not fulfilled. Checking for Saturday Order.  
+[2023-05-12 15:17:48] local.INFO: Order Id: 7040. Condition not fulfilled. Not Adding  
+[2023-05-12 15:17:48] local.INFO: Fulfilled By: e-tailer  
+[2023-05-12 15:17:48] local.INFO: Sub Order Number: 12187.001  
+[2023-05-12 15:17:48] local.INFO: Order Id: 7038. Temp: Frozen. Pack Type: Frozen  
+[2023-05-12 15:17:48] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 15:17:48] local.INFO: Pack Type to Assign: Frozen  
+[2023-05-12 15:17:48] local.INFO: Order Id: 7038. Transit day: 2  
+[2023-05-12 15:17:48] local.INFO: strcmp: 0  
+[2023-05-12 15:17:48] local.INFO: To check. Temp: Frozen, Day: 2, osge: [{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-05-12 15:17:48] local.INFO: Temp: DRY, Day: 4  
+[2023-05-12 15:17:48] local.INFO: Temp: DRY, Day: 3  
+[2023-05-12 15:17:48] local.INFO: Temp: DRY, Day: 2  
+[2023-05-12 15:17:48] local.INFO: Temp: DRY, Day: 1  
+[2023-05-12 15:17:48] local.INFO: isTempAndTransitElligible:   
+[2023-05-12 15:17:48] local.INFO: Condition 1: true  
+[2023-05-12 15:17:48] local.INFO: Condition 2: false  
+[2023-05-12 15:17:48] local.INFO: Order Id: 7038. Condition not fulfilled. Checking for Saturday Order.  
+[2023-05-12 15:17:48] local.INFO: Order Id: 7038. Condition not fulfilled. Not Adding  
+[2023-05-12 15:17:48] local.INFO: Fulfilled By: e-tailer  
+[2023-05-12 15:17:48] local.INFO: Sub Order Number: 12187.001  
+[2023-05-12 15:17:48] local.INFO: Order Id: 7037. Temp: Frozen. Pack Type: Frozen  
+[2023-05-12 15:17:48] local.INFO: getPackagingType: Frozen temp: "Frozen" groups: ["Dry","Frozen","Refrigerated"]  
+[2023-05-12 15:17:48] local.INFO: Pack Type to Assign: Frozen  
+[2023-05-12 15:17:48] local.INFO: Order Id: 7037. Transit day: 2  
+[2023-05-12 15:17:48] local.INFO: strcmp: 0  
+[2023-05-12 15:17:48] local.INFO: To check. Temp: Frozen, Day: 2, osge: [{"id":9,"description":"DRY | 4Day","temperature":"DRY","day":"4","created_at":null,"updated_at":null},{"id":10,"description":"DRY | 3Day","temperature":"DRY","day":"3","created_at":null,"updated_at":null},{"id":11,"description":"DRY | 2Day","temperature":"DRY","day":"2","created_at":null,"updated_at":null},{"id":12,"description":"DRY | 1Day","temperature":"DRY","day":"1","created_at":null,"updated_at":null}]  
+[2023-05-12 15:17:48] local.INFO: Temp: DRY, Day: 4  
+[2023-05-12 15:17:48] local.INFO: Temp: DRY, Day: 3  
+[2023-05-12 15:17:48] local.INFO: Temp: DRY, Day: 2  
+[2023-05-12 15:17:48] local.INFO: Temp: DRY, Day: 1  
+[2023-05-12 15:17:48] local.INFO: isTempAndTransitElligible:   
+[2023-05-12 15:17:48] local.INFO: Condition 1: true  
+[2023-05-12 15:17:48] local.INFO: Condition 2: false  
+[2023-05-12 15:17:48] local.INFO: Order Id: 7037. Condition not fulfilled. Checking for Saturday Order.  
+[2023-05-12 15:17:48] local.INFO: Order Id: 7037. Condition not fulfilled. Not Adding  
+[2023-05-12 15:17:48] local.INFO: Batch:[]  
+[2023-05-12 15:17:48] local.INFO: orderNumbers:[]  

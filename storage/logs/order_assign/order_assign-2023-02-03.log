@@ -1,0 +1,23 @@
+[2023-02-03 08:14:54] local.INFO: ==============================================  
+[2023-02-03 08:14:54] local.INFO: assignOrdersToPicker Start  
+[2023-02-03 08:14:54] local.INFO: Picker: 1, Warehouse: WI  
+[2023-02-03 08:14:54] local.INFO: Picker Role: [{"role":"Admin","name":"Sunny123","time_zone":"America\/Chicago"}]  
+[2023-02-03 08:14:54] local.INFO: Fetched sub-order items to sort. Size: 13  
+[2023-02-03 08:14:54] local.INFO: Order # 10009  
+[2023-02-03 08:14:54] local.INFO: Order # 10010  
+[2023-02-03 08:14:54] local.INFO: Order # 10010  
+[2023-02-03 08:14:54] local.INFO: Order # 10011  
+[2023-02-03 08:14:54] local.INFO: Order # 10013  
+[2023-02-03 08:14:54] local.INFO: Order # 10011  
+[2023-02-03 08:14:54] local.INFO: Order # 10011  
+[2023-02-03 08:14:54] local.INFO: Order # 10008  
+[2023-02-03 08:14:54] local.INFO: Order # 10012  
+[2023-02-03 08:14:54] local.INFO: Order # 10008  
+[2023-02-03 08:14:54] local.INFO: Order # 10012  
+[2023-02-03 08:14:54] local.INFO: Order # 10010  
+[2023-02-03 08:14:54] local.INFO: Order # 10012  
+[2023-02-03 08:14:54] local.INFO: Fetched Temperatures for orders: ["Frozen"]  
+[2023-02-03 08:14:54] local.INFO: Using TZ for WH assigned to Picker: America/Chicago  
+[2023-02-03 08:14:54] local.INFO: Day: friday, Time: 8  
+[2023-02-03 08:14:54] local.INFO: Shipping WH Eligibility: [{"friday":"9"},{"friday":"10"},{"friday":"11"},{"friday":"12"},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null}]  
+[2023-02-03 08:14:55] local.INFO: Order Day Shipping: 4  

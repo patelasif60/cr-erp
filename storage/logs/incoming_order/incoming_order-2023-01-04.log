@@ -1,0 +1,40 @@
+[2023-01-04 14:02:33] local.INFO: Starting Orders Processing  
+[2023-01-04 14:02:33] local.INFO: Getting all new orders  
+[2023-01-04 14:02:33] local.INFO: Checking address for: 10019  
+[2023-01-04 14:02:33] local.INFO: Fetching address validation  
+[2023-01-04 14:02:34] local.INFO: Address is valid  
+[2023-01-04 14:02:34] local.INFO: No details found for Order Number: 10019  
+[2023-01-04 14:02:34] local.INFO: Checking address for: 10022  
+[2023-01-04 14:02:34] local.INFO: Fetching address validation  
+[2023-01-04 14:02:34] local.INFO: Address is valid  
+[2023-01-04 14:02:35] local.INFO: No details found for Order Number: 10022  
+[2023-01-04 14:02:35] local.INFO: Checking address for: 10029  
+[2023-01-04 14:02:35] local.INFO: Fetching address validation  
+[2023-01-04 14:02:35] local.INFO: Address is valid  
+[2023-01-04 14:02:35] local.INFO: No details found for Order Number: 10029  
+[2023-01-04 14:02:35] local.INFO: Checking address for: 10082  
+[2023-01-04 14:02:35] local.INFO: Fetching address validation  
+[2023-01-04 14:02:35] local.INFO: Address not valid  
+[2023-01-04 14:02:35] local.INFO: Error in Address  
+[2023-01-04 14:02:35] local.INFO: =================================  
+[2023-01-04 14:02:35] local.INFO:   
+[2023-01-04 14:02:35] local.INFO: Completed Orders Processing  
+[2023-01-04 14:02:35] local.INFO: =================================  
+[2023-01-04 14:02:35] local.INFO:   
+[2023-01-04 14:05:44] local.INFO: Starting Orders Processing  
+[2023-01-04 14:05:44] local.INFO: Getting all new orders  
+[2023-01-04 14:05:44] local.INFO: Checking address for: 10019  
+[2023-01-04 14:05:44] local.INFO: Fetching address validation  
+[2023-01-04 14:05:45] local.INFO: Address is valid  
+[2023-01-04 14:05:45] local.INFO: No details found for Order Number: 10019  
+[2023-01-04 14:05:45] local.INFO: Checking address for: 10022  
+[2023-01-04 14:05:45] local.INFO: Fetching address validation  
+[2023-01-04 14:05:45] local.INFO: Address is valid  
+[2023-01-04 14:05:45] local.INFO: No details found for Order Number: 10022  
+[2023-01-04 14:05:45] local.INFO: Checking address for: 10029  
+[2023-01-04 14:05:45] local.INFO: Fetching address validation  
+[2023-01-04 14:05:46] local.INFO: Address is valid  
+[2023-01-04 14:05:46] local.INFO: No details found for Order Number: 10029  
+[2023-01-04 14:05:46] local.INFO: Completed Orders Processing  
+[2023-01-04 14:05:46] local.INFO: =================================  
+[2023-01-04 14:05:46] local.INFO:   

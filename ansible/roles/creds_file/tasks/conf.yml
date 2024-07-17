@@ -1,0 +1,20 @@
+---
+- name: bootstrap conf
+  template:
+    src: "config.php.j2"
+    dest: "/var/www/html/cranium/bootstrap/cache/config.php"
+    owner: "ec2-user"
+    group: "ec2-user"
+    mode: "0777"
+
+- name: env file
+  template:
+    src: "env.j2"
+    dest: "/var/www/html/cranium/.env"
+    owner: "ec2-user"
+    group: "ec2-user"
+    mode: "0777"    
+
+- name: Chmod
+  shell: |
+    sudo chmod -R 777 /var/www/html/cranium/bootstrap

@@ -1,0 +1,8 @@
+---
+
+- name: git pull
+  become: yes
+  shell: |
+    cd /var/www/html/cranium
+    git pull
+

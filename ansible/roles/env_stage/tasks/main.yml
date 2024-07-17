@@ -1,0 +1,21 @@
+---
+#- name: git pull
+#  include: git_pull.yml  
+
+- name: deploy cranium
+  include: dep_cranium.yml
+
+- name: Copy config bootstrap
+  include: bootstrap.yml
+
+- name: Set cron
+  include: set_cron.yml
+
+- name: Conf
+  include: conf.yml  
+
+- name: Restart httpd
+  include: start-httpd.yml
+
+- name: Restart httpd
+  include: php-fpm.yml  

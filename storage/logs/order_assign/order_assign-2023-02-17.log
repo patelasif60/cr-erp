@@ -1,0 +1,830 @@
+[2023-02-17 04:13:15] local.INFO: ==============================================  
+[2023-02-17 04:13:15] local.INFO: assignOrdersToPicker Start  
+[2023-02-17 04:13:15] local.INFO: Picker: 1, Warehouse: WI  
+[2023-02-17 04:13:15] local.INFO: Picker Role: [{"role":"Admin","name":"Sunny","time_zone":"America\/Chicago"}]  
+[2023-02-17 04:13:15] local.INFO: Fetched sub-order items to sort. Size: 29  
+[2023-02-17 04:13:15] local.INFO: Order # 10723  
+[2023-02-17 04:13:15] local.INFO: Order # 10723  
+[2023-02-17 04:13:15] local.INFO: Order # 10723  
+[2023-02-17 04:13:15] local.INFO: Order # 10952  
+[2023-02-17 04:13:15] local.INFO: Order # 10952  
+[2023-02-17 04:13:15] local.INFO: Order # 10952  
+[2023-02-17 04:13:15] local.INFO: Order # 10938  
+[2023-02-17 04:13:15] local.INFO: Order # 10938  
+[2023-02-17 04:13:15] local.INFO: Order # 10938  
+[2023-02-17 04:13:15] local.INFO: Order # 10938  
+[2023-02-17 04:13:15] local.INFO: Order # 10938  
+[2023-02-17 04:13:15] local.INFO: Order # 10938  
+[2023-02-17 04:13:15] local.INFO: Order # 10938  
+[2023-02-17 04:13:15] local.INFO: Order # 10937  
+[2023-02-17 04:13:15] local.INFO: Order # 10937  
+[2023-02-17 04:13:15] local.INFO: Order # 10937  
+[2023-02-17 04:13:15] local.INFO: Order # 10937  
+[2023-02-17 04:13:15] local.INFO: Order # 10937  
+[2023-02-17 04:13:15] local.INFO: Order # 10937  
+[2023-02-17 04:13:15] local.INFO: Order # 10937  
+[2023-02-17 04:13:15] local.INFO: Order # 10937  
+[2023-02-17 04:13:15] local.INFO: Order # 10937  
+[2023-02-17 04:13:15] local.INFO: Order # 10937  
+[2023-02-17 04:13:15] local.INFO: Order # 10937  
+[2023-02-17 04:13:15] local.INFO: Order # 10937  
+[2023-02-17 04:13:15] local.INFO: Order # 10886  
+[2023-02-17 04:13:15] local.INFO: Order # 10886  
+[2023-02-17 04:13:15] local.INFO: Order # 10895  
+[2023-02-17 04:13:15] local.INFO: Order # 10895  
+[2023-02-17 04:13:15] local.INFO: Fetched Temperatures for orders: ["Frozen"]  
+[2023-02-17 04:13:15] local.INFO: Using TZ for WH assigned to Picker: America/Chicago  
+[2023-02-17 04:13:15] local.INFO: Day: friday, Time: 4  
+[2023-02-17 04:13:16] local.INFO: Shipping WH Eligibility: [{"friday":"9"},{"friday":"10"},{"friday":"11"},{"friday":"12"},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null}]  
+[2023-02-17 04:13:16] local.INFO: Order Day Shipping: 4  
+[2023-02-17 04:13:16] local.INFO: Picker Config: 1,2,3  
+[2023-02-17 04:13:16] local.INFO: Picker Groups: ["Dry","Frozen","Refrigerated"]  
+[2023-02-17 04:13:16] local.INFO: Pack Type to Assign: Frozen  
+[2023-02-17 04:13:16] local.INFO: Max batch for picker: 20  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2241. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2241. Transit day: 3  
+[2023-02-17 04:13:16] local.INFO: To check. Temp: Frozen, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2241. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2241. Condition not fulfilled. Not Adding  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2242. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2242. Transit day: 3  
+[2023-02-17 04:13:16] local.INFO: To check. Temp: Frozen, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2242. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2242. Condition not fulfilled. Not Adding  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2243. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2243. Transit day: 3  
+[2023-02-17 04:13:16] local.INFO: To check. Temp: Frozen, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2243. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2243. Condition not fulfilled. Not Adding  
+[2023-02-17 04:13:16] local.INFO: Order Id: 3029. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 04:13:16] local.INFO: Order Id: 3029. Transit day: 2  
+[2023-02-17 04:13:16] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 04:13:16] local.INFO: Order Id: 3029. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 04:13:16] local.INFO: Order Id: 3029. Condition not fulfilled. Not Adding  
+[2023-02-17 04:13:16] local.INFO: Order Id: 3030. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 04:13:16] local.INFO: Order Id: 3030. Transit day: 2  
+[2023-02-17 04:13:16] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 04:13:16] local.INFO: Order Id: 3030. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 04:13:16] local.INFO: Order Id: 3030. Condition not fulfilled. Not Adding  
+[2023-02-17 04:13:16] local.INFO: Order Id: 3031. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 04:13:16] local.INFO: Order Id: 3031. Transit day: 2  
+[2023-02-17 04:13:16] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 04:13:16] local.INFO: Order Id: 3031. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 04:13:16] local.INFO: Order Id: 3031. Condition not fulfilled. Not Adding  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2992. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2992. Transit day: 3  
+[2023-02-17 04:13:16] local.INFO: To check. Temp: Frozen, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2992. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2992. Condition not fulfilled. Not Adding  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2993. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2993. Transit day: 3  
+[2023-02-17 04:13:16] local.INFO: To check. Temp: Frozen, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2993. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2993. Condition not fulfilled. Not Adding  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2994. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2994. Transit day: 3  
+[2023-02-17 04:13:16] local.INFO: To check. Temp: Frozen, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2994. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2994. Condition not fulfilled. Not Adding  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2995. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2995. Transit day: 3  
+[2023-02-17 04:13:16] local.INFO: To check. Temp: Frozen, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2995. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2995. Condition not fulfilled. Not Adding  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2990. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2990. Transit day: 3  
+[2023-02-17 04:13:16] local.INFO: To check. Temp: Frozen, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2990. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2990. Condition not fulfilled. Not Adding  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2991. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2991. Transit day: 3  
+[2023-02-17 04:13:16] local.INFO: To check. Temp: Frozen, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2991. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2991. Condition not fulfilled. Not Adding  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2996. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2996. Transit day: 3  
+[2023-02-17 04:13:16] local.INFO: To check. Temp: Frozen, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2996. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2996. Condition not fulfilled. Not Adding  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2980. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2980. Transit day: 2  
+[2023-02-17 04:13:16] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2980. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2980. Condition not fulfilled. Not Adding  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2975. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2975. Transit day: 2  
+[2023-02-17 04:13:16] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2975. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2975. Condition not fulfilled. Not Adding  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2981. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2981. Transit day: 2  
+[2023-02-17 04:13:16] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2981. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2981. Condition not fulfilled. Not Adding  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2976. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2976. Transit day: 2  
+[2023-02-17 04:13:16] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2976. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2976. Condition not fulfilled. Not Adding  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2982. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2982. Transit day: 2  
+[2023-02-17 04:13:16] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2982. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2982. Condition not fulfilled. Not Adding  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2977. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2977. Transit day: 2  
+[2023-02-17 04:13:16] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2977. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2977. Condition not fulfilled. Not Adding  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2972. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2972. Transit day: 2  
+[2023-02-17 04:13:16] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2972. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2972. Condition not fulfilled. Not Adding  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2983. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2983. Transit day: 2  
+[2023-02-17 04:13:16] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2983. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2983. Condition not fulfilled. Not Adding  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2978. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2978. Transit day: 2  
+[2023-02-17 04:13:16] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2978. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2978. Condition not fulfilled. Not Adding  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2973. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2973. Transit day: 2  
+[2023-02-17 04:13:16] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2973. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2973. Condition not fulfilled. Not Adding  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2979. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2979. Transit day: 2  
+[2023-02-17 04:13:16] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2979. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2979. Condition not fulfilled. Not Adding  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2974. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2974. Transit day: 2  
+[2023-02-17 04:13:16] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2974. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2974. Condition not fulfilled. Not Adding  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2802. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2802. Transit day: 2  
+[2023-02-17 04:13:16] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2802. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2802. Condition not fulfilled. Not Adding  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2803. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2803. Transit day: 2  
+[2023-02-17 04:13:16] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2803. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2803. Condition not fulfilled. Not Adding  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2835. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2835. Transit day: 2  
+[2023-02-17 04:13:16] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2835. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2835. Condition not fulfilled. Not Adding  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2836. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2836. Transit day: 2  
+[2023-02-17 04:13:16] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 04:13:16] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2836. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 04:13:16] local.INFO: Order Id: 2836. Condition not fulfilled. Not Adding  
+[2023-02-17 09:41:58] local.INFO: ==============================================  
+[2023-02-17 09:41:58] local.INFO: assignOrdersToPicker Start  
+[2023-02-17 09:41:58] local.INFO: Picker: 1, Warehouse: PA  
+[2023-02-17 09:41:58] local.INFO: Picker Role: [{"role":"Admin","name":"Sunny","time_zone":"America\/New_York"}]  
+[2023-02-17 09:41:58] local.INFO: Fetched sub-order items to sort. Size: 6  
+[2023-02-17 09:41:58] local.INFO: Order # 10970  
+[2023-02-17 09:41:58] local.INFO: Order # 10970  
+[2023-02-17 09:41:58] local.INFO: Order # 10970  
+[2023-02-17 09:41:58] local.INFO: Order # 10970  
+[2023-02-17 09:41:58] local.INFO: Order # 10970  
+[2023-02-17 09:41:58] local.INFO: Order # 10970  
+[2023-02-17 09:41:58] local.INFO: Fetched Temperatures for orders: ["Frozen"]  
+[2023-02-17 09:41:58] local.INFO: Using TZ for WH assigned to Picker: America/New_York  
+[2023-02-17 09:41:58] local.INFO: Day: friday, Time: 10  
+[2023-02-17 09:41:58] local.INFO: Shipping WH Eligibility: [{"friday":"9"},{"friday":"10"},{"friday":"11"},{"friday":"12"},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null}]  
+[2023-02-17 09:41:58] local.INFO: Order Day Shipping: 4  
+[2023-02-17 09:41:58] local.INFO: Picker Config: 1,2,3  
+[2023-02-17 09:41:58] local.INFO: Picker Groups: ["Dry","Frozen","Refrigerated"]  
+[2023-02-17 09:41:58] local.INFO: Pack Type to Assign: Frozen  
+[2023-02-17 09:41:58] local.INFO: Max batch for picker: 20  
+[2023-02-17 09:41:58] local.INFO: Order Id: 3106. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:41:58] local.INFO: Order Id: 3106. Transit day:   
+[2023-02-17 09:41:58] local.INFO: To check. Temp: Frozen, Day:   
+[2023-02-17 09:41:58] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:41:58] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:41:58] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:41:58] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:41:58] local.INFO: Order Id: 3106. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:41:58] local.INFO: Order Id: 3106. Condition not fulfilled. Not Adding  
+[2023-02-17 09:41:58] local.INFO: Order Id: 3107. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:41:58] local.INFO: Order Id: 3107. Transit day:   
+[2023-02-17 09:41:58] local.INFO: To check. Temp: Frozen, Day:   
+[2023-02-17 09:41:58] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:41:58] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:41:58] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:41:58] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:41:58] local.INFO: Order Id: 3107. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:41:58] local.INFO: Order Id: 3107. Condition not fulfilled. Not Adding  
+[2023-02-17 09:41:58] local.INFO: Order Id: 3108. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:41:58] local.INFO: Order Id: 3108. Transit day:   
+[2023-02-17 09:41:58] local.INFO: To check. Temp: Frozen, Day:   
+[2023-02-17 09:41:58] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:41:58] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:41:58] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:41:58] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:41:58] local.INFO: Order Id: 3108. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:41:58] local.INFO: Order Id: 3108. Condition not fulfilled. Not Adding  
+[2023-02-17 09:41:58] local.INFO: Order Id: 3306. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:41:58] local.INFO: Order Id: 3306. Transit day:   
+[2023-02-17 09:41:58] local.INFO: To check. Temp: Frozen, Day:   
+[2023-02-17 09:41:58] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:41:58] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:41:58] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:41:58] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:41:58] local.INFO: Order Id: 3306. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:41:58] local.INFO: Order Id: 3306. Condition not fulfilled. Not Adding  
+[2023-02-17 09:41:58] local.INFO: Order Id: 3104. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:41:58] local.INFO: Order Id: 3104. Transit day:   
+[2023-02-17 09:41:58] local.INFO: To check. Temp: Frozen, Day:   
+[2023-02-17 09:41:58] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:41:58] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:41:58] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:41:58] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:41:58] local.INFO: Order Id: 3104. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:41:58] local.INFO: Order Id: 3104. Condition not fulfilled. Not Adding  
+[2023-02-17 09:41:58] local.INFO: Order Id: 3105. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:41:58] local.INFO: Order Id: 3105. Transit day:   
+[2023-02-17 09:41:58] local.INFO: To check. Temp: Frozen, Day:   
+[2023-02-17 09:41:58] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:41:58] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:41:58] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:41:58] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:41:58] local.INFO: Order Id: 3105. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:41:58] local.INFO: Order Id: 3105. Condition not fulfilled. Not Adding  
+[2023-02-17 09:47:55] local.INFO: ==============================================  
+[2023-02-17 09:47:55] local.INFO: assignOrdersToPicker Start  
+[2023-02-17 09:47:55] local.INFO: Picker: 1, Warehouse: PA  
+[2023-02-17 09:47:55] local.INFO: Picker Role: [{"role":"Admin","name":"Sunny","time_zone":"America\/Los_Angeles"}]  
+[2023-02-17 09:47:55] local.INFO: Fetched sub-order items to sort. Size: 6  
+[2023-02-17 09:47:55] local.INFO: Order # 10970  
+[2023-02-17 09:47:55] local.INFO: Order # 10970  
+[2023-02-17 09:47:55] local.INFO: Order # 10970  
+[2023-02-17 09:47:55] local.INFO: Order # 10970  
+[2023-02-17 09:47:55] local.INFO: Order # 10970  
+[2023-02-17 09:47:55] local.INFO: Order # 10970  
+[2023-02-17 09:47:55] local.INFO: Fetched Temperatures for orders: ["Frozen"]  
+[2023-02-17 09:47:55] local.INFO: Using TZ for WH assigned to Picker: America/Los_Angeles  
+[2023-02-17 09:47:55] local.INFO: Day: friday, Time: 7  
+[2023-02-17 09:47:55] local.INFO: Shipping WH Eligibility: [{"friday":"9"},{"friday":"10"},{"friday":"11"},{"friday":"12"},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null}]  
+[2023-02-17 09:47:55] local.INFO: Order Day Shipping: 4  
+[2023-02-17 09:47:55] local.INFO: Picker Config: 1,2,3  
+[2023-02-17 09:47:55] local.INFO: Picker Groups: ["Dry","Frozen","Refrigerated"]  
+[2023-02-17 09:47:55] local.INFO: Pack Type to Assign: Frozen  
+[2023-02-17 09:47:55] local.INFO: Max batch for picker: 20  
+[2023-02-17 09:47:55] local.INFO: Order Id: 3106. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:47:55] local.INFO: Order Id: 3106. Transit day:   
+[2023-02-17 09:47:55] local.INFO: To check. Temp: Frozen, Day:   
+[2023-02-17 09:47:55] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:47:55] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:47:55] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:47:55] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:47:55] local.INFO: Order Id: 3106. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:47:55] local.INFO: Order Id: 3106. Condition not fulfilled. Not Adding  
+[2023-02-17 09:47:55] local.INFO: Order Id: 3107. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:47:55] local.INFO: Order Id: 3107. Transit day:   
+[2023-02-17 09:47:55] local.INFO: To check. Temp: Frozen, Day:   
+[2023-02-17 09:47:55] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:47:55] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:47:55] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:47:55] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:47:55] local.INFO: Order Id: 3107. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:47:55] local.INFO: Order Id: 3107. Condition not fulfilled. Not Adding  
+[2023-02-17 09:47:55] local.INFO: Order Id: 3108. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:47:55] local.INFO: Order Id: 3108. Transit day:   
+[2023-02-17 09:47:55] local.INFO: To check. Temp: Frozen, Day:   
+[2023-02-17 09:47:55] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:47:55] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:47:55] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:47:55] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:47:55] local.INFO: Order Id: 3108. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:47:55] local.INFO: Order Id: 3108. Condition not fulfilled. Not Adding  
+[2023-02-17 09:47:55] local.INFO: Order Id: 3306. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:47:55] local.INFO: Order Id: 3306. Transit day:   
+[2023-02-17 09:47:55] local.INFO: To check. Temp: Frozen, Day:   
+[2023-02-17 09:47:55] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:47:55] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:47:55] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:47:55] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:47:55] local.INFO: Order Id: 3306. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:47:55] local.INFO: Order Id: 3306. Condition not fulfilled. Not Adding  
+[2023-02-17 09:47:55] local.INFO: Order Id: 3104. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:47:55] local.INFO: Order Id: 3104. Transit day:   
+[2023-02-17 09:47:55] local.INFO: To check. Temp: Frozen, Day:   
+[2023-02-17 09:47:55] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:47:55] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:47:55] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:47:55] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:47:55] local.INFO: Order Id: 3104. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:47:55] local.INFO: Order Id: 3104. Condition not fulfilled. Not Adding  
+[2023-02-17 09:47:55] local.INFO: Order Id: 3105. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:47:55] local.INFO: Order Id: 3105. Transit day:   
+[2023-02-17 09:47:55] local.INFO: To check. Temp: Frozen, Day:   
+[2023-02-17 09:47:55] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:47:55] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:47:55] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:47:55] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:47:55] local.INFO: Order Id: 3105. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:47:55] local.INFO: Order Id: 3105. Condition not fulfilled. Not Adding  
+[2023-02-17 09:48:02] local.INFO: ==============================================  
+[2023-02-17 09:48:02] local.INFO: assignOrdersToPicker Start  
+[2023-02-17 09:48:02] local.INFO: Picker: 1, Warehouse: PA  
+[2023-02-17 09:48:02] local.INFO: Picker Role: [{"role":"Admin","name":"Sunny","time_zone":"America\/Los_Angeles"}]  
+[2023-02-17 09:48:02] local.INFO: Fetched sub-order items to sort. Size: 6  
+[2023-02-17 09:48:02] local.INFO: Order # 10970  
+[2023-02-17 09:48:02] local.INFO: Order # 10970  
+[2023-02-17 09:48:02] local.INFO: Order # 10970  
+[2023-02-17 09:48:02] local.INFO: Order # 10970  
+[2023-02-17 09:48:02] local.INFO: Order # 10970  
+[2023-02-17 09:48:02] local.INFO: Order # 10970  
+[2023-02-17 09:48:02] local.INFO: Fetched Temperatures for orders: ["Frozen"]  
+[2023-02-17 09:48:02] local.INFO: Using TZ for WH assigned to Picker: America/Los_Angeles  
+[2023-02-17 09:48:02] local.INFO: Day: friday, Time: 7  
+[2023-02-17 09:48:02] local.INFO: Shipping WH Eligibility: [{"friday":"9"},{"friday":"10"},{"friday":"11"},{"friday":"12"},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null}]  
+[2023-02-17 09:48:02] local.INFO: Order Day Shipping: 4  
+[2023-02-17 09:48:02] local.INFO: Picker Config: 1,2,3  
+[2023-02-17 09:48:02] local.INFO: Picker Groups: ["Dry","Frozen","Refrigerated"]  
+[2023-02-17 09:48:02] local.INFO: Pack Type to Assign: Frozen  
+[2023-02-17 09:48:02] local.INFO: Max batch for picker: 20  
+[2023-02-17 09:48:02] local.INFO: Order Id: 3106. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:48:02] local.INFO: Order Id: 3106. Transit day:   
+[2023-02-17 09:48:02] local.INFO: To check. Temp: Frozen, Day:   
+[2023-02-17 09:48:02] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:48:02] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:48:02] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:48:02] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:48:02] local.INFO: Order Id: 3106. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:48:02] local.INFO: Order Id: 3106. Condition not fulfilled. Not Adding  
+[2023-02-17 09:48:02] local.INFO: Order Id: 3107. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:48:02] local.INFO: Order Id: 3107. Transit day:   
+[2023-02-17 09:48:02] local.INFO: To check. Temp: Frozen, Day:   
+[2023-02-17 09:48:02] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:48:02] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:48:02] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:48:02] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:48:02] local.INFO: Order Id: 3107. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:48:02] local.INFO: Order Id: 3107. Condition not fulfilled. Not Adding  
+[2023-02-17 09:48:02] local.INFO: Order Id: 3108. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:48:02] local.INFO: Order Id: 3108. Transit day:   
+[2023-02-17 09:48:02] local.INFO: To check. Temp: Frozen, Day:   
+[2023-02-17 09:48:02] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:48:02] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:48:02] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:48:02] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:48:02] local.INFO: Order Id: 3108. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:48:02] local.INFO: Order Id: 3108. Condition not fulfilled. Not Adding  
+[2023-02-17 09:48:02] local.INFO: Order Id: 3306. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:48:02] local.INFO: Order Id: 3306. Transit day:   
+[2023-02-17 09:48:02] local.INFO: To check. Temp: Frozen, Day:   
+[2023-02-17 09:48:02] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:48:02] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:48:02] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:48:02] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:48:02] local.INFO: Order Id: 3306. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:48:02] local.INFO: Order Id: 3306. Condition not fulfilled. Not Adding  
+[2023-02-17 09:48:02] local.INFO: Order Id: 3104. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:48:02] local.INFO: Order Id: 3104. Transit day:   
+[2023-02-17 09:48:02] local.INFO: To check. Temp: Frozen, Day:   
+[2023-02-17 09:48:02] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:48:02] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:48:02] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:48:02] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:48:02] local.INFO: Order Id: 3104. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:48:02] local.INFO: Order Id: 3104. Condition not fulfilled. Not Adding  
+[2023-02-17 09:48:02] local.INFO: Order Id: 3105. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:48:02] local.INFO: Order Id: 3105. Transit day:   
+[2023-02-17 09:48:02] local.INFO: To check. Temp: Frozen, Day:   
+[2023-02-17 09:48:02] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:48:02] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:48:02] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:48:02] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:48:02] local.INFO: Order Id: 3105. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:48:02] local.INFO: Order Id: 3105. Condition not fulfilled. Not Adding  
+[2023-02-17 09:48:20] local.INFO: ==============================================  
+[2023-02-17 09:48:20] local.INFO: assignOrdersToPicker Start  
+[2023-02-17 09:48:20] local.INFO: Picker: 1, Warehouse: WI  
+[2023-02-17 09:48:20] local.INFO: Picker Role: [{"role":"Admin","name":"Sunny","time_zone":"America\/Chicago"}]  
+[2023-02-17 09:48:20] local.INFO: Fetched sub-order items to sort. Size: 29  
+[2023-02-17 09:48:20] local.INFO: Order # 10723  
+[2023-02-17 09:48:20] local.INFO: Order # 10723  
+[2023-02-17 09:48:20] local.INFO: Order # 10723  
+[2023-02-17 09:48:20] local.INFO: Order # 10952  
+[2023-02-17 09:48:20] local.INFO: Order # 10952  
+[2023-02-17 09:48:20] local.INFO: Order # 10952  
+[2023-02-17 09:48:20] local.INFO: Order # 10938  
+[2023-02-17 09:48:20] local.INFO: Order # 10938  
+[2023-02-17 09:48:20] local.INFO: Order # 10938  
+[2023-02-17 09:48:20] local.INFO: Order # 10938  
+[2023-02-17 09:48:20] local.INFO: Order # 10938  
+[2023-02-17 09:48:20] local.INFO: Order # 10938  
+[2023-02-17 09:48:20] local.INFO: Order # 10938  
+[2023-02-17 09:48:20] local.INFO: Order # 10937  
+[2023-02-17 09:48:20] local.INFO: Order # 10937  
+[2023-02-17 09:48:20] local.INFO: Order # 10937  
+[2023-02-17 09:48:20] local.INFO: Order # 10937  
+[2023-02-17 09:48:20] local.INFO: Order # 10937  
+[2023-02-17 09:48:20] local.INFO: Order # 10937  
+[2023-02-17 09:48:20] local.INFO: Order # 10937  
+[2023-02-17 09:48:20] local.INFO: Order # 10937  
+[2023-02-17 09:48:20] local.INFO: Order # 10937  
+[2023-02-17 09:48:20] local.INFO: Order # 10937  
+[2023-02-17 09:48:20] local.INFO: Order # 10937  
+[2023-02-17 09:48:20] local.INFO: Order # 10937  
+[2023-02-17 09:48:20] local.INFO: Order # 10886  
+[2023-02-17 09:48:20] local.INFO: Order # 10886  
+[2023-02-17 09:48:20] local.INFO: Order # 10895  
+[2023-02-17 09:48:20] local.INFO: Order # 10895  
+[2023-02-17 09:48:20] local.INFO: Fetched Temperatures for orders: ["Frozen"]  
+[2023-02-17 09:48:20] local.INFO: Using TZ for WH assigned to Picker: America/Chicago  
+[2023-02-17 09:48:20] local.INFO: Day: friday, Time: 9  
+[2023-02-17 09:48:20] local.INFO: Shipping WH Eligibility: [{"friday":"9"},{"friday":"10"},{"friday":"11"},{"friday":"12"},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null},{"friday":null}]  
+[2023-02-17 09:48:20] local.INFO: Order Day Shipping: 4  
+[2023-02-17 09:48:20] local.INFO: Picker Config: 1,2,3  
+[2023-02-17 09:48:20] local.INFO: Picker Groups: ["Dry","Frozen","Refrigerated"]  
+[2023-02-17 09:48:20] local.INFO: Pack Type to Assign: Frozen  
+[2023-02-17 09:48:20] local.INFO: Max batch for picker: 20  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2243. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2243. Transit day: 3  
+[2023-02-17 09:48:20] local.INFO: To check. Temp: Frozen, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2243. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2243. Condition not fulfilled. Not Adding  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2241. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2241. Transit day: 3  
+[2023-02-17 09:48:20] local.INFO: To check. Temp: Frozen, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2241. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2241. Condition not fulfilled. Not Adding  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2242. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2242. Transit day: 3  
+[2023-02-17 09:48:20] local.INFO: To check. Temp: Frozen, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2242. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2242. Condition not fulfilled. Not Adding  
+[2023-02-17 09:48:20] local.INFO: Order Id: 3031. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:48:20] local.INFO: Order Id: 3031. Transit day: 2  
+[2023-02-17 09:48:20] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:48:20] local.INFO: Order Id: 3031. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:48:20] local.INFO: Order Id: 3031. Condition not fulfilled. Not Adding  
+[2023-02-17 09:48:20] local.INFO: Order Id: 3029. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:48:20] local.INFO: Order Id: 3029. Transit day: 2  
+[2023-02-17 09:48:20] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:48:20] local.INFO: Order Id: 3029. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:48:20] local.INFO: Order Id: 3029. Condition not fulfilled. Not Adding  
+[2023-02-17 09:48:20] local.INFO: Order Id: 3030. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:48:20] local.INFO: Order Id: 3030. Transit day: 2  
+[2023-02-17 09:48:20] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:48:20] local.INFO: Order Id: 3030. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:48:20] local.INFO: Order Id: 3030. Condition not fulfilled. Not Adding  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2994. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2994. Transit day: 3  
+[2023-02-17 09:48:20] local.INFO: To check. Temp: Frozen, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2994. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2994. Condition not fulfilled. Not Adding  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2995. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2995. Transit day: 3  
+[2023-02-17 09:48:20] local.INFO: To check. Temp: Frozen, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2995. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2995. Condition not fulfilled. Not Adding  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2990. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2990. Transit day: 3  
+[2023-02-17 09:48:20] local.INFO: To check. Temp: Frozen, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2990. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2990. Condition not fulfilled. Not Adding  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2996. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2996. Transit day: 3  
+[2023-02-17 09:48:20] local.INFO: To check. Temp: Frozen, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2996. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2996. Condition not fulfilled. Not Adding  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2991. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2991. Transit day: 3  
+[2023-02-17 09:48:20] local.INFO: To check. Temp: Frozen, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2991. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2991. Condition not fulfilled. Not Adding  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2992. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2992. Transit day: 3  
+[2023-02-17 09:48:20] local.INFO: To check. Temp: Frozen, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2992. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2992. Condition not fulfilled. Not Adding  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2993. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2993. Transit day: 3  
+[2023-02-17 09:48:20] local.INFO: To check. Temp: Frozen, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2993. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2993. Condition not fulfilled. Not Adding  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2977. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2977. Transit day: 2  
+[2023-02-17 09:48:20] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2977. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2977. Condition not fulfilled. Not Adding  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2972. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2972. Transit day: 2  
+[2023-02-17 09:48:20] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2972. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2972. Condition not fulfilled. Not Adding  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2983. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2983. Transit day: 2  
+[2023-02-17 09:48:20] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2983. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2983. Condition not fulfilled. Not Adding  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2978. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2978. Transit day: 2  
+[2023-02-17 09:48:20] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2978. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2978. Condition not fulfilled. Not Adding  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2973. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2973. Transit day: 2  
+[2023-02-17 09:48:20] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2973. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2973. Condition not fulfilled. Not Adding  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2979. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2979. Transit day: 2  
+[2023-02-17 09:48:20] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2979. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2979. Condition not fulfilled. Not Adding  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2974. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2974. Transit day: 2  
+[2023-02-17 09:48:20] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2974. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2974. Condition not fulfilled. Not Adding  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2980. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2980. Transit day: 2  
+[2023-02-17 09:48:20] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2980. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2980. Condition not fulfilled. Not Adding  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2975. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2975. Transit day: 2  
+[2023-02-17 09:48:20] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2975. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2975. Condition not fulfilled. Not Adding  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2981. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2981. Transit day: 2  
+[2023-02-17 09:48:20] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2981. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2981. Condition not fulfilled. Not Adding  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2976. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2976. Transit day: 2  
+[2023-02-17 09:48:20] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2976. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2976. Condition not fulfilled. Not Adding  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2982. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2982. Transit day: 2  
+[2023-02-17 09:48:20] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2982. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2982. Condition not fulfilled. Not Adding  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2802. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2802. Transit day: 2  
+[2023-02-17 09:48:20] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2802. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2802. Condition not fulfilled. Not Adding  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2803. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2803. Transit day: 2  
+[2023-02-17 09:48:20] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2803. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2803. Condition not fulfilled. Not Adding  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2835. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2835. Transit day: 2  
+[2023-02-17 09:48:20] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2835. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2835. Condition not fulfilled. Not Adding  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2836. Temp: Frozen. Pack Type: Frozen  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2836. Transit day: 2  
+[2023-02-17 09:48:20] local.INFO: To check. Temp: Frozen, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 4  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 3  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 2  
+[2023-02-17 09:48:20] local.INFO: Temp: DRY, Day: 1  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2836. Condition not fulfilled. Checking for Saturday Order.  
+[2023-02-17 09:48:20] local.INFO: Order Id: 2836. Condition not fulfilled. Not Adding  

@@ -1,0 +1,1496 @@
+[2023-04-04 12:55:25] local.INFO: ETIN: ETFZ-1001-6655  
+[2023-04-04 12:55:25] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After coolant_cost price: 10  
+[2023-04-04 12:55:25] local.INFO: Before product_cost price: 10  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:25] local.INFO: After product_cost price: 10  
+[2023-04-04 12:55:25] local.INFO: Before acquisition_cost price: 10  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:25] local.INFO: After acquisition_cost price: 10  
+[2023-04-04 12:55:25] local.INFO: Before base_shipping_cost price: 10  
+[2023-04-04 12:55:25] local.INFO: After base_shipping_cost price: 26.85  
+[2023-04-04 12:55:25] local.INFO: Before packaging_and_material price: 26.85  
+[2023-04-04 12:55:25] local.INFO: After packaging_and_material  price: 28.1  
+[2023-04-04 12:55:25] local.INFO: Before price block markup_total_cost: 28.1  
+[2023-04-04 12:55:25] local.INFO: After price block markup_total_cost: 28.1  
+[2023-04-04 12:55:25] local.INFO: Final Price Cost: 28.1  
+[2023-04-04 12:55:25] local.INFO: *********************************************  
+[2023-04-04 12:55:25] local.INFO: ETIN: ETFZ-1000-1146  
+[2023-04-04 12:55:25] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After coolant_cost price: 10  
+[2023-04-04 12:55:25] local.INFO: Before product_cost price: 10  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:25] local.INFO: After product_cost price: 10  
+[2023-04-04 12:55:25] local.INFO: Before acquisition_cost price: 10  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:25] local.INFO: After acquisition_cost price: 15  
+[2023-04-04 12:55:25] local.INFO: Before base_shipping_cost price: 15  
+[2023-04-04 12:55:25] local.INFO: After base_shipping_cost price: 27.94  
+[2023-04-04 12:55:25] local.INFO: Before packaging_and_material price: 27.94  
+[2023-04-04 12:55:25] local.INFO: After packaging_and_material  price: 29.19  
+[2023-04-04 12:55:25] local.INFO: Before price block markup_total_cost: 29.19  
+[2023-04-04 12:55:25] local.INFO: After price block markup_total_cost: 29.19  
+[2023-04-04 12:55:25] local.INFO: Final Price Cost: 29.19  
+[2023-04-04 12:55:25] local.INFO: *********************************************  
+[2023-04-04 12:55:25] local.INFO: ETIN: ETDF-1000-1205  
+[2023-04-04 12:55:25] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:25] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:25] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:25] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:25] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: *********************************************  
+[2023-04-04 12:55:25] local.INFO: ETIN: ETDF-1000-1185  
+[2023-04-04 12:55:25] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:25] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:25] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:25] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:25] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: *********************************************  
+[2023-04-04 12:55:25] local.INFO: ETIN: ETDF-1000-1184  
+[2023-04-04 12:55:25] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:25] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:25] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:25] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:25] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: *********************************************  
+[2023-04-04 12:55:25] local.INFO: ETIN: ETDF-1000-1183  
+[2023-04-04 12:55:25] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:25] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:25] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:25] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:25] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: *********************************************  
+[2023-04-04 12:55:25] local.INFO: ETIN: ETDF-1000-1182  
+[2023-04-04 12:55:25] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:25] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:25] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After base_shipping_cost price: 11.01  
+[2023-04-04 12:55:25] local.INFO: Before packaging_and_material price: 11.01  
+[2023-04-04 12:55:25] local.INFO: After packaging_and_material  price: 11.96  
+[2023-04-04 12:55:25] local.INFO: Before price block markup_total_cost: 11.96  
+[2023-04-04 12:55:25] local.INFO: After price block markup_total_cost: 11.96  
+[2023-04-04 12:55:25] local.INFO: Final Price Cost: 11.96  
+[2023-04-04 12:55:25] local.INFO: *********************************************  
+[2023-04-04 12:55:25] local.INFO: ETIN: ETDF-1000-1181  
+[2023-04-04 12:55:25] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:25] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:25] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After base_shipping_cost price: 11.01  
+[2023-04-04 12:55:25] local.INFO: Before packaging_and_material price: 11.01  
+[2023-04-04 12:55:25] local.INFO: After packaging_and_material  price: 11.96  
+[2023-04-04 12:55:25] local.INFO: Before price block markup_total_cost: 11.96  
+[2023-04-04 12:55:25] local.INFO: After price block markup_total_cost: 11.96  
+[2023-04-04 12:55:25] local.INFO: Final Price Cost: 11.96  
+[2023-04-04 12:55:25] local.INFO: *********************************************  
+[2023-04-04 12:55:25] local.INFO: ETIN: ETDF-1000-1191  
+[2023-04-04 12:55:25] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:25] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:25] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:25] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:25] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: *********************************************  
+[2023-04-04 12:55:25] local.INFO: ETIN: ETDF-1000-1190  
+[2023-04-04 12:55:25] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:25] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:25] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:25] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:25] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: *********************************************  
+[2023-04-04 12:55:25] local.INFO: ETIN: ETDF-1000-1192  
+[2023-04-04 12:55:25] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:25] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:25] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:25] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:25] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: *********************************************  
+[2023-04-04 12:55:25] local.INFO: ETIN: ETDF-1000-1206  
+[2023-04-04 12:55:25] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:25] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:25] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:25] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:25] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: *********************************************  
+[2023-04-04 12:55:25] local.INFO: ETIN: ETDF-1000-1215  
+[2023-04-04 12:55:25] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:25] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:25] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:25] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:25] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: *********************************************  
+[2023-04-04 12:55:25] local.INFO: ETIN: ETDF-1000-1214  
+[2023-04-04 12:55:25] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:25] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:25] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:25] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:25] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: *********************************************  
+[2023-04-04 12:55:25] local.INFO: ETIN: ETDF-1000-1213  
+[2023-04-04 12:55:25] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:25] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:25] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:25] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:25] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: *********************************************  
+[2023-04-04 12:55:25] local.INFO: ETIN: ETDF-1000-1212  
+[2023-04-04 12:55:25] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:25] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:25] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:25] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:25] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: *********************************************  
+[2023-04-04 12:55:25] local.INFO: ETIN: ETDF-1000-1211  
+[2023-04-04 12:55:25] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:25] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:25] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:25] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:25] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: *********************************************  
+[2023-04-04 12:55:25] local.INFO: ETIN: ETDF-1000-1210  
+[2023-04-04 12:55:25] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:25] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:25] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:25] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:25] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: *********************************************  
+[2023-04-04 12:55:25] local.INFO: ETIN: ETDF-1000-1209  
+[2023-04-04 12:55:25] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:25] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:25] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:25] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:25] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: *********************************************  
+[2023-04-04 12:55:25] local.INFO: ETIN: ETDF-1000-1208  
+[2023-04-04 12:55:25] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:25] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:25] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:25] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:25] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: *********************************************  
+[2023-04-04 12:55:25] local.INFO: ETIN: ETDF-1000-1207  
+[2023-04-04 12:55:25] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:25] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:25] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:25] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:25] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: *********************************************  
+[2023-04-04 12:55:25] local.INFO: ETIN: ETDF-1000-1204  
+[2023-04-04 12:55:25] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:25] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:25] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:25] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:25] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: *********************************************  
+[2023-04-04 12:55:25] local.INFO: ETIN: ETDF-1000-1193  
+[2023-04-04 12:55:25] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:25] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:25] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:25] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:25] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:25] local.INFO: *********************************************  
+[2023-04-04 12:55:25] local.INFO: ETIN: ETDF-1000-1203  
+[2023-04-04 12:55:25] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:25] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:25] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:25] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:26] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:26] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: *********************************************  
+[2023-04-04 12:55:26] local.INFO: ETIN: ETDF-1000-1202  
+[2023-04-04 12:55:26] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:26] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:26] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:26] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:26] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: *********************************************  
+[2023-04-04 12:55:26] local.INFO: ETIN: ETDF-1000-1201  
+[2023-04-04 12:55:26] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:26] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:26] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:26] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:26] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: *********************************************  
+[2023-04-04 12:55:26] local.INFO: ETIN: ETDF-1000-1200  
+[2023-04-04 12:55:26] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:26] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:26] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:26] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:26] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: *********************************************  
+[2023-04-04 12:55:26] local.INFO: ETIN: ETDF-1000-1199  
+[2023-04-04 12:55:26] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:26] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:26] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:26] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:26] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: *********************************************  
+[2023-04-04 12:55:26] local.INFO: ETIN: ETDF-1000-1198  
+[2023-04-04 12:55:26] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:26] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:26] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:26] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:26] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: *********************************************  
+[2023-04-04 12:55:26] local.INFO: ETIN: ETDF-1000-1197  
+[2023-04-04 12:55:26] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:26] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:26] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After base_shipping_cost price: 11.01  
+[2023-04-04 12:55:26] local.INFO: Before packaging_and_material price: 11.01  
+[2023-04-04 12:55:26] local.INFO: After packaging_and_material  price: 11.96  
+[2023-04-04 12:55:26] local.INFO: Before price block markup_total_cost: 11.96  
+[2023-04-04 12:55:26] local.INFO: After price block markup_total_cost: 11.96  
+[2023-04-04 12:55:26] local.INFO: Final Price Cost: 11.96  
+[2023-04-04 12:55:26] local.INFO: *********************************************  
+[2023-04-04 12:55:26] local.INFO: ETIN: ETDF-1000-1196  
+[2023-04-04 12:55:26] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:26] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:26] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After base_shipping_cost price: 14.03  
+[2023-04-04 12:55:26] local.INFO: Before packaging_and_material price: 14.03  
+[2023-04-04 12:55:26] local.INFO: After packaging_and_material  price: 14.98  
+[2023-04-04 12:55:26] local.INFO: Before price block markup_total_cost: 14.98  
+[2023-04-04 12:55:26] local.INFO: After price block markup_total_cost: 14.98  
+[2023-04-04 12:55:26] local.INFO: Final Price Cost: 14.98  
+[2023-04-04 12:55:26] local.INFO: *********************************************  
+[2023-04-04 12:55:26] local.INFO: ETIN: ETDF-1000-1195  
+[2023-04-04 12:55:26] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:26] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:26] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:26] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:26] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: *********************************************  
+[2023-04-04 12:55:26] local.INFO: ETIN: ETDF-1000-1194  
+[2023-04-04 12:55:26] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:26] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:26] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:26] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:26] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: *********************************************  
+[2023-04-04 12:55:26] local.INFO: ETIN: ETDF-1000-1216  
+[2023-04-04 12:55:26] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:26] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:26] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:26] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:26] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: *********************************************  
+[2023-04-04 12:55:26] local.INFO: ETIN: ETDF-1000-1186  
+[2023-04-04 12:55:26] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:26] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:26] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After base_shipping_cost price: 11.01  
+[2023-04-04 12:55:26] local.INFO: Before packaging_and_material price: 11.01  
+[2023-04-04 12:55:26] local.INFO: After packaging_and_material  price: 11.96  
+[2023-04-04 12:55:26] local.INFO: Before price block markup_total_cost: 11.96  
+[2023-04-04 12:55:26] local.INFO: After price block markup_total_cost: 11.96  
+[2023-04-04 12:55:26] local.INFO: Final Price Cost: 11.96  
+[2023-04-04 12:55:26] local.INFO: *********************************************  
+[2023-04-04 12:55:26] local.INFO: ETIN: ETDF-1000-1187  
+[2023-04-04 12:55:26] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:26] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:26] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:26] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:26] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: *********************************************  
+[2023-04-04 12:55:26] local.INFO: ETIN: ETDF-1000-1188  
+[2023-04-04 12:55:26] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:26] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:26] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:26] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:26] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: *********************************************  
+[2023-04-04 12:55:26] local.INFO: ETIN: ETDF-1000-1189  
+[2023-04-04 12:55:26] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:26] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:26] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:26] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:26] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:26] local.INFO: *********************************************  
+[2023-04-04 12:55:26] local.INFO: ETIN: ETDF-1000-1224  
+[2023-04-04 12:55:26] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:26] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:26] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After base_shipping_cost price: 15.03  
+[2023-04-04 12:55:26] local.INFO: Before packaging_and_material price: 15.03  
+[2023-04-04 12:55:26] local.INFO: After packaging_and_material  price: 15.98  
+[2023-04-04 12:55:26] local.INFO: Before price block markup_total_cost: 15.98  
+[2023-04-04 12:55:26] local.INFO: After price block markup_total_cost: 15.98  
+[2023-04-04 12:55:26] local.INFO: Final Price Cost: 15.98  
+[2023-04-04 12:55:26] local.INFO: *********************************************  
+[2023-04-04 12:55:26] local.INFO: ETIN: ETBV-1000-1249  
+[2023-04-04 12:55:26] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:26] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:26] local.INFO: After acquisition_cost price: 210  
+[2023-04-04 12:55:26] local.INFO: Before base_shipping_cost price: 210  
+[2023-04-04 12:55:26] local.INFO: After base_shipping_cost price: 210  
+[2023-04-04 12:55:26] local.INFO: Before packaging_and_material price: 210  
+[2023-04-04 12:55:26] local.INFO: After packaging_and_material  price: 212  
+[2023-04-04 12:55:26] local.INFO: Before price block markup_total_cost: 212  
+[2023-04-04 12:55:26] local.INFO: After price block markup_total_cost: 212  
+[2023-04-04 12:55:26] local.INFO: Final Price Cost: 212  
+[2023-04-04 12:55:26] local.INFO: *********************************************  
+[2023-04-04 12:55:26] local.INFO: ETIN: ETBV-1000-1683  
+[2023-04-04 12:55:26] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:26] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:26] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After base_shipping_cost price: 18.36  
+[2023-04-04 12:55:26] local.INFO: Before packaging_and_material price: 18.36  
+[2023-04-04 12:55:26] local.INFO: After packaging_and_material  price: 20.36  
+[2023-04-04 12:55:26] local.INFO: Before price block markup_total_cost: 20.36  
+[2023-04-04 12:55:26] local.INFO: After price block markup_total_cost: 20.36  
+[2023-04-04 12:55:26] local.INFO: Final Price Cost: 20.36  
+[2023-04-04 12:55:26] local.INFO: *********************************************  
+[2023-04-04 12:55:26] local.INFO: ETIN: ETFZ-1000-1689  
+[2023-04-04 12:55:26] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After coolant_cost price: 10  
+[2023-04-04 12:55:26] local.INFO: Before product_cost price: 10  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:26] local.INFO: After product_cost price: 10  
+[2023-04-04 12:55:26] local.INFO: Before acquisition_cost price: 10  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:26] local.INFO: After acquisition_cost price: 20  
+[2023-04-04 12:55:26] local.INFO: Before base_shipping_cost price: 20  
+[2023-04-04 12:55:26] local.INFO: After base_shipping_cost price: 34  
+[2023-04-04 12:55:26] local.INFO: Before packaging_and_material price: 34  
+[2023-04-04 12:55:26] local.INFO: After packaging_and_material  price: 35.25  
+[2023-04-04 12:55:26] local.INFO: Before price block markup_total_cost: 35.25  
+[2023-04-04 12:55:26] local.INFO: After price block markup_total_cost: 35.25  
+[2023-04-04 12:55:26] local.INFO: Final Price Cost: 35.25  
+[2023-04-04 12:55:26] local.INFO: *********************************************  
+[2023-04-04 12:55:26] local.INFO: ETIN: ETFZ-1000-1691  
+[2023-04-04 12:55:26] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After coolant_cost price: 10  
+[2023-04-04 12:55:26] local.INFO: Before product_cost price: 10  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:26] local.INFO: After product_cost price: 10  
+[2023-04-04 12:55:26] local.INFO: Before acquisition_cost price: 10  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:26] local.INFO: After acquisition_cost price: 20  
+[2023-04-04 12:55:26] local.INFO: Before base_shipping_cost price: 20  
+[2023-04-04 12:55:26] local.INFO: After base_shipping_cost price: 31.33  
+[2023-04-04 12:55:26] local.INFO: Before packaging_and_material price: 31.33  
+[2023-04-04 12:55:26] local.INFO: After packaging_and_material  price: 32.58  
+[2023-04-04 12:55:26] local.INFO: Before price block markup_total_cost: 32.58  
+[2023-04-04 12:55:26] local.INFO: After price block markup_total_cost: 32.58  
+[2023-04-04 12:55:26] local.INFO: Final Price Cost: 32.58  
+[2023-04-04 12:55:26] local.INFO: *********************************************  
+[2023-04-04 12:55:26] local.INFO: ETIN: ETDP-1000-1712  
+[2023-04-04 12:55:26] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:26] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:26] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:26] local.INFO: After acquisition_cost price: 90  
+[2023-04-04 12:55:26] local.INFO: Before base_shipping_cost price: 90  
+[2023-04-04 12:55:26] local.INFO: After base_shipping_cost price: 109.57  
+[2023-04-04 12:55:26] local.INFO: Before packaging_and_material price: 109.57  
+[2023-04-04 12:55:26] local.INFO: After packaging_and_material  price: 110.52  
+[2023-04-04 12:55:26] local.INFO: Before price block markup_total_cost: 110.52  
+[2023-04-04 12:55:26] local.INFO: After price block markup_total_cost: 110.52  
+[2023-04-04 12:55:26] local.INFO: Final Price Cost: 110.52  
+[2023-04-04 12:55:26] local.INFO: *********************************************  
+[2023-04-04 12:55:27] local.INFO: ETIN: ETFZ-1001-6655  
+[2023-04-04 12:55:27] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After coolant_cost price: 10  
+[2023-04-04 12:55:27] local.INFO: Before product_cost price: 10  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:27] local.INFO: After product_cost price: 10  
+[2023-04-04 12:55:27] local.INFO: Before acquisition_cost price: 10  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:27] local.INFO: After acquisition_cost price: 10  
+[2023-04-04 12:55:27] local.INFO: Before base_shipping_cost price: 10  
+[2023-04-04 12:55:27] local.INFO: After base_shipping_cost price: 26.85  
+[2023-04-04 12:55:27] local.INFO: Before packaging_and_material price: 26.85  
+[2023-04-04 12:55:27] local.INFO: After packaging_and_material  price: 28.1  
+[2023-04-04 12:55:27] local.INFO: Before price block markup_total_cost: 28.1  
+[2023-04-04 12:55:27] local.INFO: After price block markup_total_cost: 28.1  
+[2023-04-04 12:55:27] local.INFO: Final Price Cost: 28.1  
+[2023-04-04 12:55:27] local.INFO: *********************************************  
+[2023-04-04 12:55:27] local.INFO: ETIN: ETFZ-1000-1146  
+[2023-04-04 12:55:27] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After coolant_cost price: 10  
+[2023-04-04 12:55:27] local.INFO: Before product_cost price: 10  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:27] local.INFO: After product_cost price: 10  
+[2023-04-04 12:55:27] local.INFO: Before acquisition_cost price: 10  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:27] local.INFO: After acquisition_cost price: 15  
+[2023-04-04 12:55:27] local.INFO: Before base_shipping_cost price: 15  
+[2023-04-04 12:55:27] local.INFO: After base_shipping_cost price: 27.94  
+[2023-04-04 12:55:27] local.INFO: Before packaging_and_material price: 27.94  
+[2023-04-04 12:55:27] local.INFO: After packaging_and_material  price: 29.19  
+[2023-04-04 12:55:27] local.INFO: Before price block markup_total_cost: 29.19  
+[2023-04-04 12:55:27] local.INFO: After price block markup_total_cost: 29.19  
+[2023-04-04 12:55:27] local.INFO: Final Price Cost: 29.19  
+[2023-04-04 12:55:27] local.INFO: *********************************************  
+[2023-04-04 12:55:27] local.INFO: ETIN: ETDF-1000-1205  
+[2023-04-04 12:55:27] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:27] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:27] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:27] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:27] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: *********************************************  
+[2023-04-04 12:55:27] local.INFO: ETIN: ETDF-1000-1185  
+[2023-04-04 12:55:27] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:27] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:27] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:27] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:27] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: *********************************************  
+[2023-04-04 12:55:27] local.INFO: ETIN: ETDF-1000-1184  
+[2023-04-04 12:55:27] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:27] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:27] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:27] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:27] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: *********************************************  
+[2023-04-04 12:55:27] local.INFO: ETIN: ETDF-1000-1183  
+[2023-04-04 12:55:27] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:27] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:27] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:27] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:27] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: *********************************************  
+[2023-04-04 12:55:27] local.INFO: ETIN: ETDF-1000-1182  
+[2023-04-04 12:55:27] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:27] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:27] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After base_shipping_cost price: 11.01  
+[2023-04-04 12:55:27] local.INFO: Before packaging_and_material price: 11.01  
+[2023-04-04 12:55:27] local.INFO: After packaging_and_material  price: 11.96  
+[2023-04-04 12:55:27] local.INFO: Before price block markup_total_cost: 11.96  
+[2023-04-04 12:55:27] local.INFO: After price block markup_total_cost: 11.96  
+[2023-04-04 12:55:27] local.INFO: Final Price Cost: 11.96  
+[2023-04-04 12:55:27] local.INFO: *********************************************  
+[2023-04-04 12:55:27] local.INFO: ETIN: ETDF-1000-1181  
+[2023-04-04 12:55:27] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:27] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:27] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After base_shipping_cost price: 11.01  
+[2023-04-04 12:55:27] local.INFO: Before packaging_and_material price: 11.01  
+[2023-04-04 12:55:27] local.INFO: After packaging_and_material  price: 11.96  
+[2023-04-04 12:55:27] local.INFO: Before price block markup_total_cost: 11.96  
+[2023-04-04 12:55:27] local.INFO: After price block markup_total_cost: 11.96  
+[2023-04-04 12:55:27] local.INFO: Final Price Cost: 11.96  
+[2023-04-04 12:55:27] local.INFO: *********************************************  
+[2023-04-04 12:55:27] local.INFO: ETIN: ETDF-1000-1191  
+[2023-04-04 12:55:27] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:27] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:27] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:27] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:27] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: *********************************************  
+[2023-04-04 12:55:27] local.INFO: ETIN: ETDF-1000-1190  
+[2023-04-04 12:55:27] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:27] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:27] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:27] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:27] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: *********************************************  
+[2023-04-04 12:55:27] local.INFO: ETIN: ETDF-1000-1192  
+[2023-04-04 12:55:27] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:27] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:27] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:27] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:27] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: *********************************************  
+[2023-04-04 12:55:27] local.INFO: ETIN: ETDF-1000-1206  
+[2023-04-04 12:55:27] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:27] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:27] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:27] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:27] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: *********************************************  
+[2023-04-04 12:55:27] local.INFO: ETIN: ETDF-1000-1215  
+[2023-04-04 12:55:27] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:27] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:27] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:27] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:27] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: *********************************************  
+[2023-04-04 12:55:27] local.INFO: ETIN: ETDF-1000-1214  
+[2023-04-04 12:55:27] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:27] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:27] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:27] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:27] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: *********************************************  
+[2023-04-04 12:55:27] local.INFO: ETIN: ETDF-1000-1213  
+[2023-04-04 12:55:27] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:27] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:27] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:27] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:27] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: *********************************************  
+[2023-04-04 12:55:27] local.INFO: ETIN: ETDF-1000-1212  
+[2023-04-04 12:55:27] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:27] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:27] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:27] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:27] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: *********************************************  
+[2023-04-04 12:55:27] local.INFO: ETIN: ETDF-1000-1211  
+[2023-04-04 12:55:27] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:27] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:27] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:27] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:27] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: *********************************************  
+[2023-04-04 12:55:27] local.INFO: ETIN: ETDF-1000-1210  
+[2023-04-04 12:55:27] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:27] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:27] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:27] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:27] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: *********************************************  
+[2023-04-04 12:55:27] local.INFO: ETIN: ETDF-1000-1209  
+[2023-04-04 12:55:27] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:27] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:27] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:27] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:27] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: *********************************************  
+[2023-04-04 12:55:27] local.INFO: ETIN: ETDF-1000-1208  
+[2023-04-04 12:55:27] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:27] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:27] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:27] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:27] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: *********************************************  
+[2023-04-04 12:55:27] local.INFO: ETIN: ETDF-1000-1207  
+[2023-04-04 12:55:27] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:27] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:27] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:27] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:27] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:27] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:27] local.INFO: *********************************************  
+[2023-04-04 12:55:28] local.INFO: ETIN: ETDF-1000-1204  
+[2023-04-04 12:55:28] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:28] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:28] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:28] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:28] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: *********************************************  
+[2023-04-04 12:55:28] local.INFO: ETIN: ETDF-1000-1193  
+[2023-04-04 12:55:28] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:28] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:28] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:28] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:28] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: *********************************************  
+[2023-04-04 12:55:28] local.INFO: ETIN: ETDF-1000-1203  
+[2023-04-04 12:55:28] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:28] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:28] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:28] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:28] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: *********************************************  
+[2023-04-04 12:55:28] local.INFO: ETIN: ETDF-1000-1202  
+[2023-04-04 12:55:28] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:28] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:28] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:28] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:28] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: *********************************************  
+[2023-04-04 12:55:28] local.INFO: ETIN: ETDF-1000-1201  
+[2023-04-04 12:55:28] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:28] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:28] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:28] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:28] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: *********************************************  
+[2023-04-04 12:55:28] local.INFO: ETIN: ETDF-1000-1200  
+[2023-04-04 12:55:28] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:28] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:28] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:28] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:28] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: *********************************************  
+[2023-04-04 12:55:28] local.INFO: ETIN: ETDF-1000-1199  
+[2023-04-04 12:55:28] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:28] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:28] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:28] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:28] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: *********************************************  
+[2023-04-04 12:55:28] local.INFO: ETIN: ETDF-1000-1198  
+[2023-04-04 12:55:28] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:28] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:28] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:28] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:28] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: *********************************************  
+[2023-04-04 12:55:28] local.INFO: ETIN: ETDF-1000-1197  
+[2023-04-04 12:55:28] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:28] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:28] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After base_shipping_cost price: 11.01  
+[2023-04-04 12:55:28] local.INFO: Before packaging_and_material price: 11.01  
+[2023-04-04 12:55:28] local.INFO: After packaging_and_material  price: 11.96  
+[2023-04-04 12:55:28] local.INFO: Before price block markup_total_cost: 11.96  
+[2023-04-04 12:55:28] local.INFO: After price block markup_total_cost: 11.96  
+[2023-04-04 12:55:28] local.INFO: Final Price Cost: 11.96  
+[2023-04-04 12:55:28] local.INFO: *********************************************  
+[2023-04-04 12:55:28] local.INFO: ETIN: ETDF-1000-1196  
+[2023-04-04 12:55:28] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:28] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:28] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After base_shipping_cost price: 14.03  
+[2023-04-04 12:55:28] local.INFO: Before packaging_and_material price: 14.03  
+[2023-04-04 12:55:28] local.INFO: After packaging_and_material  price: 14.98  
+[2023-04-04 12:55:28] local.INFO: Before price block markup_total_cost: 14.98  
+[2023-04-04 12:55:28] local.INFO: After price block markup_total_cost: 14.98  
+[2023-04-04 12:55:28] local.INFO: Final Price Cost: 14.98  
+[2023-04-04 12:55:28] local.INFO: *********************************************  
+[2023-04-04 12:55:28] local.INFO: ETIN: ETDF-1000-1195  
+[2023-04-04 12:55:28] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:28] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:28] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:28] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:28] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: *********************************************  
+[2023-04-04 12:55:28] local.INFO: ETIN: ETDF-1000-1194  
+[2023-04-04 12:55:28] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:28] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:28] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:28] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:28] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: *********************************************  
+[2023-04-04 12:55:28] local.INFO: ETIN: ETDF-1000-1216  
+[2023-04-04 12:55:28] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:28] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:28] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:28] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:28] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: *********************************************  
+[2023-04-04 12:55:28] local.INFO: ETIN: ETDF-1000-1186  
+[2023-04-04 12:55:28] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:28] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:28] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After base_shipping_cost price: 11.01  
+[2023-04-04 12:55:28] local.INFO: Before packaging_and_material price: 11.01  
+[2023-04-04 12:55:28] local.INFO: After packaging_and_material  price: 11.96  
+[2023-04-04 12:55:28] local.INFO: Before price block markup_total_cost: 11.96  
+[2023-04-04 12:55:28] local.INFO: After price block markup_total_cost: 11.96  
+[2023-04-04 12:55:28] local.INFO: Final Price Cost: 11.96  
+[2023-04-04 12:55:28] local.INFO: *********************************************  
+[2023-04-04 12:55:28] local.INFO: ETIN: ETDF-1000-1187  
+[2023-04-04 12:55:28] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:28] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:28] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:28] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:28] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: *********************************************  
+[2023-04-04 12:55:28] local.INFO: ETIN: ETDF-1000-1188  
+[2023-04-04 12:55:28] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:28] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:28] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:28] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:28] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: *********************************************  
+[2023-04-04 12:55:28] local.INFO: ETIN: ETDF-1000-1189  
+[2023-04-04 12:55:28] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:28] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:28] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After base_shipping_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before packaging_and_material price: 0  
+[2023-04-04 12:55:28] local.INFO: After packaging_and_material  price: 0.95  
+[2023-04-04 12:55:28] local.INFO: Before price block markup_total_cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: After price block markup_total_cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: Final Price Cost: 0.95  
+[2023-04-04 12:55:28] local.INFO: *********************************************  
+[2023-04-04 12:55:28] local.INFO: ETIN: ETDF-1000-1224  
+[2023-04-04 12:55:28] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:28] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:28] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After base_shipping_cost price: 15.03  
+[2023-04-04 12:55:28] local.INFO: Before packaging_and_material price: 15.03  
+[2023-04-04 12:55:28] local.INFO: After packaging_and_material  price: 15.98  
+[2023-04-04 12:55:28] local.INFO: Before price block markup_total_cost: 15.98  
+[2023-04-04 12:55:28] local.INFO: After price block markup_total_cost: 15.98  
+[2023-04-04 12:55:28] local.INFO: Final Price Cost: 15.98  
+[2023-04-04 12:55:28] local.INFO: *********************************************  
+[2023-04-04 12:55:28] local.INFO: ETIN: ETBV-1000-1249  
+[2023-04-04 12:55:28] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:28] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:28] local.INFO: After acquisition_cost price: 210  
+[2023-04-04 12:55:28] local.INFO: Before base_shipping_cost price: 210  
+[2023-04-04 12:55:28] local.INFO: After base_shipping_cost price: 210  
+[2023-04-04 12:55:28] local.INFO: Before packaging_and_material price: 210  
+[2023-04-04 12:55:28] local.INFO: After packaging_and_material  price: 212  
+[2023-04-04 12:55:28] local.INFO: Before price block markup_total_cost: 212  
+[2023-04-04 12:55:28] local.INFO: After price block markup_total_cost: 212  
+[2023-04-04 12:55:28] local.INFO: Final Price Cost: 212  
+[2023-04-04 12:55:28] local.INFO: *********************************************  
+[2023-04-04 12:55:28] local.INFO: ETIN: ETBV-1000-1683  
+[2023-04-04 12:55:28] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:28] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:28] local.INFO: After acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before base_shipping_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After base_shipping_cost price: 18.36  
+[2023-04-04 12:55:28] local.INFO: Before packaging_and_material price: 18.36  
+[2023-04-04 12:55:28] local.INFO: After packaging_and_material  price: 20.36  
+[2023-04-04 12:55:28] local.INFO: Before price block markup_total_cost: 20.36  
+[2023-04-04 12:55:28] local.INFO: After price block markup_total_cost: 20.36  
+[2023-04-04 12:55:28] local.INFO: Final Price Cost: 20.36  
+[2023-04-04 12:55:28] local.INFO: *********************************************  
+[2023-04-04 12:55:28] local.INFO: ETIN: ETFZ-1000-1689  
+[2023-04-04 12:55:28] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After coolant_cost price: 10  
+[2023-04-04 12:55:28] local.INFO: Before product_cost price: 10  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:28] local.INFO: After product_cost price: 10  
+[2023-04-04 12:55:28] local.INFO: Before acquisition_cost price: 10  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:28] local.INFO: After acquisition_cost price: 20  
+[2023-04-04 12:55:28] local.INFO: Before base_shipping_cost price: 20  
+[2023-04-04 12:55:28] local.INFO: After base_shipping_cost price: 34  
+[2023-04-04 12:55:28] local.INFO: Before packaging_and_material price: 34  
+[2023-04-04 12:55:28] local.INFO: After packaging_and_material  price: 35.25  
+[2023-04-04 12:55:28] local.INFO: Before price block markup_total_cost: 35.25  
+[2023-04-04 12:55:28] local.INFO: After price block markup_total_cost: 35.25  
+[2023-04-04 12:55:28] local.INFO: Final Price Cost: 35.25  
+[2023-04-04 12:55:28] local.INFO: *********************************************  
+[2023-04-04 12:55:28] local.INFO: ETIN: ETFZ-1000-1691  
+[2023-04-04 12:55:28] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After coolant_cost price: 10  
+[2023-04-04 12:55:28] local.INFO: Before product_cost price: 10  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:28] local.INFO: After product_cost price: 10  
+[2023-04-04 12:55:28] local.INFO: Before acquisition_cost price: 10  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:28] local.INFO: After acquisition_cost price: 20  
+[2023-04-04 12:55:28] local.INFO: Before base_shipping_cost price: 20  
+[2023-04-04 12:55:28] local.INFO: After base_shipping_cost price: 31.33  
+[2023-04-04 12:55:28] local.INFO: Before packaging_and_material price: 31.33  
+[2023-04-04 12:55:28] local.INFO: After packaging_and_material  price: 32.58  
+[2023-04-04 12:55:28] local.INFO: Before price block markup_total_cost: 32.58  
+[2023-04-04 12:55:28] local.INFO: After price block markup_total_cost: 32.58  
+[2023-04-04 12:55:28] local.INFO: Final Price Cost: 32.58  
+[2023-04-04 12:55:28] local.INFO: *********************************************  
+[2023-04-04 12:55:28] local.INFO: ETIN: ETDP-1000-1712  
+[2023-04-04 12:55:28] local.INFO: Before coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: After coolant_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : supplier_cost  
+[2023-04-04 12:55:28] local.INFO: After product_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: Before acquisition_cost price: 0  
+[2023-04-04 12:55:28] local.INFO: masterProductCost() : acquisition_cost  
+[2023-04-04 12:55:28] local.INFO: After acquisition_cost price: 90  
+[2023-04-04 12:55:28] local.INFO: Before base_shipping_cost price: 90  
+[2023-04-04 12:55:28] local.INFO: After base_shipping_cost price: 109.57  
+[2023-04-04 12:55:28] local.INFO: Before packaging_and_material price: 109.57  
+[2023-04-04 12:55:28] local.INFO: After packaging_and_material  price: 110.52  
+[2023-04-04 12:55:28] local.INFO: Before price block markup_total_cost: 110.52  
+[2023-04-04 12:55:28] local.INFO: After price block markup_total_cost: 110.52  
+[2023-04-04 12:55:28] local.INFO: Final Price Cost: 110.52  
+[2023-04-04 12:55:28] local.INFO: *********************************************  

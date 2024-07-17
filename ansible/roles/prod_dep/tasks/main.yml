@@ -1,0 +1,6 @@
+---
+- name: git pull
+  include: git_pull.yml  
+
+- name: deploy cranium
+  include: dep_cranium.yml

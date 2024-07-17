@@ -1,0 +1,139 @@
+#idclass {
+    display: none;
+}
+.separator-breadcrumb {
+    margin-bottom: 4rem !important;
+}
+#content {
+    box-sizing: border-box;
+    box-shadow: 0.1em 0 2em black;
+    min-height: 250px;
+    max-height: 500px;
+    overflow: auto;
+    border-radius: 10px;
+    box-shadow: none;
+}
+#content h2 {
+    font-size: 1.25em;
+    margin-bottom: 0px;
+}
+#content p {
+    margin-bottom: 1em;
+    line-spacing: 1.5;
+}
+
+ul {
+    margin: 0 auto 1em;
+}
+#content li {
+    padding-bottom: 1em;
+}
+
+header {
+    margin: 0 0 1em;
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0.03);
+}
+header h3.w-50.float-left.card-title.m-0 {
+    padding-top: 10px;
+    padding-left: 10px;
+}
+header h1 {
+    float: left;
+}
+header #view-control {
+    float: right;
+}
+.view-grid li {
+    width: 45%;
+    display: inline-grid;
+    height: auto;
+    overflow: auto;
+    padding: 10px;
+    margin: 10px;
+}
+.view-list li {
+    display: block;
+    clear: float;
+    height: auto;
+    overflow: auto;
+    padding: 10px;
+    margin: 10px;
+}
+div#content::-webkit-scrollbar {
+    display: none;
+}
+ul#post-list li::-webkit-scrollbar {
+    display: none;
+}
+/*.active, .btn:hover {
+  background-color: rgba(0,0,0,.03);
+  color: white;
+}*/
+.weather-widget .col-md-3 {
+    float: right;
+}
+.embed-map #logo {
+    display: none;
+}
+.feed-post h2 {
+    font-weight: 800;
+    text-transform: capitalize;
+}
+.byline.feed_auth,
+.byline.feed_auth_modal {
+    font-size: 10px;
+    font-style: italic;
+    color: #cbb;
+}
+.byline.feed_auth_modal {
+    float: left;
+}
+li.feed_single {
+    border: 1px solid #bfbfbd;
+    border-radius: 10px;
+}
+ul#post-list {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.feed_header {
+    text-transform: capitalize;
+}
+.feed_header_modal {
+    text-transform: capitalize;
+    text-align: center;
+}
+button.btn.btn-secondary.cancel-for-feed {
+    float: right;
+}
+
+.dataTable_filter .select2-selection--multiple {
+    padding: 0px;
+    min-height: auto;
+    min-width: 120px;
+}
+
+@media (min-width: 768px) {
+    .modal-dialog {
+        width: 600px;
+        margin: 30px auto;
+    }
+}
+@media (min-width: 992px) {
+    .modal-lg {
+        width: 900px;
+    }
+}
+@media (min-width: 768px) {
+    .modal-xl {
+        width: 90%;
+        max-width: 1200px;
+    }
+}
+
+.custom_readonly {
+    pointer-events: none;
+}
+
